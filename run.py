@@ -1,7 +1,9 @@
+from app.src import url_scrapper
+from json import load
+
+
 def main():
-    # add_all()
-    if not {}:
-        print("XD")
+    url_scrapper.
 
 
 if __name__ == "__main__":

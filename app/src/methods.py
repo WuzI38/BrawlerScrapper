@@ -6,7 +6,17 @@ from traceback import format_exc
 
 def add_decks(handler: DBHandler, host: str = 'localhost', mtgdecks: bool = True,
               limit_days: int = -1, start_page: int = 1, print_page: bool = False):
+    """
+        Adds multiple decks to the database
 
+        Args:
+            handler (DBHandler): The handler for the database connection
+            host (str): The ip address of the database (or localhost by default)
+            mtgdecks (bool): True if the data come from mtg decks
+            limit_days (int): Days between the day the deck was published and today
+            start_page (int): The initial page number used by the data scrapper
+            print_page (bool): If True prints page number
+    """
     if not handler.cursor_set():
         handler = DBHandler()
         handler.connect(database='Brawler', host=host)
@@ -68,6 +78,9 @@ def add_decks(handler: DBHandler, host: str = 'localhost', mtgdecks: bool = True
 
 
 def dbh_init() -> DBHandler:
+    """
+        Initializes database connection
+    """
     dbh = DBHandler()
 
     config = ConfigParser()
@@ -81,6 +94,12 @@ def dbh_init() -> DBHandler:
 
 
 def add_recent(host: str = 'localhost'):
+    """
+        Scraps most recent data (one day)
+
+        Args:
+            host (str): The ip address of the database (or localhost by default)
+    """
     dbh = dbh_init()
 
     add_decks(handler=dbh, host=host, mtgdecks=True, limit_days=1)
@@ -88,6 +107,13 @@ def add_recent(host: str = 'localhost'):
 
 
 def add_all(host: str = 'localhost', start_page: int = 1):
+    """
+        Scraps data for as long as it's possible
+
+        Args:
+            host (str): The ip address of the database (or localhost by default)
+            start_page (int): The initial page number used by the data scrapper
+    """
     dbh = dbh_init()
 
     add_decks(handler=dbh, host=host, mtgdecks=True, start_page=start_page, print_page=True)
@@ -95,6 +121,13 @@ def add_all(host: str = 'localhost', start_page: int = 1):
 
 
 def add_test(host: str = 'localhost', mtgdecks: bool = True):
+    """
+        Scraps data from one page only
+
+        Args:
+            host (str): The ip address of the database (or localhost by default)
+            mtgdecks (int): If True uses mtgdecks as a source (default)
+    """
     dbh = dbh_init()
 
     add_decks(handler=dbh, host=host, mtgdecks=mtgdecks, limit_days=1)

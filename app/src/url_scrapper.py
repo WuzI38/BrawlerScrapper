@@ -4,11 +4,14 @@ import requests
 from bs4 import BeautifulSoup, Tag
 
 
-def get_deck_data_aetherhub(page_number: int, limit_days: int = -1) -> list:
+def get_aetherhub_decks(page_number: int) -> str:
     url = f'https://aetherhub.com/MTGA-Decks/Historic-Brawl/?p={page_number}'
     page = requests.get(url)
+    return page.text
 
-    soup = BeautifulSoup(page.text, 'html.parser')
+
+def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
+    soup = BeautifulSoup(page_text, 'html.parser')
     rows = soup.find_all('tr', class_='ae-tbody-deckrow')
 
     deck_data = []
@@ -41,7 +44,12 @@ def get_deck_data_aetherhub(page_number: int, limit_days: int = -1) -> list:
     return deck_data
 
 
-def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
+def get_deck_data_aetherhub(page_number: int, limit_days: int = -1) -> list:
+    text = get_aetherhub_decks(page_number)
+    return create_aetherhub_deck_list(text, limit_days)
+
+
+def get_mtgdecks_decks(page_number: int) -> str:
     url = f'https://mtgdecks.net/Historic-Brawl/decklists/page:{page_number}'
     session = requests.Session()
     headers = {
@@ -49,7 +57,11 @@ def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
                       'Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
     }
     page = session.get(url, headers=headers)
-    soup = BeautifulSoup(page.text, 'html.parser')
+    return page.text
+
+
+def create_mtg_deck_list(page_text: str, limit_days: int = -1) -> list:
+    soup = BeautifulSoup(page_text, 'html.parser')
 
     rows = soup.find_all('tr')
 
@@ -92,9 +104,18 @@ def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
     return deck_info_list
 
 
-def get_deck_list_aetherhub(deck_url: str, replace_arena_only: bool = False) -> dict:
+def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
+    text = get_mtgdecks_decks(page_number)
+    return create_mtg_deck_list(text, limit_days)
+
+
+def get_single_deck_data_aetherhub(deck_url: str) -> str:
     page = requests.get(deck_url)
-    soup = BeautifulSoup(page.text, 'html.parser')
+    return page.text
+
+
+def create_aetherhub_single_deck_dict(page_text: str, replace_arena_only: bool = False) -> dict:
+    soup = BeautifulSoup(page_text, 'html.parser')
 
     try:
         first_table = soup.find_all('table')[0]
@@ -136,14 +157,23 @@ def get_deck_list_aetherhub(deck_url: str, replace_arena_only: bool = False) -> 
     return {'Commander': commander_name, 'Decklist': decklist}
 
 
-def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> dict:
+def get_deck_list_aetherhub(deck_url: str, replace_arena_only: bool = False) -> dict:
+    text = get_single_deck_data_aetherhub(deck_url)
+    return create_aetherhub_single_deck_dict(text, replace_arena_only)
+
+
+def get_single_deck_data_mtgdecks(deck_url: str) -> str:
     session = requests.Session()
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ' +
                       'Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
     }
     page = session.get(deck_url, headers=headers)
-    soup = BeautifulSoup(page.text, 'html.parser')
+    return page.text
+
+
+def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = False) -> dict:
+    soup = BeautifulSoup(page_text, 'html.parser')
 
     try:
         tables = soup.find_all('table')
@@ -179,6 +209,11 @@ def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> di
                 continue
 
     return {'Commander': commander_name, 'Decklist': decklist}
+
+
+def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> dict:
+    text = get_single_deck_data_mtgdecks(deck_url)
+    return create_mtgdecks_single_deck_dict(text, replace_arena_only)
 
 
 def is_number_after_dash(s: str) -> bool:

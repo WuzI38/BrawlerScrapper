@@ -11,9 +11,18 @@ class DBHandler:
         self._cursor = None
 
     def connect(self, database: str, host: str = 'localhost', user: str = '', password: str = ''):
+        """
+            Connects to a database
+
+            Args:
+                database (str): The name the card database
+                host (func): The ip address of the database (or localhost by default)
+                user (str): Database username
+                password (str): Database password
+        """
         if user == '' and password == '':
             config = ConfigParser()
-            config.read('config.ini')
+            config.read('config/config.ini')
 
             user = config['database']['user']
             password = config['database']['password']
@@ -23,6 +32,12 @@ class DBHandler:
         self._cursor = self._cnx.cursor()
 
     def insert_new_card(self, card_name: str):
+        """
+            Inserts a new MTG card to a database
+
+            Args:
+                card_name (str): The name of the MTG card
+        """
         self._cursor.execute("SELECT * FROM Cards WHERE name = %s", (card_name,))
         card_exists = self._cursor.fetchone()
 
@@ -39,6 +54,15 @@ class DBHandler:
                     print(f'Error: {err}')
 
     def insert_commander(self, commander_name: str, colors: str, wins: int = 0, losses: int = 0):
+        """
+            Inserts a new MTG card to a database
+
+            Args:
+                commander_name (str): The name of the MTG commander
+                colors (str): The colors of the chosen commander
+                wins (int): The number of games won by the players playing the chosen commander
+                losses (int): The number of games lost by the players playing the chosen commander
+        """
         self._cursor.execute("SELECT id FROM Cards WHERE name = %s", (commander_name,))
         commander_id = self._cursor.fetchone()
         if commander_id:
@@ -56,6 +80,13 @@ class DBHandler:
                 self._cnx.commit()
 
     def add_card_to_commander(self, card_name: str, commander_name: str):
+        """
+            Assigns a card to the chosen commander
+
+            Args:
+                card_name (str): The name of the MTG card
+                commander_name (str): The name of the MTG commander
+        """
         self._cursor.execute("SELECT id FROM Cards WHERE name = %s", (card_name,))
         card_id = self._cursor.fetchone()
         self._cursor.execute("SELECT id FROM Commanders WHERE card_id = (SELECT id FROM Cards WHERE name = %s)",
