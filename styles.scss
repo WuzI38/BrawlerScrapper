@@ -1,0 +1,203 @@
+// Variables
+$font-size: 16px;
+$title-size: $font-size * 2;
+$section-title-size: $font-size * 1.5;
+
+$background-color: #f0f0f0; 
+$section-color: #d0d0d0; 
+$title-color: #b0b0b0; 
+$border-color: #000; 
+$section-first-color: #EDF61A57;
+$section-second-color: #1AF6B54A;
+$section-third-color: #1A35F64F;
+
+$border-width: 1px;
+$default-space: 25px;
+$padding-subsection: 15px;
+$padding-subsection-title: 10px;
+$menu-icon-size: 30px;
+$logo-icon-size: 50px;
+
+$logo-icon: 'logo.png';
+$menu-icon: 'menu.png';
+
+$columns: 12;
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Lucida Sans", Verdana, sans-serif;
+}
+
+body {
+    font-size: $font-size;
+    background-color: $background-color;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-padding {
+    padding: $default-space;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    
+    .logo {
+        background: url($logo-icon) no-repeat center / contain;
+        width: $logo-icon-size;
+        height: $logo-icon-size;
+        margin-right: $default-space;
+    }
+    
+    .title {
+        font-size: $title-size;
+        margin-right: auto;
+    }
+    
+    ul {
+        display: flex;
+        list-style-type: none;
+      
+        li {
+            margin-left: $default-space;
+            padding: 0;
+        }
+    }
+
+    .menu-icon {
+        display: block;
+        background: url($menu-icon) no-repeat center / contain;
+        width: $menu-icon-size;
+        height: $menu-icon-size;
+        margin-right: 0px;
+        margin-left: auto;
+    }
+}
+  
+.section {
+    box-sizing: border-box;
+    background-color: $section-color;
+    flex: 1;
+    border: 1px solid $border-color;
+    margin-top: $default-space;
+    float: left;
+  
+    .title {
+        box-sizing: border-box;
+        background-color: $title-color;
+        width: 50%;
+        border-left: 1px solid $border-color;
+        border-bottom: 1px solid $border-color;
+        text-align: center;
+        padding: $padding-subsection-title;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: auto;
+    }
+
+    p {
+        padding-inline: $padding-subsection;
+        text-align: justify;
+    }
+}
+
+.section:nth-child(1) .title{
+    background-color: $section-first-color;
+}
+
+.section:nth-child(2) .title{
+    background-color: $section-second-color;
+}
+
+.section:nth-child(3) .title{
+    background-color: $section-third-color;
+}
+
+@media (min-width: 1024px) {
+    .section {
+        margin-right: $default-space;
+    }
+
+    @for $i from 1 through $columns {
+        .lg-#{$i} {
+            width: calc((#{$i} / $columns) * 100% - (($columns / #{$i} - 1) / ($columns / #{$i})) * $default-space);
+        }
+    }
+
+    .section:last-child {
+        margin-right: 0;
+    }
+
+    nav .menu-icon {
+        display: none;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1023px) {
+    @for $i from 1 through $columns {
+        .md-#{$i} {
+            width: calc((#{$i} / $columns) * 100% - (($columns / #{$i} - 1) / ($columns / #{$i})) * $default-space);
+        }
+    }
+
+    .section:first-child {
+        width: 100%;
+    }
+
+    .section:first-child .title {
+        width: calc(25% - 0.25 * $default-space);
+    }
+
+    .section:nth-child(2) {
+        margin-right: $default-space;
+    }
+  
+    nav ul {
+        display: none;
+    }
+}
+
+@media (max-width: 599px) {
+    @for $i from 1 through $columns {
+        .sm-#{$i} {
+            width: calc((#{$i} / $columns) * 100% - (($columns / #{$i} - 1) / ($columns / #{$i})) * $default-space);
+        }
+    }
+
+    .section {
+        width: 100%;
+    }
+  
+    nav .title {
+        display: none;
+    }
+  
+    nav ul {
+        display: none;
+    }
+}
+
+footer {
+    width: 100%; 
+    box-sizing: border-box; 
+    background-color: $section-color;
+    border: $border-width solid $border-color;
+    padding: $default-space;
+    text-align: center;
+    position: relative; 
+    clear: both;
+    margin-top: auto;
+
+    p {
+        margin: 0;
+    }
+}
