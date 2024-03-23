@@ -1,8 +1,8 @@
-from configparser import ConfigParser
 import mysql.connector
 from app.src.api_handler import get_card_info
 from mysql.connector import errorcode
 from time import sleep
+from configparser import ConfigParser
 
 
 class DBHandler:
@@ -10,7 +10,7 @@ class DBHandler:
         self._cnx = None
         self._cursor = None
 
-    def connect(self, database: str, host: str = 'localhost', user: str = '', password: str = ''):
+    def connect(self, database: str = '', host: str = 'localhost', user: str = '', password: str = ''):
         """
             Connects to a database
 
@@ -20,12 +20,8 @@ class DBHandler:
                 user (str): Database username
                 password (str): Database password
         """
-        if user == '' and password == '':
-            config = ConfigParser()
-            config.read('config/config.ini')
-
-            user = config['database']['user']
-            password = config['database']['password']
+        if user == '' or password == '' or database == '':
+            user, password, database, _ = get_database_config()
 
         self._cnx = mysql.connector.connect(user=user, password=password,
                                             host=host, database=database)
@@ -106,3 +102,29 @@ class DBHandler:
 
     def cursor_set(self) -> bool:
         return self._cursor is not None
+
+    def disconnect(self):
+        self._cnx.close()
+
+
+def get_database_config() -> tuple:
+    """
+        Sets up default connection config
+    """
+    default_config = ('root', 'root', 'Brawler', 'localhost')
+    try:
+        config = ConfigParser()
+        config.read('config/config.ini')
+
+        if 'database' in config:
+            user = config['database'].get('user', 'root')
+            password = config['database'].get('password', 'root')
+            name = config['database'].get('name', 'Brawler')
+            host = config['database'].get('host', 'localhost')
+            return user, password, name, host
+    except FileNotFoundError:
+        pass
+    except KeyError:
+        pass
+
+    return default_config

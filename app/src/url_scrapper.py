@@ -1,5 +1,4 @@
 from datetime import datetime, timedelta
-
 import requests
 from bs4 import BeautifulSoup, Tag
 
@@ -22,7 +21,8 @@ def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
 
         Args:
             page_text (int): The text of an aetherhub page
-            limit_days (int): Days between the day the deck was published and today
+            limit_days (int): Days between the day the deck was published and today. Works only for decks not older
+            than one month
     """
     soup = BeautifulSoup(page_text, 'html.parser')
     rows = soup.find_all('tr', class_='ae-tbody-deckrow')
@@ -33,8 +33,17 @@ def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
         for row in rows:
             if limit_days > 0:
                 days = row.find_all('td', class_='text-right')[0].text.split()
-                if days[1] == 'days' and int(days[0]) > limit_days:
-                    break
+                if limit_days == 1:
+                    if days[1][0] == 'd' or days[1][0:2] == 'mo' or days[1][0] == 'y':  # Only hour or hours qualified
+                        break  # mo added, so that minutes are also included
+                elif limit_days == 2:
+                    if days[1] == 'days' or days[1][0] == 'm' or days[1][0] == 'y' or days[1][0] == 'h':  # Only day
+                        break
+                else:
+                    if days[1] == 'days' and int(days[0]) > limit_days - 1:  # Only days (in given range)
+                        break
+                    if days[1][0] == 'm' or days[1][0] == 'y' or days[1][0] == 'h':  # Only days, not hour, month, year
+                        break
 
             deck = dict()
             deck['Link'] = 'https://aetherhub.com' + row.find('a')['href']
@@ -48,7 +57,7 @@ def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
 
             win_loss = row.find_all('td', class_='text-center')[-1].text.split(': ')[1].split(' - ')
             deck['Wins'] = win_loss[0].split()[0]
-            deck['Loses'] = win_loss[1].split()[0]
+            deck['Losses'] = win_loss[1].split()[0]
 
             deck_data.append(deck)
     except Exception as e:
@@ -129,6 +138,8 @@ def create_mtgdecks_deck_list(page_text: str, limit_days: int = -1) -> list:
 
             deck['Link'] = f'https://mtgdecks.net{link}'
             deck['Colors'] = colors
+            deck['Wins'] = 0
+            deck['Losses'] = 0
 
             deck_info_list.append(deck)
         except Exception as e:

@@ -1,80 +1,90 @@
-from url_scrapper import *
-from app.src.db_handler import DBHandler
-from configparser import ConfigParser
+from app.src.url_scrapper import *
+from app.src.db_handler import DBHandler, get_database_config
 from traceback import format_exc
 
 
-def add_decks(handler: DBHandler, host: str = 'localhost', mtgdecks: bool = True,
-              limit_days: int = -1, start_page: int = 1, print_page: bool = False):
+def scrap_single_page(page_number: int, mtgdecks: bool = True, limit_days: int = -1) -> list:
     """
-        Adds multiple decks to the database
+        Scraps single page from given source
 
         Args:
-            handler (DBHandler): The handler for the database connection
-            host (str): The ip address of the database (or localhost by default)
-            mtgdecks (bool): True if the data come from mtg decks
-            limit_days (int): Days between the day the deck was published and today
-            start_page (int): The initial page number used by the data scrapper
-            print_page (bool): If True prints page number
+            page_number (int): The number of the chosen page
+            mtgdecks (bool): If true choose mtgdecks, else choose aetherhub
+            limit_days (int): Scraps only data not older than limit_days, if mtgdecks is false max limit is one month
+    """
+    if mtgdecks:
+        if limit_days > 0:
+            data = get_deck_data_mtgdecks(page_number=page_number, limit_days=limit_days)
+        else:
+            data = get_deck_data_mtgdecks(page_number=page_number)
+    else:
+        if limit_days > 0:
+            data = get_deck_data_aetherhub(page_number=page_number, limit_days=limit_days)
+        else:
+            data = get_deck_data_aetherhub(page_number=page_number)
+
+    return data
+
+
+def extract_deck_data(deck: dict) -> tuple:
+    """
+        Extracts deck stats and link to decklist from a dictionary
+
+        Args:
+            deck (dict): Decks, data stored in dictionary
+    """
+    if not deck:
+        return ()
+
+    try:
+        link = deck["Link"]
+        colors = deck["Colors"]
+        wins = deck["Wins"]
+        losses = deck["Losses"]
+        my_dict = get_deck_list_aetherhub(link)
+
+        if not my_dict:
+            return ()
+    except KeyError:
+        return ()
+
+    value_list = list(my_dict.values())
+    return value_list, colors, wins, losses
+
+
+def add_deck_to_db(handler: DBHandler, value_list: list, colors: str, wins: int, losses: int, print_info=False):
+    """
+        Adds chosen deck to the database
+
+        Args:
+            handler (DBHandler): Database connector
+            value_list (list): List containing commander name and the names of every single card
+            colors (str): Commander's colors
+            wins (int): Matches won by given deck, 0 by default
+            losses (int): Matches lost by given deck, 0 by default
+            print_info (bool): Prints helpful info if true
     """
     if not handler.cursor_set():
         handler = DBHandler()
-        handler.connect(database='Brawler', host=host)
+        handler.connect()
 
-    page = start_page
-    finished = False
-
-    while not finished:
-        if mtgdecks:
-            if limit_days > 0:
-                data = get_deck_data_mtgdecks(page_number=page, limit_days=limit_days)
-            else:
-                data = get_deck_data_mtgdecks(page_number=page)
-        else:
-            if limit_days > 0:
-                data = get_deck_data_aetherhub(page_number=page, limit_days=limit_days)
-            else:
-                data = get_deck_data_aetherhub(page_number=page)
-
-        if print_page:
-            print(page)
-        page += 1
-
-        for deck in data:
-            if not data:
-                finished = True
-                break
-
-            link = deck["Link"]
-            colors = deck["Colors"]
-
-            if mtgdecks:
-                wins = 0
-                losses = 0
-                my_dict = get_deck_list_mtgdecks(link)
-            else:
-                wins = deck["Wins"]
-                losses = deck["Loses"]
-                my_dict = get_deck_list_aetherhub(link)
-
-            if not my_dict:
-                continue
-
-            value_list = list(my_dict.values())
-
-            if len(value_list) == 2 and len(value_list[1]) > 0:
-                try:
-                    commander_name = value_list[0]
-                    handler.insert_commander(commander_name=commander_name, colors=colors, wins=wins, losses=losses)
-                    for card in value_list[1]:
-                        handler.insert_new_card(card_name=card)
-                        handler.add_card_to_commander(card_name=card, commander_name=commander_name)
-                except Exception as e:
-                    with open('logs.txt', 'a') as f:
-                        now = datetime.now()
-                        current_time = now.strftime("%d-%m-%Y %H:%M:%S")
-                        f.write(f'\n{current_time} - Error occurred: {str(e)}\n')
-                        f.write(format_exc())
+    if len(value_list) == 2 and len(value_list[1]) > 0:
+        try:
+            commander_name = value_list[0]
+            handler.insert_commander(commander_name=commander_name, colors=colors, wins=wins, losses=losses)
+            if print_info:
+                print(f'Commander added: {commander_name}')
+            for card in value_list[1]:
+                handler.insert_new_card(card_name=card)
+                handler.add_card_to_commander(card_name=card, commander_name=commander_name)
+                if print_info:
+                    print(f'Card added: {card}')
+        except Exception as e:
+            with open('logs.txt', 'a') as f:
+                now = datetime.now()
+                current_time = now.strftime("%d-%m-%Y %H:%M:%S")
+                f.write(f'\n{current_time} - Error occurred: {str(e)}\n')
+                f.write(format_exc())
 
 
 def dbh_init() -> DBHandler:
@@ -83,51 +93,8 @@ def dbh_init() -> DBHandler:
     """
     dbh = DBHandler()
 
-    config = ConfigParser()
-    config.read('config.ini')
+    user, password, database_name, host = get_database_config()
 
-    database_name = config['database']['name']
-
-    dbh.connect(database=database_name)
+    dbh.connect(database=database_name, user=user, password=password, host=host)
 
     return dbh
-
-
-def add_recent(host: str = 'localhost'):
-    """
-        Scraps most recent data (one day)
-
-        Args:
-            host (str): The ip address of the database (or localhost by default)
-    """
-    dbh = dbh_init()
-
-    add_decks(handler=dbh, host=host, mtgdecks=True, limit_days=1)
-    add_decks(handler=dbh, host=host, mtgdecks=False, limit_days=1)
-
-
-def add_all(host: str = 'localhost', start_page: int = 1):
-    """
-        Scraps data for as long as it's possible
-
-        Args:
-            host (str): The ip address of the database (or localhost by default)
-            start_page (int): The initial page number used by the data scrapper
-    """
-    dbh = dbh_init()
-
-    add_decks(handler=dbh, host=host, mtgdecks=True, start_page=start_page, print_page=True)
-    add_decks(handler=dbh, host=host, mtgdecks=False, start_page=start_page, print_page=True)
-
-
-def add_test(host: str = 'localhost', mtgdecks: bool = True):
-    """
-        Scraps data from one page only
-
-        Args:
-            host (str): The ip address of the database (or localhost by default)
-            mtgdecks (int): If True uses mtgdecks as a source (default)
-    """
-    dbh = dbh_init()
-
-    add_decks(handler=dbh, host=host, mtgdecks=mtgdecks, limit_days=1, print_page=True)
