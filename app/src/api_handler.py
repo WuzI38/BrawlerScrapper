@@ -3,7 +3,7 @@ import requests
 
 def get_api_data(card_name: str) -> dict:
     """
-        Gets card data as a json object from API
+        Gets card's data as a json object from API
 
         Args:
             card_name (str): The name of an MTG card
@@ -18,7 +18,7 @@ def get_api_data(card_name: str) -> dict:
 
 def get_card_info(card_name: str, api_data_func=get_api_data) -> (str, str):
     """
-        Gets card data as a json object from API
+        Gets card's data as a json object from API
 
         Args:
             card_name (str): The name of an MTG card

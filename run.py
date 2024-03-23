@@ -1,9 +1,11 @@
 from app.src import url_scrapper
-from json import load
+import requests
 
 
 def main():
-    url_scrapper.
+    with open('app/test/pages/AetherhubSingleList.txt', 'w') as f:
+        txt = url_scrapper.get_single_deck_data_aetherhub('https://aetherhub.com/Metagame/Historic-Brawl/Deck/etali-primal-conqueror-1036844')
+        f.write(txt)
 
 
 if __name__ == "__main__":

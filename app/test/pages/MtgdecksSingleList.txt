@@ -1,0 +1,2631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mtgdecks: http://ogp.me/ns/fb/mtgdecks#">
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="0">window.base_url='https://mtgdecks.net/';</script>
+<meta name="description" content="Tajic tournament a Historic-Brawl MTG deck played by RoiHeenok on 2024-03-23" />
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="MTG Decks">
+<meta property="og:title" content="Historic-Brawl Tajic tournament deck by RoiHeenok">
+<meta property="og:url" content="https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361">
+<meta property="og:image" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:secure_url" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:url" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:secure" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:description" content="Tajic tournament a Historic-Brawl MTG deck played by RoiHeenok on 2024-03-23">
+<meta property="article:author" content="MTG Decks">
+<meta property="article:published_time" content="2024-03-23 08:40:53">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="mtgdecks.net">
+<meta name="twitter:title" content="Historic-Brawl Tajic tournament deck by RoiHeenok">
+<meta name="twitter:description" content="Tajic tournament a Historic-Brawl MTG deck played by RoiHeenok on 2024-03-23">
+<meta name="twitter:image" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<style>@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:300;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-300.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-300.woff) format('woff')}@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:400;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-regular.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-regular.woff) format('woff')}@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:700;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-700.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-700.woff) format('woff')}</style>
+<link rel="preload" as="script" href="https://hb.vntsm.com/ab/live/hera/ad-manager.min.js">
+<script data-pagespeed-orig-type="text/javascript" async src="https://hb.vntsm.com/ab/live/hera/ad-manager.min.js" data-site-id="5e4ff9fc0126bd360c521aec" data-mode="scan" type="text/psajs" data-pagespeed-orig-index="1"></script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-3771275146029898?ers=1" nonce="BXlPVV2ddL1Y3eVhiZewSQ" type="text/psajs" data-pagespeed-orig-index="2"></script>
+<script nonce="BXlPVV2ddL1Y3eVhiZewSQ" type="text/psajs" data-pagespeed-orig-index="3">(function(){function signalGooglefcPresent(){if(!window.frames['googlefcPresent']){if(document.body){const iframe=document.createElement('iframe');iframe.style='width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;';iframe.style.display='none';iframe.name='googlefcPresent';document.body.appendChild(iframe);}else{setTimeout(signalGooglefcPresent,0);}}}signalGooglefcPresent();})();</script>
+<meta name="robots" content="max-image-preview:large">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://mtgdecks.net/fonts/glyphicons-halflings-regular.woff">
+
+<meta name="theme-color" content="#212b34">
+
+<meta name="msapplication-navbutton-color" content="#212b34">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="#212b34">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Historic-Brawl Tajic tournament deck by RoiHeenok • MTG DECKS </title>
+<link rel="icon" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/xapple-icon-60x60.png.pagespeed.ic.8VtRVIoiKb.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/xapple-icon-72x72.png.pagespeed.ic.sLiBEVfMS_.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/xapple-icon-76x76.png.pagespeed.ic.ygF7IlavDN.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/xapple-icon-114x114.png.pagespeed.ic.eADtdLP4Wn.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/xapple-icon-120x120.png.pagespeed.ic.d46W0uUWit.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/xapple-icon-144x144.png.pagespeed.ic.UEq0OnqaYE.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/xapple-icon-152x152.png.pagespeed.ic.2G-Y1GODkq.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/xapple-icon-180x180.png.pagespeed.ic.6rRNRZfd76.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/xandroid-icon-192x192.png.pagespeed.ic.oqYDIOiUDZ.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/xfavicon-32x32.png.pagespeed.ic.CFSGMOBLO3.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/xfavicon-96x96.png.pagespeed.ic.TA0foAQ4hH.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="alternate" type="application/rss+xml" title="MTG Decks Tournaments" href="https://mtgdecks.net/events/index.rss?24127897" />
+<link rel="alternate" type="application/rss+xml" title="MTG Decks latest news and articles" href="https://mtgdecks.net/articles/feed.rss" />
+<link rel="manifest" href="/manifest.json">
+<script type="text/psajs" data-pagespeed-orig-index="4">if('serviceWorker'in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('/sw.js');});}</script>
+<meta name="clckd" content="7aa7f89ce7493ec72f57ab11a3c5f9be" />
+<script type="application/ld+json">
+		{
+			"@id": "https://mtgdecks.net/#website",
+			"@context": "http://schema.org",
+			"@type": "WebSite",
+			"name": "MTG DECKS",
+			"alternateName": "Magic the Gathering Top Decks Database",
+			"url": "https://mtgdecks.net",
+			"publisher": {
+				"@id": "https://mtgdecks.net/#organization"
+			},
+			"isAccessibleForFree": true
+		}
+	</script>
+<script type="application/ld+json">
+		{
+			"@id": "https://mtgdecks.net/#organization",
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"name": "MTG DECKS",
+			"description": "MTG Decks is focused on compiling the top Magic the Gathering decks around the world and make them easily accessible.",
+			"url": "https://mtgdecks.net",
+			"email": "admin@mtgdecks.net",
+			"logo": "https://mtgdecks.net/img/logoSmall2.svg",
+			"foundingDate": "2010-12-10",
+			"sameAs": [
+				"https://www.facebook.com/mtgdecks",
+				"https://twitter.com/mtgdecks",
+				"https://plus.google.com/+mtgdecksnet",
+				"https://www.wikidata.org/wiki/Q104518471"
+			],
+			"contactPoint": [{
+				"@type": "ContactPoint",
+				"contactType": "Site owner",
+				"email": "admin@mtgdecks.net",
+				"url": "https://mtgdecks.net"
+			}]
+		}
+	</script>
+<script async src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js" type="text/psajs" data-pagespeed-orig-index="5"></script>
+<link rel="canonical" href="https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361">
+<meta property="fb:pages" content="161079100614009" />
+<meta name="viewport" content="width=device-width,height=device-height, initial-scale=1, user-scalable=yes" />
+<meta property="fb:app_id" content="175905932426460" />
+<meta property="fb:admins" content="1344195300" />
+<script data-pagespeed-orig-type="text/javascript" src="/js/jquery-1.11.1.min.js.pagespeed.jm.YSzgc-BSX9.js" type="text/psajs" data-pagespeed-orig-index="6"></script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="7">$(function(){$('.clickable td').css('cursor','pointer');$("table.clickable").on('click','a',function(e){e.stopPropagation();});$(".clickable").on('click','td',function(){url=$(this).closest("tr").find("a").attr('href');if(url!=undefined){window.location.href=url;}else{url=$(this).closest("tr").attr('url');if(url!=undefined){mtgdecks(url);}else{base64url=$(this).closest("tr").find('.linker').attr('goto');if(typeof base64url==='string'||base64url instanceof String){window.location.href=base64.decode(base64url);}}}});});</script>
+<link rel="stylesheet" type="text/css" href="/css/A.bootstrap.min.css+bootstrap-theme.min.css+custom.css+dark.css,Mcc.IswbCuLgOp.css.pagespeed.cf.X6hUu4viNI.css" />
+<link rel="stylesheet" href="https://mtgdecks.net/css/A.font-awesome.min.css.pagespeed.cf.jBrWCt-D4j.css" media="print" data-pagespeed-onload="this.media='all'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<link rel="preload" href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.min.css" as="style" data-pagespeed-onload="this.onload=null;this.rel='stylesheet'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<noscript>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.min.css">
+</noscript>
+<style type="text/css">#pricesbox .btn{padding:2px;border:none;border-radius:0;border-bottom:1px solid #fff}#pricesbox .btn:hover{opacity:.8}#pricesbox .btn .pull-right{display:block;margin-top:3px}</style><style type="text/css">#pricesbox .btn{padding:2px;border:none;border-radius:0;border-bottom:1px solid #fff}#pricesbox .btn:hover{opacity:.8}#pricesbox .btn .pull-right{display:block;margin-top:3px}</style><style type="text/css">.flip{cursor:pointer}#arena_deck{border:none;color:#000;background:#f9f9f9;padding:10px 5px}.rarity.bullet{font-weight:normal;display:block;width:5px;height:5px;border-radius:5px;float:left;margin-top:8px;margin-right:5px}.rarity.C{background-color:#000}.rarity.U{background-color:silver}.rarity.R{background-color:#ffd700}.rarity.M{background-color:#d06d34}.rarity-C{color:#000}.rarity-U{color:silver}.rarity-R{color:#ffd700}.rarity-M{color:#d06d34}</style><style type="text/css">.addToCollection{adisplay:none}.cardItem:hover .addToCollection{display:inline}.addToCollection .plus{padding:1px 3px;border-radius:100%;background:silver;color:#fff;font-size:9px;vertical-align:middle;display:inline-block;line-height:11px}.addToCollection:hover{cursor:pointer}.addToCollection:hover .plus{background:green;color:#fff}.nav-tabs.secondary{background:#8494a1;margin-top:-20px;padding-right:20px;font-weight:500;margin-bottom:20px}.nav-tabs.secondary a,.nav-tabs.secondary .linker{color:#00dbfb;text-decoration:underline}.nav-tabs.secondary img{filter:brightness(.5) invert(0)}.nav-tabs.secondary .btn{border-radius:2px;font-weight:500}.nav-tabs.secondary .btn.active{background:#212b34;color:#fff}.nav-tabs.secondary .btn.active img{filter:brightness(0) invert(1)}.nav-tabs.secondary>li.active>a{background:#f9f9f9!important}</style><style type="text/css">.menu-header{font-size:14px;text-transform:uppercase;padding:5px 10px;color:#fff}</style><style>.fixed-table-container .bs-checkbox,.fixed-table-container .no-records-found{text-align:center}.fixed-table-body thead th .th-inner,.table td,.table th{box-sizing:border-box}.bootstrap-table .table{margin-bottom:0!important;border-bottom:1px solid #ddd;border-collapse:collapse!important;border-radius:1px}.bootstrap-table .table:not(.table-condensed),.bootstrap-table .table:not(.table-condensed)>tbody>tr>td,.bootstrap-table .table:not(.table-condensed)>tbody>tr>th,.bootstrap-table .table:not(.table-condensed)>tfoot>tr>td,.bootstrap-table .table:not(.table-condensed)>tfoot>tr>th,.bootstrap-table .table:not(.table-condensed)>thead>tr>td{padding:8px}.bootstrap-table .table.table-no-bordered>tbody>tr>td,.bootstrap-table .table.table-no-bordered>thead>tr>th{border-right:2px solid transparent}.bootstrap-table .table.table-no-bordered>tbody>tr>td:last-child{border-right:none}.fixed-table-container{position:relative;clear:both;border:1px solid #ddd;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}.fixed-table-container.table-no-bordered{border:1px solid transparent}.fixed-table-footer,.fixed-table-header{overflow:hidden}.fixed-table-footer{border-top:1px solid #ddd}.fixed-table-body{overflow-x:auto;overflow-y:auto;height:100%}.fixed-table-container table{width:100%}.fixed-table-container thead th{height:0;padding:0;margin:0;border-left:1px solid #ddd}.fixed-table-container thead th:focus{outline:transparent solid 0}.fixed-table-container thead th:first-child{border-left:none;border-top-left-radius:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topleft:4px}.fixed-table-container tbody td .th-inner,.fixed-table-container thead th .th-inner{padding:8px;line-height:24px;vertical-align:top;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.fixed-table-container thead th .sortable{cursor:pointer;background-position:right;background-repeat:no-repeat;padding-right:30px}.fixed-table-container thead th .both{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAQAAADYWf5HAAAAkElEQVQoz7X QMQ5AQBCF4dWQSJxC5wwax1Cq1e7BAdxD5SL+Tq/QCM1oNiJidwox0355mXnG/DrEtIQ6azioNZQxI0ykPhTQIwhCR+BmBYtlK7kLJYwWCcJA9M4qdrZrd8pPjZWPtOqdRQy320YSV17OatFC4euts6z39GYMKRPCTKY9UnPQ6P+GtMRfGtPnBCiqhAeJPmkqAAAAAElFTkSuQmCC')}.fixed-table-container thead th .asc{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZ0lEQVQ4y2NgGLKgquEuFxBPAGI2ahhWCsS/gDibUoO0gPgxEP8H4ttArEyuQYxAPBdqEAxPBImTY5gjEL9DM+wTENuQahAvEO9DMwiGdwAxOymGJQLxTyD+jgWDxCMZRsEoGAVoAADeemwtPcZI2wAAAABJRU5ErkJggg==)}.fixed-table-container thead th .desc{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZUlEQVQ4y2NgGAWjYBSggaqGu5FA/BOIv2PBIPFEUgxjB+IdQPwfC94HxLykus4GiD+hGfQOiB3J8SojEE9EM2wuSJzcsFMG4ttQgx4DsRalkZENxL+AuJQaMcsGxBOAmGvopk8AVz1sLZgg0bsAAAAASUVORK5CYII=)}.fixed-table-container th.detail{width:30px}.fixed-table-container tbody td{border-left:1px solid #ddd}.fixed-table-container tbody tr:first-child td{border-top:none}.fixed-table-container tbody td:first-child{border-left:none}.fixed-table-container tbody .selected td{background-color:#f5f5f5}.fixed-table-container .bs-checkbox .th-inner{padding:8px 0}.fixed-table-container input[type=radio],.fixed-table-container input[type=checkbox]{margin:0 auto!important}.fixed-table-pagination .pagination-detail,.fixed-table-pagination div.pagination{margin-top:10px;margin-bottom:10px}.fixed-table-pagination div.pagination .pagination{margin:0}.fixed-table-pagination .pagination a{padding:6px 12px;line-height:1.428571429}.fixed-table-pagination .pagination-info{line-height:34px;margin-right:5px}.fixed-table-pagination .btn-group{position:relative;display:inline-block;vertical-align:middle}.fixed-table-pagination .dropup .dropdown-menu{margin-bottom:0}.fixed-table-pagination .page-list{display:inline-block}.fixed-table-toolbar .columns-left{margin-right:5px}.fixed-table-toolbar .columns-right{margin-left:5px}.fixed-table-toolbar .columns label{display:block;padding:3px 20px;clear:both;font-weight:400;line-height:1.428571429}.fixed-table-toolbar .bs-bars,.fixed-table-toolbar .columns,.fixed-table-toolbar .search{position:relative;margin-top:10px;margin-bottom:10px;line-height:34px}.fixed-table-pagination li.disabled a{pointer-events:none;cursor:default}.fixed-table-loading{display:none;position:absolute;top:42px;right:0;bottom:0;left:0;z-index:99;background-color:#fff;text-align:center}.fixed-table-body .card-view .title{font-weight:700;display:inline-block;min-width:30%;text-align:left!important}.table td,.table th{vertical-align:middle}.fixed-table-toolbar .dropdown-menu{text-align:left;max-height:300px;overflow:auto}.fixed-table-toolbar .btn-group>.btn-group{display:inline-block;margin-left:-1px!important}.fixed-table-toolbar .btn-group>.btn-group>.btn{border-radius:0}.fixed-table-toolbar .btn-group>.btn-group:first-child>.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}.fixed-table-toolbar .btn-group>.btn-group:last-child>.btn{border-top-right-radius:4px;border-bottom-right-radius:4px}.bootstrap-table .table>thead>tr>th{vertical-align:bottom;border-bottom:1px solid #ddd}.bootstrap-table .table thead>tr>th{padding:0;margin:0}.bootstrap-table .fixed-table-footer tbody>tr>td{padding:0!important}.bootstrap-table .fixed-table-footer .table{border-bottom:none;border-radius:0;padding:0!important}.bootstrap-table .pull-right .dropdown-menu{right:0;left:auto}p.fixed-table-scroll-inner{width:100%;height:200px}div.fixed-table-scroll-outer{top:0;left:0;visibility:hidden;width:200px;height:150px;overflow:hidden}.fixed-table-pagination:after,.fixed-table-toolbar:after{content:"";display:block;clear:both}
+span.multiselect-native-select{position:relative}span.multiselect-native-select select{border:0!important;clip:rect(0 0 0 0)!important;height:1px!important;margin:-1px -1px -1px -3px!important;overflow:hidden!important;padding:0!important;position:absolute!important;width:1px!important;left:50%;top:30px}.multiselect-container{position:absolute;list-style-type:none;margin:0;padding:0}.multiselect-container .input-group{margin:5px}.multiselect-container>li{padding:0}.multiselect-container>li>a.multiselect-all label{font-weight:700}.multiselect-container>li.multiselect-group label{margin:0;padding:3px 20px 3px 20px;height:100%;font-weight:700}.multiselect-container>li.multiselect-group-clickable label{cursor:pointer}.multiselect-container>li>a{padding:0}.multiselect-container>li>a>label{margin:0;height:100%;cursor:pointer;font-weight:400;padding:3px 20px 3px 40px}.multiselect-container>li>a>label.radio,.multiselect-container>li>a>label.checkbox{margin:0}.multiselect-container>li>a>label>input[type=checkbox]{margin-bottom:5px}.btn-group>.btn-group:nth-child(2)>.multiselect.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}.form-inline .multiselect-container label.checkbox,.form-inline .multiselect-container label.radio{padding:3px 20px 3px 40px}.form-inline .multiselect-container li a label.checkbox input[type=checkbox],.form-inline .multiselect-container li a label.radio input[type=radio]{margin-left:-20px;margin-right:0}
+</style></head>
+<body class>
+<div id="venatus-ads">
+<div class="vm-placement" data-id="5e539d7edb8f36673d61866d" style="display:none"></div>
+</div>
+<div id="alert-area">
+</div>
+<div class="container" id="main-wrapper">
+<div class="mon-placement loading-mon  visible-lg" data-description="direct-ads-trigger" style="min-height:250px;margin: 0 25px;" id="970x250-dynamic-65fe999fa1155"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=992){document.getElementById('970x250-dynamic-65fe999fa1155').innerHTML='<div data-display-type="hybrid-banner" class="vm-placement" data-id="5e539d8c6daf694420641ae3"></div>'}</script>
+<div id="app">
+<div id="content" style="overflow: hidden;">
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@id": "https://mtgdecks.net/Historic-Brawl",
+				"name": "Historic-Brawl decks"
+			}
+		}, {
+			"@type": "ListItem",
+			"position": 2,
+			"item": {
+				
+					
+				
+
+			}
+		}]
+	}
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "@id": "https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361#article",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361#webpage",
+            "url": "https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361",
+            "isPartOf": {
+                "@id": "https://mtgdecks.net/#website"
+            }
+        },
+        "headline": "Historic-Brawl Tajic tournament deck by RoiHeenok",
+
+        
+
+        "datePublished": "2024-03-23T09:58:07+01:00",
+
+
+        "url": "https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361",
+
+        
+            "image": [{
+                "@type": "ImageObject",
+                "@id": "https://static.mtgdecks.net/decks/1975361.jpg",
+                "url": "https://static.mtgdecks.net/decks/1975361.jpg"
+            }],
+         "publisher": {
+            "@id": "https://mtgdecks.net/#organization"
+        },
+        "description": "Tajic tournament a Historic-Brawl MTG deck played by RoiHeenok on 2024-03-23",
+         "thumbnailUrl": "https://static.mtgdecks.net/decks/1975361.jpg",
+         "dateModified": "2024-03-23T09:58:07+01:00"
+    }
+</script>
+<div class="heading">
+<div class="breadcrumbs pull-left">
+<a href="/">Home</a>
+<span class="glyphicon glyphicon-chevron-right"></span>
+<a href="/Historic-Brawl">MTG Historic-Brawl</a>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</div>
+<div class="omniSwitch pull-right hidden-xs">
+<span class="small" style="display: inline-block;margin-top: 3px;">SHOW PRICES FOR&nbsp;</span>
+<div class="btn-group navbar-right priceSwitcher" role="group">
+<div id="onlineButton" data-format="mtgo" class="btn btn-xs btn-default">
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361','cLFF33dPjd',true,false,'L-d2ddC-T5Q');
+//]]></script><img src="/img/icons/xmtgo_black.png.pagespeed.ic.H3srSg8h7S.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="1373742378" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTGO
+</div>
+<div id="mtgaButton" data-format="arena" class="btn btn-xs btn-default">
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> ARENA
+</div>
+<div id="paperButton" data-format="paper" class="btn btn-xs btn-primary">
+<img src="/img/icons/xmtg.png.pagespeed.ic.S2FSPZPuOM.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="62060803" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> PAPER
+</div>
+</div>
+</div>
+</div>
+<ul class="nav nav-pills text-uppercase" style="height:37px;max-width: 100%;overflow: hidden;overflow-x: auto;white-space: nowrap;display: flex;flex-wrap: nowrap;">
+<li role="presentation" class="active">
+<a href="/Historic-Brawl"> <span class="hidden-xs"><i class="glyphicon glyphicon-signal"></i> Historic-Brawl</span> <span class="hidden-xs">meta</span> <span class="visible-xs">Meta</span></a>
+</li>
+<li role="presentation" class>
+<a href="/Historic-Brawl/tournaments"><span class="hidden-xs"><i class="glyphicon glyphicon-list-alt"></i> Historic-Brawl </span> <span class="hidden-xs">Tournaments</span><span class="visible-xs">Events</span></a>
+</li>
+<li role="presentation" class=" visible-xs">
+<span><span goto="L0hpc3RvcmljLUJyYXdsL2RlY2tsaXN0cw" class="linker">Decks</span></span> </li>
+<li role="presentation" class=" hidden-xs">
+<span><span goto="L0hpc3RvcmljLUJyYXdsL2RlY2tsaXN0cw" class="linker"><i class="glyphicon glyphicon-th-large"></i> Historic-Brawl Decklists</span></span> </li>
+<li role="presentation" class>
+<a href="/Historic-Brawl/staples"><span class="hidden-xs"><i class="fa fa-tags"></i> Historic-Brawl </span> Staples</a>
+</li>
+
+
+</ul>
+<h1>
+Tajic tournament deck, by RoiHeenok</h1>
+<div id="deck-tags-area">
+<a href="/Historic-Brawl/" class="btn btn-default-dark btn-md"><span class="fa fa-circle-thin icon"></span> Historic-Brawl decks</a><a href="/players/roiheenok" class="btn btn-default-dark btn-md"><span class="glyphicon glyphicon-user icon"></span> RoiHeenok</a><span><span goto="aHR0cHM6Ly9hZXRoZXJodWIuY29tL0RlY2svTXRnb0RlY2tFeHBvcnQvMTAzNjc3NQ" class="btn btn-default-dark btn-md linker">aetherhub</span></span></div>
+<div class="row">
+<div class="col-md-8" style="padding-right:0px">
+<div class="deck shadow">
+<div id="sticky-reference" style="padding-bottom: 10px;overflow: auto;">
+</div>
+<div class="deckHeader">
+<div class="row">
+<div class="col-md-6">
+<strong>Tajic tournament.</strong>
+<strong>
+Builder: RoiHeenok </strong>
+&mdash;
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" width="16px" class="platform-icon whitened" alt="MTGA - Magic Arena" title="MTGA - Magic Arena" data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" />
+<strong>Other</strong>
+&mdash; <strong> 23-Mar-2024</strong>
+</div>
+<div class="col-md-6 text-center">
+<div style="padding:5px 0">
+<button type="button" class="btn btn-danger btn-sm" data-toggle="modal" data-target="#suggestArchetype">
+<span class="glyphicon glyphicon-refresh"></span> Suggest Archetype
+</button>
+<span><span goto="L0hpc3RvcmljLUJyYXdsL3RhamljLXRvdXJuYW1lbnQtZGVja2xpc3QtYnktcm9paGVlbm9rLTE5NzUzNjEvdmlzdWFs" class="btn btn-sm btn-info linker" style="margin-right: 20px;"><span class="glyphicon glyphicon-eye-open"></span> Visual View</span></span> </div>
+</div>
+</div>
+</div>
+<ul class="nav nav-tabs">
+<li class="active"><a data-toggle="tab" href="#compact"><span class="	glyphicon glyphicon-th-list"></span> Deck View</a></li>
+<li><a data-toggle="tab" href="#arena"><img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" style="width:16px;height:16px;" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> Arena <span class="hidden-xs"> Export</span></a></li>
+<li><a data-toggle="tab" href="#tools"><span class="glyphicon glyphicon glyphicon-briefcase"></span> Tools <span class="hidden-xs">& Download</span></a></li>
+<li><a data-toggle="tab" href="#buy"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAB71BMVEX///8AAAAA/wBVVVVNTU03Nzcgv2BAQEBMTExQUFBPT0tMTExPT09QUFBRUU8UtFgfylpLS0lLS0lRUVBLS0hLS0gbwloRsVgfmFRKSkdEY1AOpV4Opl4Ppl8PqF0PqVwPrFoQrVkQrlgQrlkQr1gQsFgRsFgRsVgSslcUt1cVtFkVuFYWplcWuVYXr18Xs10Xu1YYulgYvFYYvlUZsl4ZvlUZv1UarGUatF0bnFYbsGMcnVYcwFcemFUewVkgzFwhzlwiwlwkwl0msW0mtmgow2Apr3AqhlIquGwtf1AuxWQzxmg1ck85tns7ak9CXEtHynhIT0lJSUZJSkdJS0dJXFFJt4lLS0lLxIFMuotNzXxOTkxPT01RUVBZYl1ZvZVZ0YRavZVf0IphZWRhx5ZjxphnypdoxZ9pw6Fsy51tyKFvzZxy05t0z593zad3z6V41Z970aSF1LCNz7eQ27GR1rWS0L+T17yW2bqX4LOa4Lim4cGr29Gu3dOx3daz39a03te04NC14NjC5OPF5uTJ5ujM5+rM6OrN6erO6O/O6erP6O/P6e7P6e/Q6e7Q6e/R6e/R6u7U7OvY8eTa8Ofb8une8PTf8fDi8+zl9O/m9PDm9+7o9fHo9+/p9vHt9/j2/Pn4/Pv8/v39/v7////HDJMJAAAAG3RSTlMAAQIDCg4QECU2OmFhrK7D19zn7/Hy8/n7+/6OrJ/VAAABKElEQVQoz2NgIBkwsWEFTAwCDtiAvRiDGSYw1VRVUQFJuHoDCRsnIOFo5+VqpqvuYgKWKFiyZHalWc4CoMTkkuqpFiqZnXlgicJ55omLAnIXAiWmlPr2lqt0tSpCJcyiFkeAJIwn1SvV9eR3R6pAJBbPXdJoBJTQVutrUnHr729QgUrMCStekpQ9X19FZWKtikpNtzNMYoaZ4ayK1M4UFY/uLGu/uGR/fx+oHQlV09KtJrQXtfTqhcYEgYA7SCJt5vSOMkWV+Ob+tgyV2FiQeIglSEJLVlpOGWiqgoy8ClAiPCjYUwdolIGGCjKIjY0GarAFSvCLo4DYWKlAoIwEP3osCMfycogGBUlyoUvw8HEygGSE0CWYWRgZGDhEggSxRys7NysD9QAAGYdk/Rhm9k0AAAAASUVORK5CYII=" style="width:16px;height:16px;margin-top:-3px;" alt data-pagespeed-url-hash="2470340921" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> BUY: $533&mdash;132.66 Tix</a></li>
+<li><a onclick="$.ajaxSetup({cache:true});$.getScript(&quot;https://mtgdecks-net.disqus.com/embed.js&quot;);$.ajaxSetup({cache:false});" data-toggle="tab" class="hidden-xs" href="#comments"><span class="glyphicon glyphicon glyphicon-comment"></span> Comments</a></li>
+</ul>
+<div class="tab-content">
+<div id="compact" class="tab-pane fade in active">
+<div class="nav nav-tabs secondary" style="padding:5px;">
+<span class="small"><span class="fa fa-info-circle"></span> <span class="hidden-xs">You must</span> <span><span goto="L3VzZXJzL3VzZXJzL2xvZ2lu" class="linker">login</span></span> or <span><span goto="L3VzZXJzL3VzZXJzL3JlZ2lzdGVy" class="linker">register</span></span> to see the price based on your collection</span>
+</div>
+<div class="wholeDeck">
+<div class="text-center pull-right" style="margin-right: 20px;">
+</div>
+<b class="text-uppercase">Maindeck (99)</b>
+<div class="cards" style="padding-right: 20px;margin-top:20px;">
+<div class="row">
+<div class="col-sm-6">
+<table>
+<tr>
+<th colspan="3" class="type Creature">
+<div class="ms ms-creature"></div>
+Creature <span class="small"> [39]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Adeline, Resplendent Cathar" data-rarity="R" class="cardItem" cardkingdom="13.99" tcgplayer="8.5" cardhoarder="0.24">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/adeline-resplendent-cathar" type="legendary creature — human knight" image="https://mtgdecks.net/img/card/MID/adeline-resplendent-cathar-1.jpg">Adeline, Resplendent Cathar</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$13.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.24
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Anafenza, Kin-Tree Spirit" data-rarity="R" class="cardItem" cardkingdom="0.39" tcgplayer="0.25" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/anafenza-kin-tree-spirit" type="legendary creature — spirit soldier" image="https://mtgdecks.net/img/card/DTK/anafenza-kin-tree-spirit-2.jpg">Anafenza, Kin-Tree Spirit</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.39
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Anointed Peacekeeper" data-rarity="R" class="cardItem" cardkingdom="0.99" cardhoarder="0.7" tcgplayer="0.57">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/anointed-peacekeeper" type="creature — human cleric" image="https://mtgdecks.net/img/card/DMU/anointed-peacekeeper-2.jpg">Anointed Peacekeeper</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.70
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Benalish Knight-Counselor" data-rarity="U" class="cardItem">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/benalish-knight-counselor" type="creature — human knight" image="https://mtgdecks.net/img/card/YDMU/benalish-knight-counselor-1.jpg">Benalish Knight-Counselor</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Bloodthirsty Adversary" data-rarity="M" class="cardItem" tcgplayer="12.95" cardkingdom="14.99" cardhoarder="4.32">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/bloodthirsty-adversary" type="creature — vampire" image="https://mtgdecks.net/img/card/MID/bloodthirsty-adversary-129.jpg">Bloodthirsty Adversary</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$14.99
+</span>
+<span class="mtgo option" style="display:none">
+$4.32
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Bonecrusher Giant" data-rarity="R" class="cardItem" cardhoarder="1.36" cardkingdom="0.59" tcgplayer="0.5">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/bonecrusher-giant" type="creature — giant // instant — adventure" image="https://mtgdecks.net/img/card/ELD/bonecrusher-giant-115.jpg">Bonecrusher Giant</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.59
+</span>
+<span class="mtgo option" style="display:none">
+$1.36
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Boromir, Warden of the Tower" data-rarity="R" class="cardItem" cardkingdom="4.99" tcgplayer="2.88" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/boromir-warden-of-the-tower" type="legendary creature — human soldier" image="https://mtgdecks.net/img/card/LTR/boromir-warden-of-the-tower-4.jpg">Boromir, Warden of the Tower</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$4.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Brutal Cathar" data-rarity="R" class="cardItem" cardkingdom="1.99" tcgplayer="1.29" cardhoarder="0.57">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/brutal-cathar" type="creature — human soldier werewolf // creature — werewolf" image="https://mtgdecks.net/img/card/MID/brutal-cathar-7.jpg">Brutal Cathar</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/MID/moonrage-brute-7.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.57
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Cathar Commando" data-rarity="C" class="cardItem" cardkingdom="0.99" tcgplayer="0.48" cardhoarder="0.03">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/cathar-commando" type="creature — human soldier" image="https://mtgdecks.net/img/card/MID/cathar-commando-10.jpg">Cathar Commando</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.03
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Elite Spellbinder" data-rarity="R" class="cardItem" cardkingdom="0.49" tcgplayer="0.35" cardhoarder="0.03">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/elite-spellbinder" type="creature — human cleric" image="https://mtgdecks.net/img/card/STX/elite-spellbinder-17.jpg">Elite Spellbinder</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.03
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Esper Sentinel" data-rarity="R" class="cardItem" cardkingdom="37.99" tcgplayer="34.2" cardhoarder="3.08">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/esper-sentinel" type="artifact creature — human soldier" image="https://mtgdecks.net/img/card/MH2/esper-sentinel-12.jpg">Esper Sentinel</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$37.99
+</span>
+<span class="mtgo option" style="display:none">
+$3.08
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Fable of the Mirror-Breaker" data-rarity="R" class="cardItem" cardkingdom="19.99" tcgplayer="15.95" cardhoarder="7.43">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/fable-of-the-mirror-breaker" type="enchantment — saga // enchantment creature — goblin shaman" image="https://mtgdecks.net/img/card/NEO/fable-of-the-mirror-breaker-141.jpg">Fable of the Mirror-Breaker</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/NEO/reflection-of-kiki-jiki-141.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$19.99
+</span>
+<span class="mtgo option" style="display:none">
+$7.43
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Giant Killer" data-rarity="R" class="cardItem" cardkingdom="0.49" tcgplayer="0.5" cardhoarder="0.03">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/giant-killer" type="creature — human peasant // instant — adventure" image="https://mtgdecks.net/img/card/ELD/giant-killer-14.jpg">Giant Killer</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.03
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Giver of Runes" data-rarity="R" class="cardItem" cardkingdom="9.49" tcgplayer="9.37" cardhoarder="2.99">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/giver-of-runes" type="creature — kor cleric" image="https://mtgdecks.net/img/card/MH1/giver-of-runes-13.jpg">Giver of Runes</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$9.49
+</span>
+<span class="mtgo option" style="display:none">
+$2.99
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Guardian of New Benalia" data-rarity="R" class="cardItem" cardkingdom="0.49" tcgplayer="0.25" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/guardian-of-new-benalia" type="creature — human soldier" image="https://mtgdecks.net/img/card/DMU/guardian-of-new-benalia-19.jpg">Guardian of New Benalia</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Hopeful Initiate" data-rarity="R" class="cardItem" tcgplayer="2.63" cardkingdom="3.49" cardhoarder="0.2">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/hopeful-initiate" type="creature — human warlock" image="https://mtgdecks.net/img/card/VOW/hopeful-initiate-20.jpg">Hopeful Initiate</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$3.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.20
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Inquisitor Captain" data-rarity="R" class="cardItem">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/inquisitor-captain" type="creature — human cleric" image="https://mtgdecks.net/img/card/YMID/inquisitor-captain-8.jpg">Inquisitor Captain</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-3 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Inti, Seneschal of the Sun" data-rarity="R" class="cardItem" cardkingdom="5.49" cardhoarder="4.5" tcgplayer="3.6">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/inti-seneschal-of-the-sun" type="legendary creature — human knight" image="https://mtgdecks.net/img/card/LCI/inti-seneschal-of-the-sun-156.jpg">Inti, Seneschal of the Sun</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$5.49
+</span>
+<span class="mtgo option" style="display:none">
+$4.50
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Intrepid Adversary" data-rarity="M" class="cardItem" tcgplayer="1.4" cardkingdom="1.49" cardhoarder="0.2">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/intrepid-adversary" type="creature — human scout" image="https://mtgdecks.net/img/card/MID/intrepid-adversary-25.jpg">Intrepid Adversary</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.20
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Jewel Mine Overseer" data-rarity="M" class="cardItem">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/jewel-mine-overseer" type="creature — human noble" image="https://mtgdecks.net/img/card/YWOE/jewel-mine-overseer-21.jpg">Jewel Mine Overseer</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Klement, Novice Acolyte" data-rarity="R" class="cardItem">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/klement-novice-acolyte" type="legendary creature — tiefling cleric" image="https://mtgdecks.net/img/card/HBG/klement-novice-acolyte-1.jpg">Klement, Novice Acolyte</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Kumano Faces Kakkazan" data-rarity="U" class="cardItem" cardkingdom="0.79" tcgplayer="0.56" cardhoarder="0.01">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/kumano-faces-kakkazan" type="enchantment — saga // enchantment creature — human shaman" image="https://mtgdecks.net/img/card/NEO/kumano-faces-kakkazan-152.jpg">Kumano Faces Kakkazan</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/NEO/etching-of-kumano-152.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.79
+</span>
+<span class="mtgo option" style="display:none">
+$0.01
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Laelia, the Blade Reforged" data-rarity="R" class="cardItem" cardhoarder="9.55" cardkingdom="7.99" tcgplayer="6.33">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/laelia-the-blade-reforged" type="legendary creature — spirit warrior" image="https://mtgdecks.net/img/card/C21/laelia-the-blade-reforged-53.jpg">Laelia, the Blade Reforged</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$7.99
+</span>
+<span class="mtgo option" style="display:none">
+$9.55
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Luminarch Aspirant" data-rarity="R" class="cardItem" tcgplayer="0.37" cardkingdom="0.49" cardhoarder="0.11">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/luminarch-aspirant" type="creature — human cleric" image="https://mtgdecks.net/img/card/ZNR/luminarch-aspirant-24.jpg">Luminarch Aspirant</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.11
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Mothrider Cavalry" data-rarity="M" class="cardItem">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/mothrider-cavalry" type="creature — human samurai" image="https://mtgdecks.net/img/card/YNEO/mothrider-cavalry-5.jpg">Mothrider Cavalry</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Patchplate Resolute" data-rarity="U" class="cardItem">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/patchplate-resolute" type="artifact creature — soldier" image="https://mtgdecks.net/img/card/YBRO/patchplate-resolute-28.jpg">Patchplate Resolute</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-3 ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Ragavan, Nimble Pilferer" data-rarity="M" class="cardItem" cardkingdom="49.99" tcgplayer="44.22" cardhoarder="12.22">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/ragavan-nimble-pilferer" type="legendary creature — monkey pirate" image="https://mtgdecks.net/img/card/MH2/ragavan-nimble-pilferer-138.jpg">Ragavan, Nimble Pilferer</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$49.99
+</span>
+<span class="mtgo option" style="display:none">
+$12.22
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Rahilda, Wanted Cutthroat" data-rarity="M" class="cardItem">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/rahilda-wanted-cutthroat" type="legendary creature — human werewolf // legendary creature — human werewolf" image="https://mtgdecks.net/img/card/YMID/rahilda-wanted-cutthroat-42.jpg">Rahilda, Wanted Cutthroat</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/YMID/rahilda-feral-outlaw-42.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Ranger-Captain of Eos" data-rarity="M" class="cardItem" cardkingdom="27.99" tcgplayer="23.25" cardhoarder="0.96">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/ranger-captain-of-eos" type="creature — human soldier ranger" image="https://mtgdecks.net/img/card/MH1/ranger-captain-of-eos-21.jpg">Ranger-Captain of Eos</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$27.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.96
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Recruitment Officer" data-rarity="U" class="cardItem" cardkingdom="0.49" tcgplayer="0.26" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/recruitment-officer" type="creature — human soldier" image="https://mtgdecks.net/img/card/BRO/recruitment-officer-23.jpg">Recruitment Officer</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Robber of the Rich" data-rarity="M" class="cardItem" tcgplayer="1.5" cardkingdom="1.29" cardhoarder="0.12">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/robber-of-the-rich" type="creature — human archer rogue" image="https://mtgdecks.net/img/card/ELD/robber-of-the-rich-138.jpg">Robber of the Rich</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.29
+</span>
+<span class="mtgo option" style="display:none">
+$0.12
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Seasoned Pyromancer" data-rarity="M" class="cardItem" cardkingdom="6.99" tcgplayer="5.66" cardhoarder="2.32">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/seasoned-pyromancer" type="creature — human shaman" image="https://mtgdecks.net/img/card/MH1/seasoned-pyromancer-145.jpg">Seasoned Pyromancer</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$6.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.32
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sigardian Evangel" data-rarity="R" class="cardItem">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sigardian-evangel" type="creature — human cleric" image="https://mtgdecks.net/img/card/YMID/sigardian-evangel-9.jpg">Sigardian Evangel</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Skrelv, Defector Mite" data-rarity="R" class="cardItem" cardkingdom="5.49" tcgplayer="3.32" cardhoarder="0.39">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/skrelv-defector-mite" type="legendary artifact creature — phyrexian mite" image="https://mtgdecks.net/img/card/ONE/skrelv-defector-mite-33.jpg">Skrelv, Defector Mite</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$5.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.39
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Skyclave Apparition" data-rarity="R" class="cardItem" cardhoarder="5.14" cardkingdom="2.49" tcgplayer="2">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/skyclave-apparition" type="creature — kor spirit" image="https://mtgdecks.net/img/card/ZNR/skyclave-apparition-39.jpg">Skyclave Apparition</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$2.49
+</span>
+<span class="mtgo option" style="display:none">
+$5.14
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Squee, Dubious Monarch" data-rarity="R" class="cardItem" cardkingdom="1.29" tcgplayer="0.49" cardhoarder="0.31">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/squee-dubious-monarch" type="legendary creature — goblin noble" image="https://mtgdecks.net/img/card/DMU/squee-dubious-monarch-146.jpg">Squee, Dubious Monarch</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.29
+</span>
+<span class="mtgo option" style="display:none">
+$0.31
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sungold Sentinel" data-rarity="R" class="cardItem" cardkingdom="0.49" tcgplayer="0.25" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sungold-sentinel" type="creature — human soldier" image="https://mtgdecks.net/img/card/MID/sungold-sentinel-37.jpg">Sungold Sentinel</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Thalia, Guardian of Thraben" data-rarity="R" class="cardItem" cardkingdom="0.99" tcgplayer="0.5" cardhoarder="0.03">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/thalia-guardian-of-thraben" type="legendary creature — human soldier" image="https://mtgdecks.net/img/card/DKA/thalia-guardian-of-thraben-24.jpg">Thalia, Guardian of Thraben</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.03
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Tithe Taker" data-rarity="R" class="cardItem" tcgplayer="0.25" cardkingdom="0.49" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/tithe-taker" type="creature — human soldier" image="https://mtgdecks.net/img/card/RNA/tithe-taker-27.jpg">Tithe Taker</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+</table>
+<div class="text-center" style="padding-top: 10px;">
+<div class="mon-placement loading-mon  visible-xs" data-description="decks-view-banner-mobile" style="min-height:50px;" id="300x50-dynamic-mobile-65fe999fa052c"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth<728){document.getElementById('300x50-dynamic-mobile-65fe999fa052c').innerHTML='<div  class="vm-placement" data-id="5e539df8db8f36673d618671"></div>'}</script>
+</div>
+<table>
+<tr>
+<th colspan="3" class="type Artifact">
+<div class="ms ms-artifact"></div>
+Artifact <span class="small"> [3]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Embercleave" data-rarity="M" class="cardItem" cardkingdom="6.99" tcgplayer="5.84" cardhoarder="0.55">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/embercleave" type="legendary artifact — equipment" image="https://mtgdecks.net/img/card/ELD/embercleave-120.jpg">Embercleave</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-4 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$6.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.55
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Portable Hole" data-rarity="U" class="cardItem" cardkingdom="0.99" tcgplayer="0.54" cardhoarder="0.16">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/portable-hole" type="artifact" image="https://mtgdecks.net/img/card/AFR/portable-hole-33.jpg">Portable Hole</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.16
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Smuggler's Copter" data-rarity="R" class="cardItem" cardkingdom="4.99" tcgplayer="4.5" cardhoarder="0.2">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/smuggler-s-copter" type="artifact — vehicle" image="https://mtgdecks.net/img/card/KLD/smuggler-s-copter-235.jpg">Smuggler&#039;s Copter</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$4.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.20
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3" class="type Instant">
+<div class="ms ms-instant"></div>
+Instant <span class="small"> [8]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Get Lost" data-rarity="R" class="cardItem" cardhoarder="9.14" cardkingdom="8.49" tcgplayer="7.89">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/get-lost" type="instant" image="https://mtgdecks.net/img/card/LCI/get-lost-14.jpg">Get Lost</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$8.49
+</span>
+<span class="mtgo option" style="display:none">
+$9.14
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Lightning Bolt" data-rarity="C" class="cardItem" cardkingdom="1.29" tcgplayer="0.39" cardhoarder="0.28">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/lightning-bolt" type="instant" image="https://mtgdecks.net/img/card/TD0/lightning-bolt-b21.jpg">Lightning Bolt</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.29
+</span>
+<span class="mtgo option" style="display:none">
+$0.28
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Mana Tithe" data-rarity="C" class="cardItem" cardkingdom="0.69" tcgplayer="0.5" cardhoarder="0.05">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/mana-tithe" type="instant" image="https://mtgdecks.net/img/card/PLC/mana-tithe-25.jpg">Mana Tithe</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.69
+</span>
+<span class="mtgo option" style="display:none">
+$0.05
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="March of Otherworldly Light" data-rarity="R" class="cardItem" cardhoarder="3.21" cardkingdom="1.79" tcgplayer="1.74">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/march-of-otherworldly-light" type="instant" image="https://mtgdecks.net/img/card/NEO/march-of-otherworldly-light-28.jpg">March of Otherworldly Light</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-x ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.79
+</span>
+<span class="mtgo option" style="display:none">
+$3.21
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Patriar's Humiliation" data-rarity="C" class="cardItem">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/patriar-s-humiliation" type="instant" image="https://mtgdecks.net/img/card/HBG/patriar-s-humiliation-25.jpg">Patriar&#039;s Humiliation</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Reprieve" data-rarity="U" class="cardItem" tcgplayer="1.57" cardkingdom="1.49" cardhoarder="0.24">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/reprieve" type="instant" image="https://mtgdecks.net/img/card/LTR/reprieve-26.jpg">Reprieve</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.24
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Soul Partition" data-rarity="R" class="cardItem" cardkingdom="0.99" tcgplayer="0.5" cardhoarder="0.03">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/soul-partition" type="instant" image="https://mtgdecks.net/img/card/BRO/soul-partition-26.jpg">Soul Partition</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.03
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Swords to Plowshares" data-rarity="U" class="cardItem" cardkingdom="1.79" tcgplayer="1" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/swords-to-plowshares" type="instant" image="https://mtgdecks.net/img/card/TD0/swords-to-plowshares-b12.jpg">Swords to Plowshares</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.79
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3" class="type Sorcery">
+<div class="ms ms-sorcery"></div>
+Sorcery <span class="small"> [2]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Shove Aside" data-rarity="U" class="cardItem">
+<td class="number">
+<span class="rarity bullet U"></span>
+1
+&nbsp;<a href="/prices/shove-aside" type="sorcery" image="https://mtgdecks.net/img/card/YMKM/shove-aside-16.jpg">Shove Aside</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+U </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Strangle" data-rarity="C" class="cardItem" cardkingdom="0.39" tcgplayer="0.2" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/strangle" type="sorcery" image="https://mtgdecks.net/img/card/SNC/strangle-125.jpg">Strangle</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.39
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3" class="type Enchantment">
+<div class="ms ms-enchantment"></div>
+Enchantment <span class="small"> [7]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Blood Moon" data-rarity="R" class="cardItem" cardkingdom="7.99" tcgplayer="6.75" cardhoarder="1.55">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/blood-moon" type="enchantment" image="https://mtgdecks.net/img/card/MMA/blood-moon-106.jpg">Blood Moon</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$7.99
+</span>
+<span class="mtgo option" style="display:none">
+$1.55
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Curse of Silence" data-rarity="R" class="cardItem" cardkingdom="0.49" tcgplayer="0.36" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/curse-of-silence" type="enchantment — aura curse" image="https://mtgdecks.net/img/card/MID/curse-of-silence-15.jpg">Curse of Silence</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Flowering of the White Tree" data-rarity="R" class="cardItem" cardkingdom="5.99" tcgplayer="3.84" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/flowering-of-the-white-tree" type="legendary enchantment" image="https://mtgdecks.net/img/card/LTR/flowering-of-the-white-tree-15.jpg">Flowering of the White Tree</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$5.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Invasion of Gobakhan" data-rarity="R" class="cardItem" cardkingdom="6.99" tcgplayer="4.48" cardhoarder="2.55">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/invasion-of-gobakhan" type="battle — siege//enchantment" image="https://mtgdecks.net/img/card/MOM/invasion-of-gobakhan-22.jpg">Invasion of Gobakhan</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/MOM/lightshield-array-22.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$6.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.55
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Showdown of the Skalds" data-rarity="R" class="cardItem" cardkingdom="1.99" tcgplayer="0.75" cardhoarder="0.97">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/showdown-of-the-skalds" type="enchantment — saga" image="https://mtgdecks.net/img/card/KHM/showdown-of-the-skalds-229.jpg">Showdown of the Skalds</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.97
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Warleader's Call" data-rarity="R" class="cardItem" cardkingdom="13.99" tcgplayer="10.5" cardhoarder="0.29">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/warleader-s-call" type="enchantment" image="https://mtgdecks.net/img/card/MKM/warleader-s-call-242.jpg">Warleader&#039;s Call</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-1 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$13.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.29
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Wedding Announcement" data-rarity="R" class="cardItem" cardkingdom="18.99" tcgplayer="11.79" cardhoarder="1.82">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/wedding-announcement" type="enchantment // enchantment" image="https://mtgdecks.net/img/card/VOW/wedding-announcement-45.jpg">Wedding Announcement</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/VOW/wedding-festivity-45.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$18.99
+</span>
+<span class="mtgo option" style="display:none">
+$1.82
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3" class="type Planeswalker">
+<div class="ms ms-planeswalker"></div>
+Planeswalker <span class="small"> [1]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Chandra, Torch of Defiance" data-rarity="M" class="cardItem" cardkingdom="1.99" tcgplayer="1.88" cardhoarder="0.36">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/chandra-torch-of-defiance" type="legendary planeswalker — chandra" image="https://mtgdecks.net/img/card/KLD/chandra-torch-of-defiance-110.jpg">Chandra, Torch of Defiance</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+$1.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.36
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+</table>
+<table>
+<tr>
+<th colspan="3" class="type Land">
+<div class="ms ms-land"></div>
+Land <span class="small"> [39]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="A-Thran Portal" data-rarity="R" class="cardItem">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/a-thran-portal" type="land — gate" image="https://mtgdecks.net/img/card/DMU/a-thran-portal-a-259.jpg">A-Thran Portal</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Battlefield Forge" data-rarity="R" class="cardItem" cardkingdom="3.49" tcgplayer="1.74" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/battlefield-forge" type="land" image="https://mtgdecks.net/img/card/9ED/battlefield-forge-318.jpg">Battlefield Forge</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$3.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Bloodstained Mire" data-rarity="R" class="cardItem" tcgplayer="27.97" cardkingdom="27.99" cardhoarder="2.94">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/bloodstained-mire" type="land" image="https://mtgdecks.net/img/card/WC03/bloodstained-mire-pk313.jpg">Bloodstained Mire</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$27.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.94
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Castle Ardenvale" data-rarity="R" class="cardItem" tcgplayer="0.25" cardkingdom="0.49" cardhoarder="0.09">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/castle-ardenvale" type="land" image="https://mtgdecks.net/img/card/ELD/castle-ardenvale-238.jpg">Castle Ardenvale</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.09
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Castle Embereth" data-rarity="R" class="cardItem" cardkingdom="0.59" tcgplayer="0.35" cardhoarder="0.17">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/castle-embereth" type="land" image="https://mtgdecks.net/img/card/ELD/castle-embereth-239.jpg">Castle Embereth</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.59
+</span>
+<span class="mtgo option" style="display:none">
+$0.17
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Cavern of Souls" data-rarity="R" class="cardItem" cardkingdom="44.99" tcgplayer="39.13" cardhoarder="4.47">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/cavern-of-souls" type="land" image="https://mtgdecks.net/img/card/AVR/cavern-of-souls-226.jpg">Cavern of Souls</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$44.99
+</span>
+<span class="mtgo option" style="display:none">
+$4.47
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Clifftop Retreat" data-rarity="R" class="cardItem" cardkingdom="2.29" tcgplayer="0.35" cardhoarder="0.02">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/clifftop-retreat" type="land" image="https://mtgdecks.net/img/card/ISD/clifftop-retreat-238.jpg">Clifftop Retreat</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$2.29
+</span>
+<span class="mtgo option" style="display:none">
+$0.02
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Command Tower" data-rarity="C" class="cardItem" cardhoarder="0.01" cardkingdom="0.49" tcgplayer="0.25">
+<td class="number">
+<span class="rarity bullet C"></span>
+1
+&nbsp;<a href="/prices/command-tower" type="land" image="https://mtgdecks.net/img/card/CMD/command-tower-269.jpg">Command Tower</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.49
+</span>
+<span class="mtgo option" style="display:none">
+$0.01
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Den of the Bugbear" data-rarity="R" class="cardItem" cardkingdom="6.49" tcgplayer="4.78" cardhoarder="1.76">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/den-of-the-bugbear" type="land" image="https://mtgdecks.net/img/card/AFR/den-of-the-bugbear-254.jpg">Den of the Bugbear</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$6.49
+</span>
+<span class="mtgo option" style="display:none">
+$1.76
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Eiganjo, Seat of the Empire" data-rarity="R" class="cardItem" cardkingdom="9.99" tcgplayer="8.54" cardhoarder="2.37">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/eiganjo-seat-of-the-empire" type="legendary land" image="https://mtgdecks.net/img/card/NEO/eiganjo-seat-of-the-empire-268.jpg">Eiganjo, Seat of the Empire</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$9.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.37
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Flooded Strand" data-rarity="R" class="cardItem" tcgplayer="30" cardkingdom="29.99" cardhoarder="11.58">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/flooded-strand" type="land" image="https://mtgdecks.net/img/card/WC03/flooded-strand-dz316.jpg">Flooded Strand</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$29.99
+</span>
+<span class="mtgo option" style="display:none">
+$11.58
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Inspiring Vantage" data-rarity="R" class="cardItem" cardkingdom="8.99" tcgplayer="8" cardhoarder="2.34">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/inspiring-vantage" type="land" image="https://mtgdecks.net/img/card/KLD/inspiring-vantage-246.jpg">Inspiring Vantage</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$8.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.34
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Mana Confluence" data-rarity="R" class="cardItem" tcgplayer="37.8" cardkingdom="42.99" cardhoarder="9.59">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/mana-confluence" type="land" image="https://mtgdecks.net/img/card/JOU/mana-confluence-163.jpg">Mana Confluence</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$42.99
+</span>
+<span class="mtgo option" style="display:none">
+$9.59
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="7" data-card-id="Mountain" data-rarity="C" class="cardItem" cardkingdom="0.01" tcgplayer="0.01" cardhoarder="0.01">
+<td class="number">
+<span class="rarity bullet C"></span>
+7
+&nbsp;<a href="/prices/mountain" type="basic land — mountain" image="https://mtgdecks.net/img/card/PSAL/mountain-i23.jpg">Mountain</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.01
+</span>
+<span class="mtgo option" style="display:none">
+$0.01
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Needleverge Pathway" data-rarity="R" class="cardItem" cardkingdom="4.99" tcgplayer="4.9" cardhoarder="2.06">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/needleverge-pathway" type="land // land" image="https://mtgdecks.net/img/card/ZNR/needleverge-pathway-263.jpg">Needleverge Pathway</a>&nbsp;
+<span image="https://mtgdecks.net/img/card/ZNR/pillarverge-pathway-263.jpg" style="font-size:16px;margin-top:-2px;" class="hidden-xs flip ms ms-dfc-modal-back"></span>
+</td>
+<td class="manaCost"> // </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$4.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.06
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="12" data-card-id="Plains" data-rarity="C" class="cardItem" cardkingdom="0.01" tcgplayer="0.01" cardhoarder="0.01">
+<td class="number">
+<span class="rarity bullet C"></span>
+12
+&nbsp;<a href="/prices/plains" type="basic land — plains" image="https://mtgdecks.net/img/card/PSAL/plains-j48.jpg">Plains</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$0.01
+</span>
+<span class="mtgo option" style="display:none">
+$0.01
+</span>
+<span class="arena option" style="display:none">
+C </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sacred Foundry" data-rarity="R" class="cardItem" cardkingdom="22.99" tcgplayer="17.14" cardhoarder="0.49">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sacred-foundry" type="land — mountain plains" image="https://mtgdecks.net/img/card/RAV/sacred-foundry-280.jpg">Sacred Foundry</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$22.99
+</span>
+<span class="mtgo option" style="display:none">
+$0.49
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sokenzan, Crucible of Defiance" data-rarity="R" class="cardItem" cardkingdom="6.99" tcgplayer="4.71" cardhoarder="2.33">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sokenzan-crucible-of-defiance" type="legendary land" image="https://mtgdecks.net/img/card/NEO/sokenzan-crucible-of-defiance-276.jpg">Sokenzan, Crucible of Defiance</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$6.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.33
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sunbaked Canyon" data-rarity="R" class="cardItem" cardkingdom="8.49" tcgplayer="6" cardhoarder="2.63">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sunbaked-canyon" type="land" image="https://mtgdecks.net/img/card/MH1/sunbaked-canyon-247.jpg">Sunbaked Canyon</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$8.49
+</span>
+<span class="mtgo option" style="display:none">
+$2.63
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Sundown Pass" data-rarity="R" class="cardItem" cardkingdom="12.99" tcgplayer="11.82" cardhoarder="2.29">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/sundown-pass" type="land" image="https://mtgdecks.net/img/card/VOW/sundown-pass-266.jpg">Sundown Pass</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$12.99
+</span>
+<span class="mtgo option" style="display:none">
+$2.29
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Windswept Heath" data-rarity="R" class="cardItem" cardkingdom="27.99" tcgplayer="21.38" cardhoarder="4.91">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/windswept-heath" type="land" image="https://mtgdecks.net/img/card/WC04/windswept-heath-jn328.jpg">Windswept Heath</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$27.99
+</span>
+<span class="mtgo option" style="display:none">
+$4.91
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+<tr data-required="1" data-card-id="Wooded Foothills" data-rarity="R" class="cardItem" cardkingdom="37.99" tcgplayer="33" cardhoarder="4.49">
+<td class="number">
+<span class="rarity bullet R"></span>
+1
+&nbsp;<a href="/prices/wooded-foothills" type="land" image="https://mtgdecks.net/img/card/ZNE/wooded-foothills-4.jpg">Wooded Foothills</a>&nbsp;
+</td>
+<td class="manaCost"> </td>
+<td class>
+<span class="price">
+<span class="paper option">
+$37.99
+</span>
+<span class="mtgo option" style="display:none">
+$4.49
+</span>
+<span class="arena option" style="display:none">
+R </span>
+</span> </td>
+</tr>
+</table>
+</div>
+<div class="col-sm-6">
+<div class="text-center" style="padding-top: 10px;">
+<div class="mon-placement loading-mon  hidden-xs" data-description="decks-view-display-desktop" style="min-height:250px;" id="300x250-static-65fe999fa0bf5"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=728){document.getElementById('300x250-static-65fe999fa0bf5').innerHTML='<div  class="vm-placement" data-id="5e539dd20126bd360c521b28"></div>'}</script>
+</div>
+<table>
+<tr>
+<th colspan="3" class="type Sideboard">
+<div class></div>
+Sideboard <span class="small"> [1]</span>
+</th>
+</tr>
+<tr data-required="1" data-card-id="Tajic, Legion's Valor" data-rarity="M" class="cardItem">
+<td class="number">
+<span class="rarity bullet M"></span>
+1
+&nbsp;<a href="/prices/tajic-legion-s-valor" type="legendary creature — human soldier" image="https://mtgdecks.net/img/card/YMKM/tajic-legion-s-valor-28.jpg">Tajic, Legion&#039;s Valor</a>&nbsp;
+</td>
+<td class="manaCost"> <span class="ms ms-cost ms-2 ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></td>
+<td class>
+<span class="price">
+<span class="paper option">
+---
+</span>
+<span class="mtgo option" style="display:none">
+---
+</span>
+<span class="arena option" style="display:none">
+M </span>
+</span> </td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="buy" class="tab-pane fade">
+<h2>Buy this deck:</h2>
+<div class="row">
+<div class="col-xs-10 col-xs-offset-1">
+<br/>
+<div class="row text-right">
+<div id="pricesbox" class="full" style="min-width:210px;margin:0 auto;">
+<span><span goto="aHR0cHM6Ly93d3cuY2FyZGhvYXJkZXIuY29tL2RlY2tzL3VwbG9hZD9hZmZpbGlhdGVfaWQ9bXRnZGVja3MmYW1wO2RlY2s9MSBBZGVsaW5lLCBSZXNwbGVuZGVudCBDYXRoYXJ8fDEgQW5hZmVuemEsIEtpbi1UcmVlIFNwaXJpdHx8MSBBbm9pbnRlZCBQZWFjZWtlZXBlcnx8MSBCZW5hbGlzaCBLbmlnaHQtQ291bnNlbG9yfHwxIEJsb29kdGhpcnN0eSBBZHZlcnNhcnl8fDEgQm9uZWNydXNoZXIgR2lhbnR8fDEgQm9yb21pciwgV2FyZGVuIG9mIHRoZSBUb3dlcnx8MSBCcnV0YWwgQ2F0aGFyfHwxIENhdGhhciBDb21tYW5kb3x8MSBFbGl0ZSBTcGVsbGJpbmRlcnx8MSBFc3BlciBTZW50aW5lbHx8MSBGYWJsZSBvZiB0aGUgTWlycm9yLUJyZWFrZXJ8fDEgR2lhbnQgS2lsbGVyfHwxIEdpdmVyIG9mIFJ1bmVzfHwxIEd1YXJkaWFuIG9mIE5ldyBCZW5hbGlhfHwxIEhvcGVmdWwgSW5pdGlhdGV8fDEgSW5xdWlzaXRvciBDYXB0YWlufHwxIEludGksIFNlbmVzY2hhbCBvZiB0aGUgU3VufHwxIEludHJlcGlkIEFkdmVyc2FyeXx8MSBKZXdlbCBNaW5lIE92ZXJzZWVyfHwxIEtsZW1lbnQsIE5vdmljZSBBY29seXRlfHwxIEt1bWFubyBGYWNlcyBLYWtrYXphbnx8MSBMYWVsaWEsIHRoZSBCbGFkZSBSZWZvcmdlZHx8MSBMdW1pbmFyY2ggQXNwaXJhbnR8fDEgTW90aHJpZGVyIENhdmFscnl8fDEgUGF0Y2hwbGF0ZSBSZXNvbHV0ZXx8MSBSYWdhdmFuLCBOaW1ibGUgUGlsZmVyZXJ8fDEgUmFoaWxkYSwgV2FudGVkIEN1dHRocm9hdHx8MSBSYW5nZXItQ2FwdGFpbiBvZiBFb3N8fDEgUmVjcnVpdG1lbnQgT2ZmaWNlcnx8MSBSb2JiZXIgb2YgdGhlIFJpY2h8fDEgU2Vhc29uZWQgUHlyb21hbmNlcnx8MSBTaWdhcmRpYW4gRXZhbmdlbHx8MSBTa3JlbHYsIERlZmVjdG9yIE1pdGV8fDEgU2t5Y2xhdmUgQXBwYXJpdGlvbnx8MSBTcXVlZSwgRHViaW91cyBNb25hcmNofHwxIFN1bmdvbGQgU2VudGluZWx8fDEgVGhhbGlhLCBHdWFyZGlhbiBvZiBUaHJhYmVufHwxIFRpdGhlIFRha2VyfHwxIEVtYmVyY2xlYXZlfHwxIFBvcnRhYmxlIEhvbGV8fDEgU211Z2dsZXImIzAzOTtzIENvcHRlcnx8MSBHZXQgTG9zdHx8MSBMaWdodG5pbmcgQm9sdHx8MSBNYW5hIFRpdGhlfHwxIE1hcmNoIG9mIE90aGVyd29ybGRseSBMaWdodHx8MSBQYXRyaWFyJiMwMzk7cyBIdW1pbGlhdGlvbnx8MSBSZXByaWV2ZXx8MSBTb3VsIFBhcnRpdGlvbnx8MSBTd29yZHMgdG8gUGxvd3NoYXJlc3x8MSBTaG92ZSBBc2lkZXx8MSBTdHJhbmdsZXx8MSBCbG9vZCBNb29ufHwxIEN1cnNlIG9mIFNpbGVuY2V8fDEgRmxvd2VyaW5nIG9mIHRoZSBXaGl0ZSBUcmVlfHwxIEludmFzaW9uIG9mIEdvYmFraGFufHwxIFNob3dkb3duIG9mIHRoZSBTa2FsZHN8fDEgV2FybGVhZGVyJiMwMzk7cyBDYWxsfHwxIFdlZGRpbmcgQW5ub3VuY2VtZW50fHwxIENoYW5kcmEsIFRvcmNoIG9mIERlZmlhbmNlfHwxIEEtVGhyYW4gUG9ydGFsfHwxIEJhdHRsZWZpZWxkIEZvcmdlfHwxIEJsb29kc3RhaW5lZCBNaXJlfHwxIENhc3RsZSBBcmRlbnZhbGV8fDEgQ2FzdGxlIEVtYmVyZXRofHwxIENhdmVybiBvZiBTb3Vsc3x8MSBDbGlmZnRvcCBSZXRyZWF0fHwxIENvbW1hbmQgVG93ZXJ8fDEgRGVuIG9mIHRoZSBCdWdiZWFyfHwxIEVpZ2Fuam8sIFNlYXQgb2YgdGhlIEVtcGlyZXx8MSBGbG9vZGVkIFN0cmFuZHx8MSBJbnNwaXJpbmcgVmFudGFnZXx8MSBNYW5hIENvbmZsdWVuY2V8fDcgTW91bnRhaW58fDEgTmVlZGxldmVyZ2UgUGF0aHdheXx8MTIgUGxhaW5zfHwxIFNhY3JlZCBGb3VuZHJ5fHwxIFNva2VuemFuLCBDcnVjaWJsZSBvZiBEZWZpYW5jZXx8MSBTdW5iYWtlZCBDYW55b258fDEgU3VuZG93biBQYXNzfHwxIFdpbmRzd2VwdCBIZWF0aHx8MSBXb29kZWQgRm9vdGhpbGxzfHwxIFRhamljLCBMZWdpb24mIzAzOTtzIFZhbG9yfHw" class="btn btn-sm btn-warning cardhoarder col-xs-12 trackable-affiliate linker" style="background-color:#d58512;" id="fullBuyCardHoarder" target="_blank" rel="nofollow"><img src="/img/xcard_hoarder.png.pagespeed.ic.m8BUxpIbah.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="544890996" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$132.66 <span style="font-size:10px;">Tix</span></span> <span class="pull-right">@cardhoarder <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="aHR0cHM6Ly93d3cuY2FyZGhvYXJkZXIuY29tL2RlY2tzL3VwbG9hZD9pc19yZW50YWw9MSZhbXA7YWZmaWxpYXRlX2lkPW10Z2RlY2tzJmFtcDtkZWNrPTEgQWRlbGluZSwgUmVzcGxlbmRlbnQgQ2F0aGFyfHwxIEFuYWZlbnphLCBLaW4tVHJlZSBTcGlyaXR8fDEgQW5vaW50ZWQgUGVhY2VrZWVwZXJ8fDEgQmVuYWxpc2ggS25pZ2h0LUNvdW5zZWxvcnx8MSBCbG9vZHRoaXJzdHkgQWR2ZXJzYXJ5fHwxIEJvbmVjcnVzaGVyIEdpYW50fHwxIEJvcm9taXIsIFdhcmRlbiBvZiB0aGUgVG93ZXJ8fDEgQnJ1dGFsIENhdGhhcnx8MSBDYXRoYXIgQ29tbWFuZG98fDEgRWxpdGUgU3BlbGxiaW5kZXJ8fDEgRXNwZXIgU2VudGluZWx8fDEgRmFibGUgb2YgdGhlIE1pcnJvci1CcmVha2VyfHwxIEdpYW50IEtpbGxlcnx8MSBHaXZlciBvZiBSdW5lc3x8MSBHdWFyZGlhbiBvZiBOZXcgQmVuYWxpYXx8MSBIb3BlZnVsIEluaXRpYXRlfHwxIElucXVpc2l0b3IgQ2FwdGFpbnx8MSBJbnRpLCBTZW5lc2NoYWwgb2YgdGhlIFN1bnx8MSBJbnRyZXBpZCBBZHZlcnNhcnl8fDEgSmV3ZWwgTWluZSBPdmVyc2Vlcnx8MSBLbGVtZW50LCBOb3ZpY2UgQWNvbHl0ZXx8MSBLdW1hbm8gRmFjZXMgS2Fra2F6YW58fDEgTGFlbGlhLCB0aGUgQmxhZGUgUmVmb3JnZWR8fDEgTHVtaW5hcmNoIEFzcGlyYW50fHwxIE1vdGhyaWRlciBDYXZhbHJ5fHwxIFBhdGNocGxhdGUgUmVzb2x1dGV8fDEgUmFnYXZhbiwgTmltYmxlIFBpbGZlcmVyfHwxIFJhaGlsZGEsIFdhbnRlZCBDdXR0aHJvYXR8fDEgUmFuZ2VyLUNhcHRhaW4gb2YgRW9zfHwxIFJlY3J1aXRtZW50IE9mZmljZXJ8fDEgUm9iYmVyIG9mIHRoZSBSaWNofHwxIFNlYXNvbmVkIFB5cm9tYW5jZXJ8fDEgU2lnYXJkaWFuIEV2YW5nZWx8fDEgU2tyZWx2LCBEZWZlY3RvciBNaXRlfHwxIFNreWNsYXZlIEFwcGFyaXRpb258fDEgU3F1ZWUsIER1YmlvdXMgTW9uYXJjaHx8MSBTdW5nb2xkIFNlbnRpbmVsfHwxIFRoYWxpYSwgR3VhcmRpYW4gb2YgVGhyYWJlbnx8MSBUaXRoZSBUYWtlcnx8MSBFbWJlcmNsZWF2ZXx8MSBQb3J0YWJsZSBIb2xlfHwxIFNtdWdnbGVyJiMwMzk7cyBDb3B0ZXJ8fDEgR2V0IExvc3R8fDEgTGlnaHRuaW5nIEJvbHR8fDEgTWFuYSBUaXRoZXx8MSBNYXJjaCBvZiBPdGhlcndvcmxkbHkgTGlnaHR8fDEgUGF0cmlhciYjMDM5O3MgSHVtaWxpYXRpb258fDEgUmVwcmlldmV8fDEgU291bCBQYXJ0aXRpb258fDEgU3dvcmRzIHRvIFBsb3dzaGFyZXN8fDEgU2hvdmUgQXNpZGV8fDEgU3RyYW5nbGV8fDEgQmxvb2QgTW9vbnx8MSBDdXJzZSBvZiBTaWxlbmNlfHwxIEZsb3dlcmluZyBvZiB0aGUgV2hpdGUgVHJlZXx8MSBJbnZhc2lvbiBvZiBHb2Jha2hhbnx8MSBTaG93ZG93biBvZiB0aGUgU2thbGRzfHwxIFdhcmxlYWRlciYjMDM5O3MgQ2FsbHx8MSBXZWRkaW5nIEFubm91bmNlbWVudHx8MSBDaGFuZHJhLCBUb3JjaCBvZiBEZWZpYW5jZXx8MSBBLVRocmFuIFBvcnRhbHx8MSBCYXR0bGVmaWVsZCBGb3JnZXx8MSBCbG9vZHN0YWluZWQgTWlyZXx8MSBDYXN0bGUgQXJkZW52YWxlfHwxIENhc3RsZSBFbWJlcmV0aHx8MSBDYXZlcm4gb2YgU291bHN8fDEgQ2xpZmZ0b3AgUmV0cmVhdHx8MSBDb21tYW5kIFRvd2VyfHwxIERlbiBvZiB0aGUgQnVnYmVhcnx8MSBFaWdhbmpvLCBTZWF0IG9mIHRoZSBFbXBpcmV8fDEgRmxvb2RlZCBTdHJhbmR8fDEgSW5zcGlyaW5nIFZhbnRhZ2V8fDEgTWFuYSBDb25mbHVlbmNlfHw3IE1vdW50YWlufHwxIE5lZWRsZXZlcmdlIFBhdGh3YXl8fDEyIFBsYWluc3x8MSBTYWNyZWQgRm91bmRyeXx8MSBTb2tlbnphbiwgQ3J1Y2libGUgb2YgRGVmaWFuY2V8fDEgU3VuYmFrZWQgQ2FueW9ufHwxIFN1bmRvd24gUGFzc3x8MSBXaW5kc3dlcHQgSGVhdGh8fDEgV29vZGVkIEZvb3RoaWxsc3x8MSBUYWppYywgTGVnaW9uJiMwMzk7cyBWYWxvcnx8" class="btn btn-sm btn-warning cardhoarder col-xs-12 trackable-affiliate linker" style="background-color:#2ab56d;" id="fullLoanCardHoarder" target="_blank" rel="nofollow"><img src="/img/xcard_hoarder.png.pagespeed.ic.m8BUxpIbah.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="544890996" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$3.32 <span style="font-size:10px;">/ Week</span></span> <span class="pull-right">@cardhoarder <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="aHR0cHM6Ly90Y2dwbGF5ZXIucHhmLmlvL2J1eS1tdGctZGVja3M_dT1odHRwczovL3d3dy50Y2dwbGF5ZXIuY29tL21hc3NlbnRyeT9jPTEgQWRlbGluZSwgUmVzcGxlbmRlbnQgQ2F0aGFyfHwxIEFuYWZlbnphLCBLaW4tVHJlZSBTcGlyaXR8fDEgQW5vaW50ZWQgUGVhY2VrZWVwZXJ8fDEgQmVuYWxpc2ggS25pZ2h0LUNvdW5zZWxvcnx8MSBCbG9vZHRoaXJzdHkgQWR2ZXJzYXJ5fHwxIEJvbmVjcnVzaGVyIEdpYW50fHwxIEJvcm9taXIsIFdhcmRlbiBvZiB0aGUgVG93ZXJ8fDEgQnJ1dGFsIENhdGhhcnx8MSBDYXRoYXIgQ29tbWFuZG98fDEgRWxpdGUgU3BlbGxiaW5kZXJ8fDEgRXNwZXIgU2VudGluZWx8fDEgRmFibGUgb2YgdGhlIE1pcnJvci1CcmVha2VyfHwxIEdpYW50IEtpbGxlcnx8MSBHaXZlciBvZiBSdW5lc3x8MSBHdWFyZGlhbiBvZiBOZXcgQmVuYWxpYXx8MSBIb3BlZnVsIEluaXRpYXRlfHwxIElucXVpc2l0b3IgQ2FwdGFpbnx8MSBJbnRpLCBTZW5lc2NoYWwgb2YgdGhlIFN1bnx8MSBJbnRyZXBpZCBBZHZlcnNhcnl8fDEgSmV3ZWwgTWluZSBPdmVyc2Vlcnx8MSBLbGVtZW50LCBOb3ZpY2UgQWNvbHl0ZXx8MSBLdW1hbm8gRmFjZXMgS2Fra2F6YW58fDEgTGFlbGlhLCB0aGUgQmxhZGUgUmVmb3JnZWR8fDEgTHVtaW5hcmNoIEFzcGlyYW50fHwxIE1vdGhyaWRlciBDYXZhbHJ5fHwxIFBhdGNocGxhdGUgUmVzb2x1dGV8fDEgUmFnYXZhbiwgTmltYmxlIFBpbGZlcmVyfHwxIFJhaGlsZGEsIFdhbnRlZCBDdXR0aHJvYXR8fDEgUmFuZ2VyLUNhcHRhaW4gb2YgRW9zfHwxIFJlY3J1aXRtZW50IE9mZmljZXJ8fDEgUm9iYmVyIG9mIHRoZSBSaWNofHwxIFNlYXNvbmVkIFB5cm9tYW5jZXJ8fDEgU2lnYXJkaWFuIEV2YW5nZWx8fDEgU2tyZWx2LCBEZWZlY3RvciBNaXRlfHwxIFNreWNsYXZlIEFwcGFyaXRpb258fDEgU3F1ZWUsIER1YmlvdXMgTW9uYXJjaHx8MSBTdW5nb2xkIFNlbnRpbmVsfHwxIFRoYWxpYSwgR3VhcmRpYW4gb2YgVGhyYWJlbnx8MSBUaXRoZSBUYWtlcnx8MSBFbWJlcmNsZWF2ZXx8MSBQb3J0YWJsZSBIb2xlfHwxIFNtdWdnbGVyJiMwMzk7cyBDb3B0ZXJ8fDEgR2V0IExvc3R8fDEgTGlnaHRuaW5nIEJvbHR8fDEgTWFuYSBUaXRoZXx8MSBNYXJjaCBvZiBPdGhlcndvcmxkbHkgTGlnaHR8fDEgUGF0cmlhciYjMDM5O3MgSHVtaWxpYXRpb258fDEgUmVwcmlldmV8fDEgU291bCBQYXJ0aXRpb258fDEgU3dvcmRzIHRvIFBsb3dzaGFyZXN8fDEgU2hvdmUgQXNpZGV8fDEgU3RyYW5nbGV8fDEgQmxvb2QgTW9vbnx8MSBDdXJzZSBvZiBTaWxlbmNlfHwxIEZsb3dlcmluZyBvZiB0aGUgV2hpdGUgVHJlZXx8MSBJbnZhc2lvbiBvZiBHb2Jha2hhbnx8MSBTaG93ZG93biBvZiB0aGUgU2thbGRzfHwxIFdhcmxlYWRlciYjMDM5O3MgQ2FsbHx8MSBXZWRkaW5nIEFubm91bmNlbWVudHx8MSBDaGFuZHJhLCBUb3JjaCBvZiBEZWZpYW5jZXx8MSBBLVRocmFuIFBvcnRhbHx8MSBCYXR0bGVmaWVsZCBGb3JnZXx8MSBCbG9vZHN0YWluZWQgTWlyZXx8MSBDYXN0bGUgQXJkZW52YWxlfHwxIENhc3RsZSBFbWJlcmV0aHx8MSBDYXZlcm4gb2YgU291bHN8fDEgQ2xpZmZ0b3AgUmV0cmVhdHx8MSBDb21tYW5kIFRvd2VyfHwxIERlbiBvZiB0aGUgQnVnYmVhcnx8MSBFaWdhbmpvLCBTZWF0IG9mIHRoZSBFbXBpcmV8fDEgRmxvb2RlZCBTdHJhbmR8fDEgSW5zcGlyaW5nIFZhbnRhZ2V8fDEgTWFuYSBDb25mbHVlbmNlfHw3IE1vdW50YWlufHwxIE5lZWRsZXZlcmdlIFBhdGh3YXl8fDEyIFBsYWluc3x8MSBTYWNyZWQgRm91bmRyeXx8MSBTb2tlbnphbiwgQ3J1Y2libGUgb2YgRGVmaWFuY2V8fDEgU3VuYmFrZWQgQ2FueW9ufHwxIFN1bmRvd24gUGFzc3x8MSBXaW5kc3dlcHQgSGVhdGh8fDEgV29vZGVkIEZvb3RoaWxsc3x8MSBUYWppYywgTGVnaW9uJiMwMzk7cyBWYWxvcnx8" target="_blank" class="btn btn-sm btn-info tcgplayer col-xs-12 trackable-affiliate linker" rel="nofollow" style><img src="/img/xtcg_player.png.pagespeed.ic.NsPxYAisW6.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="3688563198" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;opacity:0.9;">$471.93</span> <span class="pull-right">@tcgplayer <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="Iw" class="btn btn-sm btn-primary cardhoarder col-xs-12 trackable-affiliate linker" id="fullBuyCardKingdom" rel="nofollow"><img src="/img/xcardkingdom.png.pagespeed.ic.YmhnOpflQI.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="3219524819" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$594.30</span> <span class="pull-right">@cardkingdom <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<form target="_blank" data-target="cardkingdom" id="fullDeckBuyCardKingdom" method="post" action="https://www.cardkingdom.com/builder/?utm_source=mtgdecks&utm_medium=affiliate&utm_campaign=mtgdecks">
+<input type="hidden" name="c" value="1 Adeline, Resplendent Cathar||1 Anafenza, Kin-Tree Spirit||1 Anointed Peacekeeper||1 Benalish Knight-Counselor||1 Bloodthirsty Adversary||1 Bonecrusher Giant||1 Boromir, Warden of the Tower||1 Brutal Cathar||1 Cathar Commando||1 Elite Spellbinder||1 Esper Sentinel||1 Fable of the Mirror-Breaker||1 Giant Killer||1 Giver of Runes||1 Guardian of New Benalia||1 Hopeful Initiate||1 Inquisitor Captain||1 Inti, Seneschal of the Sun||1 Intrepid Adversary||1 Jewel Mine Overseer||1 Klement, Novice Acolyte||1 Kumano Faces Kakkazan||1 Laelia, the Blade Reforged||1 Luminarch Aspirant||1 Mothrider Cavalry||1 Patchplate Resolute||1 Ragavan, Nimble Pilferer||1 Rahilda, Wanted Cutthroat||1 Ranger-Captain of Eos||1 Recruitment Officer||1 Robber of the Rich||1 Seasoned Pyromancer||1 Sigardian Evangel||1 Skrelv, Defector Mite||1 Skyclave Apparition||1 Squee, Dubious Monarch||1 Sungold Sentinel||1 Thalia, Guardian of Thraben||1 Tithe Taker||1 Embercleave||1 Portable Hole||1 Smuggler's Copter||1 Get Lost||1 Lightning Bolt||1 Mana Tithe||1 March of Otherworldly Light||1 Patriar's Humiliation||1 Reprieve||1 Soul Partition||1 Swords to Plowshares||1 Shove Aside||1 Strangle||1 Blood Moon||1 Curse of Silence||1 Flowering of the White Tree||1 Invasion of Gobakhan||1 Showdown of the Skalds||1 Warleader's Call||1 Wedding Announcement||1 Chandra, Torch of Defiance||1 A-Thran Portal||1 Battlefield Forge||1 Bloodstained Mire||1 Castle Ardenvale||1 Castle Embereth||1 Cavern of Souls||1 Clifftop Retreat||1 Command Tower||1 Den of the Bugbear||1 Eiganjo, Seat of the Empire||1 Flooded Strand||1 Inspiring Vantage||1 Mana Confluence||7 Mountain||1 Needleverge Pathway||12 Plains||1 Sacred Foundry||1 Sokenzan, Crucible of Defiance||1 Sunbaked Canyon||1 Sundown Pass||1 Windswept Heath||1 Wooded Foothills||1 Tajic, Legion's Valor||">
+<input type="hidden" name="partner" value="mtgdecks">
+</form>
+</div>
+</div>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="8">$(".full").on('click','#fullBuyCardKingdom',function(event){$("#fullDeckBuyCardKingdom").submit();return false;});$(".full").on('click','.trackable-affiliate',function(e){affiliate_label=$(this).attr('data-target');ga(function(){ga("send","event",{eventCategory:"Link",eventAction:"Outbound",eventLabel:affiliate_label,nonInteraction:true,});});});</script> <br/><br/>
+</div>
+</div>
+</div>
+<div id="comments" class="tab-pane">
+<div id="disqus_thread" style="min-height: 400px;padding:10px;"></div>
+</div>
+<div id="tools" class="tab-pane fade" style="padding-right: 20px;">
+<div class="row">
+<div class="col-sm-6" style="overflow: auto;">
+<h2>Deck Tools:</h2>
+<span><span goto="L0hpc3RvcmljLUJyYXdsL3RhamljLXRvdXJuYW1lbnQtZGVja2xpc3QtYnktcm9paGVlbm9rLTE5NzUzNjEvdmlzdWFs" class="btn margened btn-xs btn-light full-width linker"><img src="/img/icons/xeye.png.pagespeed.ic.TyC4CL9N1a.png" alt data-pagespeed-url-hash="613951192" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="glyphicon glyphicon-eye-open"></span> Visual View</span></span> <span><span goto="L2RlY2tzL3NpbWlsYXIvMTk3NTM2MQ" class="btn margened btn-xs btn-light full-width linker"><img src="/img/icons/similar.png.pagespeed.ce.iY8AmNH-Yt.png" alt data-pagespeed-url-hash="1523151538" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="glyphicon glyphicon-th"></span> Similar Decks </span></span> <span><span goto="L0hpc3RvcmljLUJyYXdsL3RhamljLXRvdXJuYW1lbnQtZGVja2xpc3QtYnktcm9paGVlbm9rLTE5NzUzNjEvcHJveHk" class="btn margened btn-xs btn-light full-width linker"><img src="/img/icons/xprint.png.pagespeed.ic.DvBjlpM3PW.png" alt data-pagespeed-url-hash="3707565536" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="glyphicon glyphicon-print"></span> Proxies</span></span>
+</div>
+<div class="col-sm-6">
+<h2>Export & Save:</h2>
+
+<button type="button" class="btn margened btn-xs col-xs-12 btn-light" data-toggle="modal" data-target="#embedModal"><span class="fa fa-code"></span> Embed</button>
+
+<div class="modal fade" id="embedModal" tabindex="-1" role="dialog" style="z-index: 999999999;">
+<div class="modal-dialog" role="document" style="max-width: 300px;">
+<div class="modal-content">
+<div class="modal-body">
+<h2>Embedding code:</h2>
+<textarea rows="10"><iframe loading="lazy" width="400" height="830" src="https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361/iframe" title="MTG Deck" frameborder="0" allow="clipboard-write;web-share" allowfullscreen></iframe></textarea>
+<div data-clipboard-text="<iframe loading=&quot;lazy&quot; width=&quot;400&quot; height=&quot;830&quot; src=&quot;https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361/iframe&quot; title=&quot;MTG Deck&quot; frameborder=&quot;0&quot; allow=&quot;clipboard-write;web-share&quot; allowfullscreen></iframe>" class="btn btn-primary btn-sm" style="width:100%;"><span class="fa fa-copy"></span> Copy to clipboard</div>
+</div>
+</div>
+</div>
+</div>
+<span><span goto="L0hpc3RvcmljLUJyYXdsL3RhamljLXRvdXJuYW1lbnQtZGVja2xpc3QtYnktcm9paGVlbm9rLTE5NzUzNjEvdHh0" class="btn margened btn-xs col-xs-12 btn-light linker" title="MTGO format"><img src="/img/icons/xmtgo.png.pagespeed.ic.P1ECcAwtFs.png" alt data-pagespeed-url-hash="1354317618" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="glyphicon glyphicon-download-alt"></span> Magic online format</span></span> <span><span goto="L0hpc3RvcmljLUJyYXdsL3RhamljLXRvdXJuYW1lbnQtZGVja2xpc3QtYnktcm9paGVlbm9rLTE5NzUzNjEvZGVj" class="btn margened btn-xs col-xs-12 btn-light linker" title="Apprentice and MWS"><img src="/img/icons/xmws.png.pagespeed.ic.O3MJhkHTwU.png" alt data-pagespeed-url-hash="3370411816" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="glyphicon glyphicon-download-alt"></span> Apprentice and MWS .dec</span></span> </div>
+</div>
+<br/><br/>
+</div>
+<div id="arena" class="tab-pane fade">
+<div style="color:red;padding:0 20px 20px 20px">If you find any error please report it ;)</div>
+<div style="padding:0 20px 20px 20px">
+
+<button data-export-area-deck-id="1975361" class="btn btn-primary col-xs-12 text-center">
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" style="width:16px;height:16px;" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> Copy to clipboard and import!
+</button>
+<textarea id="arena_deck" rows="15">1 Adeline, Resplendent Cathar
+1 Anafenza, Kin-Tree Spirit
+1 Anointed Peacekeeper
+1 Benalish Knight-Counselor
+1 Bloodthirsty Adversary
+1 Bonecrusher Giant
+1 Boromir, Warden of the Tower
+1 Brutal Cathar
+1 Cathar Commando
+1 Elite Spellbinder
+1 Esper Sentinel
+1 Fable of the Mirror-Breaker
+1 Giant Killer
+1 Giver of Runes
+1 Guardian of New Benalia
+1 Hopeful Initiate
+1 Inquisitor Captain
+1 Inti, Seneschal of the Sun
+1 Intrepid Adversary
+1 Jewel Mine Overseer
+1 Klement, Novice Acolyte
+1 Kumano Faces Kakkazan
+1 Laelia, the Blade Reforged
+1 Luminarch Aspirant
+1 Mothrider Cavalry
+1 Patchplate Resolute
+1 Ragavan, Nimble Pilferer
+1 Rahilda, Wanted Cutthroat
+1 Ranger-Captain of Eos
+1 Recruitment Officer
+1 Robber of the Rich
+1 Seasoned Pyromancer
+1 Sigardian Evangel
+1 Skrelv, Defector Mite
+1 Skyclave Apparition
+1 Squee, Dubious Monarch
+1 Sungold Sentinel
+1 Thalia, Guardian of Thraben
+1 Tithe Taker
+1 Embercleave
+1 Portable Hole
+1 Smuggler's Copter
+1 Get Lost
+1 Lightning Bolt
+1 Mana Tithe
+1 March of Otherworldly Light
+1 Patriar's Humiliation
+1 Reprieve
+1 Soul Partition
+1 Swords to Plowshares
+1 Shove Aside
+1 Strangle
+1 Blood Moon
+1 Curse of Silence
+1 Flowering of the White Tree
+1 Invasion of Gobakhan
+1 Showdown of the Skalds
+1 Warleader's Call
+1 Wedding Announcement
+1 Chandra, Torch of Defiance
+1 A-Thran Portal
+1 Battlefield Forge
+1 Bloodstained Mire
+1 Castle Ardenvale
+1 Castle Embereth
+1 Cavern of Souls
+1 Clifftop Retreat
+1 Command Tower
+1 Den of the Bugbear
+1 Eiganjo, Seat of the Empire
+1 Flooded Strand
+1 Inspiring Vantage
+1 Mana Confluence
+7 Mountain
+1 Needleverge Pathway
+12 Plains
+1 Sacred Foundry
+1 Sokenzan, Crucible of Defiance
+1 Sunbaked Canyon
+1 Sundown Pass
+1 Windswept Heath
+1 Wooded Foothills
+
+1 Tajic, Legion's Valor</textarea>
+</div>
+</div>
+</div>
+<div class="mon-placement loading-mon  hidden-xs" data-description="deck-footer-bottom-desktop" style="min-height:90px;margin-top:10px;" id="728x90-static-extra-1-65fe999fa0d74"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=728){document.getElementById('728x90-static-extra-1-65fe999fa0d74').innerHTML='<div  class="vm-placement" data-id="5ff70d5b360eef7a6a99cd97"></div>'}</script>
+<div class="mon-placement loading-mon  visible-xs" data-description="deck-footer-bottom-mobile" style="min-height:250px;margin-top:10px;" id="300x250-static-general-65fe999fa0d77"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth<728){document.getElementById('300x250-static-general-65fe999fa0d77').innerHTML='<div  class="vm-placement" data-id="63c0170976fa5759f2e9b513"></div>'}</script>
+</div>
+</div>
+<div class="col-md-4" style="padding-left:0;">
+<div class="hidden-xs" id="sticky-container">
+<div id="sticky" style="width:100%;max-width: 300px;">
+<div style="max-width: 230px;margin:10px auto 0 auto;">
+<div class="row text-right">
+<div id="pricesbox" class="full" style="min-width:210px;margin:0 auto;">
+<span><span goto="aHR0cHM6Ly93d3cuY2FyZGhvYXJkZXIuY29tL2RlY2tzL3VwbG9hZD9hZmZpbGlhdGVfaWQ9bXRnZGVja3MmYW1wO2RlY2s9MSBBZGVsaW5lLCBSZXNwbGVuZGVudCBDYXRoYXJ8fDEgQW5hZmVuemEsIEtpbi1UcmVlIFNwaXJpdHx8MSBBbm9pbnRlZCBQZWFjZWtlZXBlcnx8MSBCZW5hbGlzaCBLbmlnaHQtQ291bnNlbG9yfHwxIEJsb29kdGhpcnN0eSBBZHZlcnNhcnl8fDEgQm9uZWNydXNoZXIgR2lhbnR8fDEgQm9yb21pciwgV2FyZGVuIG9mIHRoZSBUb3dlcnx8MSBCcnV0YWwgQ2F0aGFyfHwxIENhdGhhciBDb21tYW5kb3x8MSBFbGl0ZSBTcGVsbGJpbmRlcnx8MSBFc3BlciBTZW50aW5lbHx8MSBGYWJsZSBvZiB0aGUgTWlycm9yLUJyZWFrZXJ8fDEgR2lhbnQgS2lsbGVyfHwxIEdpdmVyIG9mIFJ1bmVzfHwxIEd1YXJkaWFuIG9mIE5ldyBCZW5hbGlhfHwxIEhvcGVmdWwgSW5pdGlhdGV8fDEgSW5xdWlzaXRvciBDYXB0YWlufHwxIEludGksIFNlbmVzY2hhbCBvZiB0aGUgU3VufHwxIEludHJlcGlkIEFkdmVyc2FyeXx8MSBKZXdlbCBNaW5lIE92ZXJzZWVyfHwxIEtsZW1lbnQsIE5vdmljZSBBY29seXRlfHwxIEt1bWFubyBGYWNlcyBLYWtrYXphbnx8MSBMYWVsaWEsIHRoZSBCbGFkZSBSZWZvcmdlZHx8MSBMdW1pbmFyY2ggQXNwaXJhbnR8fDEgTW90aHJpZGVyIENhdmFscnl8fDEgUGF0Y2hwbGF0ZSBSZXNvbHV0ZXx8MSBSYWdhdmFuLCBOaW1ibGUgUGlsZmVyZXJ8fDEgUmFoaWxkYSwgV2FudGVkIEN1dHRocm9hdHx8MSBSYW5nZXItQ2FwdGFpbiBvZiBFb3N8fDEgUmVjcnVpdG1lbnQgT2ZmaWNlcnx8MSBSb2JiZXIgb2YgdGhlIFJpY2h8fDEgU2Vhc29uZWQgUHlyb21hbmNlcnx8MSBTaWdhcmRpYW4gRXZhbmdlbHx8MSBTa3JlbHYsIERlZmVjdG9yIE1pdGV8fDEgU2t5Y2xhdmUgQXBwYXJpdGlvbnx8MSBTcXVlZSwgRHViaW91cyBNb25hcmNofHwxIFN1bmdvbGQgU2VudGluZWx8fDEgVGhhbGlhLCBHdWFyZGlhbiBvZiBUaHJhYmVufHwxIFRpdGhlIFRha2VyfHwxIEVtYmVyY2xlYXZlfHwxIFBvcnRhYmxlIEhvbGV8fDEgU211Z2dsZXImIzAzOTtzIENvcHRlcnx8MSBHZXQgTG9zdHx8MSBMaWdodG5pbmcgQm9sdHx8MSBNYW5hIFRpdGhlfHwxIE1hcmNoIG9mIE90aGVyd29ybGRseSBMaWdodHx8MSBQYXRyaWFyJiMwMzk7cyBIdW1pbGlhdGlvbnx8MSBSZXByaWV2ZXx8MSBTb3VsIFBhcnRpdGlvbnx8MSBTd29yZHMgdG8gUGxvd3NoYXJlc3x8MSBTaG92ZSBBc2lkZXx8MSBTdHJhbmdsZXx8MSBCbG9vZCBNb29ufHwxIEN1cnNlIG9mIFNpbGVuY2V8fDEgRmxvd2VyaW5nIG9mIHRoZSBXaGl0ZSBUcmVlfHwxIEludmFzaW9uIG9mIEdvYmFraGFufHwxIFNob3dkb3duIG9mIHRoZSBTa2FsZHN8fDEgV2FybGVhZGVyJiMwMzk7cyBDYWxsfHwxIFdlZGRpbmcgQW5ub3VuY2VtZW50fHwxIENoYW5kcmEsIFRvcmNoIG9mIERlZmlhbmNlfHwxIEEtVGhyYW4gUG9ydGFsfHwxIEJhdHRsZWZpZWxkIEZvcmdlfHwxIEJsb29kc3RhaW5lZCBNaXJlfHwxIENhc3RsZSBBcmRlbnZhbGV8fDEgQ2FzdGxlIEVtYmVyZXRofHwxIENhdmVybiBvZiBTb3Vsc3x8MSBDbGlmZnRvcCBSZXRyZWF0fHwxIENvbW1hbmQgVG93ZXJ8fDEgRGVuIG9mIHRoZSBCdWdiZWFyfHwxIEVpZ2Fuam8sIFNlYXQgb2YgdGhlIEVtcGlyZXx8MSBGbG9vZGVkIFN0cmFuZHx8MSBJbnNwaXJpbmcgVmFudGFnZXx8MSBNYW5hIENvbmZsdWVuY2V8fDcgTW91bnRhaW58fDEgTmVlZGxldmVyZ2UgUGF0aHdheXx8MTIgUGxhaW5zfHwxIFNhY3JlZCBGb3VuZHJ5fHwxIFNva2VuemFuLCBDcnVjaWJsZSBvZiBEZWZpYW5jZXx8MSBTdW5iYWtlZCBDYW55b258fDEgU3VuZG93biBQYXNzfHwxIFdpbmRzd2VwdCBIZWF0aHx8MSBXb29kZWQgRm9vdGhpbGxzfHwxIFRhamljLCBMZWdpb24mIzAzOTtzIFZhbG9yfHw" class="btn btn-sm btn-warning cardhoarder col-xs-12 trackable-affiliate linker" style="background-color:#d58512;" id="fullBuyCardHoarder" target="_blank" rel="nofollow"><img src="/img/xcard_hoarder.png.pagespeed.ic.m8BUxpIbah.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="544890996" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$132.66 <span style="font-size:10px;">Tix</span></span> <span class="pull-right">@cardhoarder <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="aHR0cHM6Ly93d3cuY2FyZGhvYXJkZXIuY29tL2RlY2tzL3VwbG9hZD9pc19yZW50YWw9MSZhbXA7YWZmaWxpYXRlX2lkPW10Z2RlY2tzJmFtcDtkZWNrPTEgQWRlbGluZSwgUmVzcGxlbmRlbnQgQ2F0aGFyfHwxIEFuYWZlbnphLCBLaW4tVHJlZSBTcGlyaXR8fDEgQW5vaW50ZWQgUGVhY2VrZWVwZXJ8fDEgQmVuYWxpc2ggS25pZ2h0LUNvdW5zZWxvcnx8MSBCbG9vZHRoaXJzdHkgQWR2ZXJzYXJ5fHwxIEJvbmVjcnVzaGVyIEdpYW50fHwxIEJvcm9taXIsIFdhcmRlbiBvZiB0aGUgVG93ZXJ8fDEgQnJ1dGFsIENhdGhhcnx8MSBDYXRoYXIgQ29tbWFuZG98fDEgRWxpdGUgU3BlbGxiaW5kZXJ8fDEgRXNwZXIgU2VudGluZWx8fDEgRmFibGUgb2YgdGhlIE1pcnJvci1CcmVha2VyfHwxIEdpYW50IEtpbGxlcnx8MSBHaXZlciBvZiBSdW5lc3x8MSBHdWFyZGlhbiBvZiBOZXcgQmVuYWxpYXx8MSBIb3BlZnVsIEluaXRpYXRlfHwxIElucXVpc2l0b3IgQ2FwdGFpbnx8MSBJbnRpLCBTZW5lc2NoYWwgb2YgdGhlIFN1bnx8MSBJbnRyZXBpZCBBZHZlcnNhcnl8fDEgSmV3ZWwgTWluZSBPdmVyc2Vlcnx8MSBLbGVtZW50LCBOb3ZpY2UgQWNvbHl0ZXx8MSBLdW1hbm8gRmFjZXMgS2Fra2F6YW58fDEgTGFlbGlhLCB0aGUgQmxhZGUgUmVmb3JnZWR8fDEgTHVtaW5hcmNoIEFzcGlyYW50fHwxIE1vdGhyaWRlciBDYXZhbHJ5fHwxIFBhdGNocGxhdGUgUmVzb2x1dGV8fDEgUmFnYXZhbiwgTmltYmxlIFBpbGZlcmVyfHwxIFJhaGlsZGEsIFdhbnRlZCBDdXR0aHJvYXR8fDEgUmFuZ2VyLUNhcHRhaW4gb2YgRW9zfHwxIFJlY3J1aXRtZW50IE9mZmljZXJ8fDEgUm9iYmVyIG9mIHRoZSBSaWNofHwxIFNlYXNvbmVkIFB5cm9tYW5jZXJ8fDEgU2lnYXJkaWFuIEV2YW5nZWx8fDEgU2tyZWx2LCBEZWZlY3RvciBNaXRlfHwxIFNreWNsYXZlIEFwcGFyaXRpb258fDEgU3F1ZWUsIER1YmlvdXMgTW9uYXJjaHx8MSBTdW5nb2xkIFNlbnRpbmVsfHwxIFRoYWxpYSwgR3VhcmRpYW4gb2YgVGhyYWJlbnx8MSBUaXRoZSBUYWtlcnx8MSBFbWJlcmNsZWF2ZXx8MSBQb3J0YWJsZSBIb2xlfHwxIFNtdWdnbGVyJiMwMzk7cyBDb3B0ZXJ8fDEgR2V0IExvc3R8fDEgTGlnaHRuaW5nIEJvbHR8fDEgTWFuYSBUaXRoZXx8MSBNYXJjaCBvZiBPdGhlcndvcmxkbHkgTGlnaHR8fDEgUGF0cmlhciYjMDM5O3MgSHVtaWxpYXRpb258fDEgUmVwcmlldmV8fDEgU291bCBQYXJ0aXRpb258fDEgU3dvcmRzIHRvIFBsb3dzaGFyZXN8fDEgU2hvdmUgQXNpZGV8fDEgU3RyYW5nbGV8fDEgQmxvb2QgTW9vbnx8MSBDdXJzZSBvZiBTaWxlbmNlfHwxIEZsb3dlcmluZyBvZiB0aGUgV2hpdGUgVHJlZXx8MSBJbnZhc2lvbiBvZiBHb2Jha2hhbnx8MSBTaG93ZG93biBvZiB0aGUgU2thbGRzfHwxIFdhcmxlYWRlciYjMDM5O3MgQ2FsbHx8MSBXZWRkaW5nIEFubm91bmNlbWVudHx8MSBDaGFuZHJhLCBUb3JjaCBvZiBEZWZpYW5jZXx8MSBBLVRocmFuIFBvcnRhbHx8MSBCYXR0bGVmaWVsZCBGb3JnZXx8MSBCbG9vZHN0YWluZWQgTWlyZXx8MSBDYXN0bGUgQXJkZW52YWxlfHwxIENhc3RsZSBFbWJlcmV0aHx8MSBDYXZlcm4gb2YgU291bHN8fDEgQ2xpZmZ0b3AgUmV0cmVhdHx8MSBDb21tYW5kIFRvd2VyfHwxIERlbiBvZiB0aGUgQnVnYmVhcnx8MSBFaWdhbmpvLCBTZWF0IG9mIHRoZSBFbXBpcmV8fDEgRmxvb2RlZCBTdHJhbmR8fDEgSW5zcGlyaW5nIFZhbnRhZ2V8fDEgTWFuYSBDb25mbHVlbmNlfHw3IE1vdW50YWlufHwxIE5lZWRsZXZlcmdlIFBhdGh3YXl8fDEyIFBsYWluc3x8MSBTYWNyZWQgRm91bmRyeXx8MSBTb2tlbnphbiwgQ3J1Y2libGUgb2YgRGVmaWFuY2V8fDEgU3VuYmFrZWQgQ2FueW9ufHwxIFN1bmRvd24gUGFzc3x8MSBXaW5kc3dlcHQgSGVhdGh8fDEgV29vZGVkIEZvb3RoaWxsc3x8MSBUYWppYywgTGVnaW9uJiMwMzk7cyBWYWxvcnx8" class="btn btn-sm btn-warning cardhoarder col-xs-12 trackable-affiliate linker" style="background-color:#2ab56d;" id="fullLoanCardHoarder" target="_blank" rel="nofollow"><img src="/img/xcard_hoarder.png.pagespeed.ic.m8BUxpIbah.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="544890996" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$3.32 <span style="font-size:10px;">/ Week</span></span> <span class="pull-right">@cardhoarder <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="aHR0cHM6Ly90Y2dwbGF5ZXIucHhmLmlvL2J1eS1tdGctZGVja3M_dT1odHRwczovL3d3dy50Y2dwbGF5ZXIuY29tL21hc3NlbnRyeT9jPTEgQWRlbGluZSwgUmVzcGxlbmRlbnQgQ2F0aGFyfHwxIEFuYWZlbnphLCBLaW4tVHJlZSBTcGlyaXR8fDEgQW5vaW50ZWQgUGVhY2VrZWVwZXJ8fDEgQmVuYWxpc2ggS25pZ2h0LUNvdW5zZWxvcnx8MSBCbG9vZHRoaXJzdHkgQWR2ZXJzYXJ5fHwxIEJvbmVjcnVzaGVyIEdpYW50fHwxIEJvcm9taXIsIFdhcmRlbiBvZiB0aGUgVG93ZXJ8fDEgQnJ1dGFsIENhdGhhcnx8MSBDYXRoYXIgQ29tbWFuZG98fDEgRWxpdGUgU3BlbGxiaW5kZXJ8fDEgRXNwZXIgU2VudGluZWx8fDEgRmFibGUgb2YgdGhlIE1pcnJvci1CcmVha2VyfHwxIEdpYW50IEtpbGxlcnx8MSBHaXZlciBvZiBSdW5lc3x8MSBHdWFyZGlhbiBvZiBOZXcgQmVuYWxpYXx8MSBIb3BlZnVsIEluaXRpYXRlfHwxIElucXVpc2l0b3IgQ2FwdGFpbnx8MSBJbnRpLCBTZW5lc2NoYWwgb2YgdGhlIFN1bnx8MSBJbnRyZXBpZCBBZHZlcnNhcnl8fDEgSmV3ZWwgTWluZSBPdmVyc2Vlcnx8MSBLbGVtZW50LCBOb3ZpY2UgQWNvbHl0ZXx8MSBLdW1hbm8gRmFjZXMgS2Fra2F6YW58fDEgTGFlbGlhLCB0aGUgQmxhZGUgUmVmb3JnZWR8fDEgTHVtaW5hcmNoIEFzcGlyYW50fHwxIE1vdGhyaWRlciBDYXZhbHJ5fHwxIFBhdGNocGxhdGUgUmVzb2x1dGV8fDEgUmFnYXZhbiwgTmltYmxlIFBpbGZlcmVyfHwxIFJhaGlsZGEsIFdhbnRlZCBDdXR0aHJvYXR8fDEgUmFuZ2VyLUNhcHRhaW4gb2YgRW9zfHwxIFJlY3J1aXRtZW50IE9mZmljZXJ8fDEgUm9iYmVyIG9mIHRoZSBSaWNofHwxIFNlYXNvbmVkIFB5cm9tYW5jZXJ8fDEgU2lnYXJkaWFuIEV2YW5nZWx8fDEgU2tyZWx2LCBEZWZlY3RvciBNaXRlfHwxIFNreWNsYXZlIEFwcGFyaXRpb258fDEgU3F1ZWUsIER1YmlvdXMgTW9uYXJjaHx8MSBTdW5nb2xkIFNlbnRpbmVsfHwxIFRoYWxpYSwgR3VhcmRpYW4gb2YgVGhyYWJlbnx8MSBUaXRoZSBUYWtlcnx8MSBFbWJlcmNsZWF2ZXx8MSBQb3J0YWJsZSBIb2xlfHwxIFNtdWdnbGVyJiMwMzk7cyBDb3B0ZXJ8fDEgR2V0IExvc3R8fDEgTGlnaHRuaW5nIEJvbHR8fDEgTWFuYSBUaXRoZXx8MSBNYXJjaCBvZiBPdGhlcndvcmxkbHkgTGlnaHR8fDEgUGF0cmlhciYjMDM5O3MgSHVtaWxpYXRpb258fDEgUmVwcmlldmV8fDEgU291bCBQYXJ0aXRpb258fDEgU3dvcmRzIHRvIFBsb3dzaGFyZXN8fDEgU2hvdmUgQXNpZGV8fDEgU3RyYW5nbGV8fDEgQmxvb2QgTW9vbnx8MSBDdXJzZSBvZiBTaWxlbmNlfHwxIEZsb3dlcmluZyBvZiB0aGUgV2hpdGUgVHJlZXx8MSBJbnZhc2lvbiBvZiBHb2Jha2hhbnx8MSBTaG93ZG93biBvZiB0aGUgU2thbGRzfHwxIFdhcmxlYWRlciYjMDM5O3MgQ2FsbHx8MSBXZWRkaW5nIEFubm91bmNlbWVudHx8MSBDaGFuZHJhLCBUb3JjaCBvZiBEZWZpYW5jZXx8MSBBLVRocmFuIFBvcnRhbHx8MSBCYXR0bGVmaWVsZCBGb3JnZXx8MSBCbG9vZHN0YWluZWQgTWlyZXx8MSBDYXN0bGUgQXJkZW52YWxlfHwxIENhc3RsZSBFbWJlcmV0aHx8MSBDYXZlcm4gb2YgU291bHN8fDEgQ2xpZmZ0b3AgUmV0cmVhdHx8MSBDb21tYW5kIFRvd2VyfHwxIERlbiBvZiB0aGUgQnVnYmVhcnx8MSBFaWdhbmpvLCBTZWF0IG9mIHRoZSBFbXBpcmV8fDEgRmxvb2RlZCBTdHJhbmR8fDEgSW5zcGlyaW5nIFZhbnRhZ2V8fDEgTWFuYSBDb25mbHVlbmNlfHw3IE1vdW50YWlufHwxIE5lZWRsZXZlcmdlIFBhdGh3YXl8fDEyIFBsYWluc3x8MSBTYWNyZWQgRm91bmRyeXx8MSBTb2tlbnphbiwgQ3J1Y2libGUgb2YgRGVmaWFuY2V8fDEgU3VuYmFrZWQgQ2FueW9ufHwxIFN1bmRvd24gUGFzc3x8MSBXaW5kc3dlcHQgSGVhdGh8fDEgV29vZGVkIEZvb3RoaWxsc3x8MSBUYWppYywgTGVnaW9uJiMwMzk7cyBWYWxvcnx8" target="_blank" class="btn btn-sm btn-info tcgplayer col-xs-12 trackable-affiliate linker" rel="nofollow" style><img src="/img/xtcg_player.png.pagespeed.ic.NsPxYAisW6.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="3688563198" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;opacity:0.9;">$471.93</span> <span class="pull-right">@tcgplayer <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<span><span goto="Iw" class="btn btn-sm btn-primary cardhoarder col-xs-12 trackable-affiliate linker" id="fullBuyCardKingdom" rel="nofollow"><img src="/img/xcardkingdom.png.pagespeed.ic.YmhnOpflQI.png" class="pull-left" height="20px" style="padding: 0 10px;" alt data-pagespeed-url-hash="3219524819" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price pull-left" style="font-size:14px;">$594.30</span> <span class="pull-right">@cardkingdom <span class="glyphicon glyphicon-chevron-right"></span>&nbsp; </span></span></span>
+<form target="_blank" data-target="cardkingdom" id="fullDeckBuyCardKingdom" method="post" action="https://www.cardkingdom.com/builder/?utm_source=mtgdecks&utm_medium=affiliate&utm_campaign=mtgdecks">
+<input type="hidden" name="c" value="1 Adeline, Resplendent Cathar||1 Anafenza, Kin-Tree Spirit||1 Anointed Peacekeeper||1 Benalish Knight-Counselor||1 Bloodthirsty Adversary||1 Bonecrusher Giant||1 Boromir, Warden of the Tower||1 Brutal Cathar||1 Cathar Commando||1 Elite Spellbinder||1 Esper Sentinel||1 Fable of the Mirror-Breaker||1 Giant Killer||1 Giver of Runes||1 Guardian of New Benalia||1 Hopeful Initiate||1 Inquisitor Captain||1 Inti, Seneschal of the Sun||1 Intrepid Adversary||1 Jewel Mine Overseer||1 Klement, Novice Acolyte||1 Kumano Faces Kakkazan||1 Laelia, the Blade Reforged||1 Luminarch Aspirant||1 Mothrider Cavalry||1 Patchplate Resolute||1 Ragavan, Nimble Pilferer||1 Rahilda, Wanted Cutthroat||1 Ranger-Captain of Eos||1 Recruitment Officer||1 Robber of the Rich||1 Seasoned Pyromancer||1 Sigardian Evangel||1 Skrelv, Defector Mite||1 Skyclave Apparition||1 Squee, Dubious Monarch||1 Sungold Sentinel||1 Thalia, Guardian of Thraben||1 Tithe Taker||1 Embercleave||1 Portable Hole||1 Smuggler's Copter||1 Get Lost||1 Lightning Bolt||1 Mana Tithe||1 March of Otherworldly Light||1 Patriar's Humiliation||1 Reprieve||1 Soul Partition||1 Swords to Plowshares||1 Shove Aside||1 Strangle||1 Blood Moon||1 Curse of Silence||1 Flowering of the White Tree||1 Invasion of Gobakhan||1 Showdown of the Skalds||1 Warleader's Call||1 Wedding Announcement||1 Chandra, Torch of Defiance||1 A-Thran Portal||1 Battlefield Forge||1 Bloodstained Mire||1 Castle Ardenvale||1 Castle Embereth||1 Cavern of Souls||1 Clifftop Retreat||1 Command Tower||1 Den of the Bugbear||1 Eiganjo, Seat of the Empire||1 Flooded Strand||1 Inspiring Vantage||1 Mana Confluence||7 Mountain||1 Needleverge Pathway||12 Plains||1 Sacred Foundry||1 Sokenzan, Crucible of Defiance||1 Sunbaked Canyon||1 Sundown Pass||1 Windswept Heath||1 Wooded Foothills||1 Tajic, Legion's Valor||">
+<input type="hidden" name="partner" value="mtgdecks">
+</form>
+</div>
+</div>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="9">$(".full").on('click','#fullBuyCardKingdom',function(event){$("#fullDeckBuyCardKingdom").submit();return false;});$(".full").on('click','.trackable-affiliate',function(e){affiliate_label=$(this).attr('data-target');ga(function(){ga("send","event",{eventCategory:"Link",eventAction:"Outbound",eventLabel:affiliate_label,nonInteraction:true,});});});</script> </div>
+<div class="col-md-12 sidebar hidden-xs hidden-sm" style="margin:10px 0;">
+<div id="layer" class="text-center col-xs-12 hidden-xs">
+<img src="/img/cards/xcardback.png.pagespeed.ic.8ujA2bNxka.png" class="imageChange" alt data-pagespeed-url-hash="889079061" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> </div>
+<div id="footer_prices" class="col-xs-12 text-center hidden-xs">
+<strong>Hover a card name to see its price</strong>
+<div id="PricesTable">
+<table id="TCGPHiLoTable" cellspacing="0" cellpadding="1" border="0" width="100%">
+<tbody>
+<tr>
+<td class="tcgplayer" style="background: #5bc0de;color:white" width="50%">
+<a href><img src="/img/xtcg_player.png.pagespeed.ic.NsPxYAisW6.png" class="img-responsive pull-left" style="max-width:16px" alt data-pagespeed-url-hash="3688563198" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" />$<span class="price">?</span></a>
+</td>
+<td class="cardkingdom" style="background:#091f47;color:white" width="50%">
+<a href><img src="/img/xcardkingdom.png.pagespeed.ic.YmhnOpflQI.png" class="img-responsive pull-left" style="max-width:16px" alt data-pagespeed-url-hash="3219524819" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" />$<span class="price">?</span></a>
+</td>
+</tr>
+<tr>
+<td class="cardhoarder" colspan="2" style="background: #d58512;colow:white">
+<a href><img src="/img/xcard_hoarder.png.pagespeed.ic.m8BUxpIbah.png" class="img-responsive pull-left" style="max-width:16px" alt data-pagespeed-url-hash="544890996" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /><span class="price">?</span> TIX</a>
+</td>
+</tr>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="text-center col-xs-12">
+<button type="button" class="btn btn-danger btn-md" data-toggle="modal" data-target="#suggestArchetype" style="margin-top:-20px;margin.bottom: 20px;">
+<span class="glyphicon glyphicon-exclamation-sign"></span> Report Deck Error
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12">
+<br/>
+<span class="small">Last update: 2024-03-23 08:40:53</span>
+</div>
+<div class="modal fade" id="addToCollection" tabindex="-1" role="dialog" aria-labelledby="addToCollection" style="z-index: 999999999;">
+<div class="modal-dialog" role="document" style="max-width: 300px;">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<b class="modal-title text-uppercase" id="myModalLabel">Add/Remove card to Collection</b>
+<br/>
+<form action="/collections/add" id="addToCollectionForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST" /></div>
+<div class="row">
+<div class="form-group form-group-md label-static col-xs-12 required"><input name="data[Collection][card_id]" type="text" class="form-control" readonly="readonly" id="CollectionCardId" /></div><div class="form-group form-group-md label-static col-xs-12"><label for="CollectionQuantity">Quantity</label><select name="data[Collection][quantity]" class="form-control" id="CollectionQuantity">
+<option value="0">0</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4" selected="selected">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+<option value="32">32</option>
+<option value="33">33</option>
+<option value="34">34</option>
+<option value="35">35</option>
+<option value="36">36</option>
+<option value="37">37</option>
+<option value="38">38</option>
+<option value="39">39</option>
+<option value="40">40</option>
+<option value="41">41</option>
+<option value="42">42</option>
+<option value="43">43</option>
+<option value="44">44</option>
+<option value="45">45</option>
+<option value="46">46</option>
+<option value="47">47</option>
+<option value="48">48</option>
+<option value="49">49</option>
+<option value="50">50</option>
+<option value="51">51</option>
+<option value="52">52</option>
+<option value="53">53</option>
+<option value="54">54</option>
+<option value="55">55</option>
+<option value="56">56</option>
+<option value="57">57</option>
+<option value="58">58</option>
+<option value="59">59</option>
+<option value="60">60</option>
+<option value="61">61</option>
+<option value="62">62</option>
+<option value="63">63</option>
+<option value="64">64</option>
+<option value="65">65</option>
+<option value="66">66</option>
+<option value="67">67</option>
+<option value="68">68</option>
+<option value="69">69</option>
+<option value="70">70</option>
+<option value="71">71</option>
+<option value="72">72</option>
+<option value="73">73</option>
+<option value="74">74</option>
+<option value="75">75</option>
+<option value="76">76</option>
+<option value="77">77</option>
+<option value="78">78</option>
+<option value="79">79</option>
+<option value="80">80</option>
+<option value="81">81</option>
+<option value="82">82</option>
+<option value="83">83</option>
+<option value="84">84</option>
+<option value="85">85</option>
+<option value="86">86</option>
+<option value="87">87</option>
+<option value="88">88</option>
+<option value="89">89</option>
+<option value="90">90</option>
+<option value="91">91</option>
+<option value="92">92</option>
+<option value="93">93</option>
+<option value="94">94</option>
+<option value="95">95</option>
+<option value="96">96</option>
+<option value="97">97</option>
+<option value="98">98</option>
+<option value="99">99</option>
+<option value="100">100</option>
+</select></div><div class="form-group form-group-md label-static col-xs-12 required"><label for="CollectionFolder">Collection folder</label><select name="data[Collection][folder]" class="form-control" id="CollectionFolder">
+<option value="arena">arena</option>
+<option value="mtgo">mtgo</option>
+<option value="paper" selected="selected">paper</option>
+</select></div> </div>
+<div class="submit"><input class="btn btn-md btn-primary full-width" data-event-label="click_add_to_collection_submit" type="submit" value="Add to my collection" /></div>
+</form>
+<div class="small text-center">
+<div style="margin:5px 0">-- OR --</div>
+<div class="btn-group">
+<button class="btn btn-default btn-xs dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+-- Remove from collection --<span class="caret"></span>
+</button>
+<ul class="dropdown-menu">
+<li><a class="small" data-card data-collection-remove="mtgo" href="#"><span class="fa fa-times"></span> Remove from MTGO folder</a></li>
+<li><a class="small" data-card data-collection-remove="arena" href="#"><span class="fa fa-times"></span> Remove from MTGA folder</a></li>
+<li><a class="small" data-card data-collection-remove="paper" href="#"><span class="fa fa-times"></span> Remove from PAPER folder</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="suggestArchetype" tabindex="-1" role="dialog" aria-labelledby="suggestArchetypeLabel" style="z-index: 999999999;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title text-uppercase" id="myModalLabel">Suggest Archetype</h4>
+<br/>
+<form action="/suggestions/add" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST" /></div>
+<input type="hidden" name="data[Suggestion][deck_id]" value="1975361" id="SuggestionDeckId" /><div class="form-group form-group-md label-static col-xs-12"><label for="SuggestionArchetypeId">Suggest a change to:</label><select name="data[Suggestion][archetype_id]" class="form-control" id="SuggestionArchetypeId">
+</select></div>
+<div class="text-center">&mdash; <b>OR</b> &mdash; </div>
+<div class="form-group form-group-md label-static col-xs-12"><label for="SuggestionName">Suggest a new archetype name</label><input name="data[Suggestion][name]" type="text" class="form-control" id="SuggestionName" /></div>
+<br/>
+<br/>
+<div class="form-group form-group-md label-static col-xs-12"><label for="SuggestionQuestion">SECURITY QUESTION:</label><select name="data[Suggestion][question]" class="form-control" required="1" id="SuggestionQuestion">
+<option value>Select the BLUE mana source</option>
+<option value="M">Mountain</option>
+<option value="P">Plains</option>
+<option value="S">Swamp</option>
+<option value="I">Island</option>
+<option value="F">Forest</option>
+<option value="A">Artifact</option>
+</select></div>
+<br/><br/>
+<br/><br/>
+<div class="form-group form-group-md label-static col-xs-12">
+<div class="submit"><input class="btn btn-md btn-primary" style="margin-top:20px" type="submit" value="Send archetype suggestion" /></div>
+</div>
+<div class="form-group form-group-md label-static col-xs-12">
+<i>We will make the change as soon as possible. Thanks!</i>
+</div>
+</form>
+</div>
+<div class="modal-footer text-left">
+</div>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="10">var disqus_config=function(){this.page.url='https://mtgdecks.net/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361'
+this.page.identifier='deck-1975361';};</script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="11">$(function(){$(window).scroll(function(){var stickyTop=$('#sticky-reference').offset().top-10;var menusHeight=$('#usermenu').height()+$('#navigation').height();var windowTop=$(window).scrollTop();var footerTop=$("#footer").offset().top-$(window).height();if((windowTop+menusHeight)>stickyTop){$('#sticky').css('position','fixed');$('#sticky').css('margin-top',(stickyTop-menusHeight)*-1);}else{$('#sticky').css('margin-top',0);$('#sticky').css('position','relative');}});$('.cardItem a,.cardItem .flip').mouseover(function(){image=$(this).attr('image');type=$(this).attr('type');if(type!==undefined&&type.indexOf("battle")>=0){$(".imageChange").css("transform","rotate(90deg) scale(0.9)");}else{$(".imageChange").css("transform","rotate(0deg) scale(1)");}$(".imageChange").attr("src",image);$('#footer_prices').show();var sites=['cardhoarder','cardkingdom','tcgplayer'];var currentCard=$(this).parent().parent();sites.forEach(updatePrices);function updatePrices(item,index){if(currentCard.attr(item)>0){$('#footer_prices .'+item+' .price').empty().append(currentCard.attr(item));}else{$('#footer_prices .'+item+' .price').empty().append('--');}}});});</script>
+<div id="status">
+</div>
+<div class="modal fade" id="remoteModal" tabindex="-1" role="dialog" style="z-index: 999999999;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-2 col-sm-3 col-xs-12">
+<img src="/img/logo.svg" loading="lazy" height="40px" alt="Mtg decks" data-pagespeed-url-hash="1923278652" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> <br class="visible-xs"><br class="visible-xs">
+<div class="small">
+<i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i> Bool Monkey SL.<br/>
+Calle Pintor Espinosa 21 <br/>
+Córdoba, 14004 <br/>
+Spain
+</div>
+<br/><br/>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Competitive Formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Standard">Standard Decks</a></li>
+<li><a href="/Pioneer">Pioneer Decks </a></li>
+<li><a href="/Modern">Modern Decks</a></li>
+<li><a href="/Pauper">Pauper Decks </a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Arena exclusive formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Alchemy">Alchemy Decks </a></li>
+<li><a href="/Explorer">Explorer Decks </a></li>
+<li><a href="/Historic">Historic Decks </a></li>
+<li><a href="/Timeless">Timeless Decks </a></li>
+<li><a href="/Brawl">Brawl Decks </a></li>
+<li><a href="/Historic-Brawl">Historic-Brawl Decks </a></li>
+</ul>
+<b>Commander Formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Commander">Commander Decks </a></li>
+<li><a href="/Duel-Commander">Duel-Commander Decks </a></li>
+<li><span><span goto="L1JlYWwtQ29tbWFuZGVy" class="linker">Real Commander decks</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Eternal & Old School</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Legacy">Legacy Decks </a></li>
+<li><a href="/Vintage">Vintage Decks </a></li>
+<li><a href="/Premodern">Premodern Decks </a></li>
+<li><a href="/Old-school">Old School Decks </a></li>
+<li><span><span goto="L0NsYXNzaWMtTGVnYWN5" class="linker">Classic-Legacy Decks</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Content & Prices</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/articles">MTGDecks Articles</a></li>
+<li><a href="/players">Best deckbuilders</a></li>
+<li><a href="/prices">Card Prices</a></li>
+</ul>
+<br class="visible-sm" />
+<b>Terms & Privacy</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><span><span goto="L3BhZ2VzL3ByaXZhY3k" class="linker">Privacy &amp; Cookies policy</span></span></li>
+<li><span><span goto="L3BhZ2VzL3Rlcm1z" class="linker">Terms of service</span></span></li>
+<li><span><span goto="L3BhZ2VzL2ZhcQ" class="linker">FAQ</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Contact & Collaborate</b>
+<ul class="footer-list">
+<li><span><span goto="L2NvbnRhY3Q" class="linker">Contact Form</span></span></li>
+<li><a href="/cdn-cgi/l/email-protection#1774787963767463577a63707372747c6439797263">Email Us</a></li>
+<li><span><span goto="L2V2ZW50cy9hZGQ" class="linker">Submit an event</span></span></li>
+<li><span><span goto="L3BhZ2VzL3N1cHBvcnQ" class="linker">Make a donation</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Partner sites</b>
+<ul class="footer-list">
+<li><a href="https://inkdecks.com">Inkdecks.com - Lorcana decks</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<br class="visible-xs">
+<div class="col-xs-12">
+<b><span data-ccpa-link="1"></span></b><br/>
+Mtgdecks.net &copy;2009-2024. This site provides accurate and independent information on more than 500.000 Magic the Gathering Decks, tournaments and magic singles prices. You can learn more about our database at our <a href="https://datasetsearch.research.google.com/search?docid=et8X1leyAPiU%2FJE9AAAAAA%3D%3D">Google Dataset</a>. This material is provided "as is", with absolutely no warranty expressed or implied. Data sources include Tcgplayer, Mtgtop8, Mtgmelee, Starcitygames, Wizards of the Coast, The Gatherer and many others. To view content sources and attributions, please refer to each tournament info.
+</div>
+<div class="col-xs-12">
+<p>
+<a href="https://facebook.com/mtgdecks"><img src="/img/fb.png" class="img-responsive pull-left" loading="lazy" width="32" alt="facebook" style="margin-right:10px;" data-pagespeed-url-hash="3873147398" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></a>
+<a href="https://twitter.com/mtgdecks"><img src="/img/twitter.png" class="img-responsive pull-left" loading="lazy" width="32" alt="twitter" style="margin-right:10px;" data-pagespeed-url-hash="3565025811" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></a>
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=df78bee2-de42-427e-94fa-99b4a92be11d" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=df78bee2-de42-427e-94fa-99b4a92be11d" loading="lazy" alt="DMCA.com Protection Status" data-pagespeed-url-hash="3291580540" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"></a>
+</p>
+<p style="font-size:10px;color:gray">The information presented on this site about Magic: The Gathering, both literal and graphical, is copyrighted by Wizards of the Coast. This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast.
+</p>
+</div>
+</div>
+</div>
+<div class="menus">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navigation">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#mainmenu" aria-expanded="false" aria-controls="mainmenu">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<button class="navbar-toggle" style="margin:0" type="button" aria-expanded="false">
+<div itemprop="name" class="label-prime">
+<a href="/users/users/login" class="box"><span class="fa fa-sign-in"></span> Login</a> </div>
+</button>
+<a class="navbar-brand" href="/">
+<span class="hidden-xs"><img src="/img/logo.svg" style="margin-top:9px;height:30px;margin-left:10px;" alt="mtg decks" data-pagespeed-url-hash="1923278652" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></span>
+<span class="visible-xs" style="padding: 12px 5px 0 5px;"><img src="/img/logoMobile.svg" height="25" alt="mtg decks" data-pagespeed-url-hash="754650962" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></span>
+</a>
+<form class="navbar-form navbar-left hidden-sm ahidden-xs" role="search">
+<div class="input-group">
+<input type="text" class="form-control typeahead" style="width: 100%;" id="cardSearchTop" placeholder="Search a Card">
+</div>
+</form>
+<span class="navbar-left hidden-xs">
+<div itemprop="name" class="label-prime btn" style="padding: 6px 0;">
+<a href="/users/users/login" class="box"><span class="fa fa-sign-in"></span> Login</a> </div>
+</span>
+</div>
+<div class="collapse navbar-collapse js-navbar-collapse navbar-right" id="mainmenu">
+<nav>
+<ul class="nav navbar-nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li itemprop="name" class="hidden-xs"><a href="/Standard" itemprop="url">Standard</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Timeless" itemprop="url">Timeless</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Modern" itemprop="url">Modern</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Legacy" itemprop="url">Legacy</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Pauper" itemprop="url">Pauper</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Commander" itemprop="url">Commander</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Pioneer" itemprop="url">Pioneer</a></li>
+<li class="visible-xs">
+<div class="menu-header"><b>Decks & Meta by format:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Standard"><span class="letterize inverted Standard" style="font-size:14px;margin:5px 10px;">Standard</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Pioneer"><span class="letterize inverted Pioneer" style="font-size:14px;margin:5px 10px;">Pioneer</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Modern"><span class="letterize inverted Modern" style="font-size:14px;margin:5px 10px;">Modern</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Pauper"><span class="letterize inverted Pauper" style="font-size:14px;margin:5px 10px;">Pauper</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Premodern"><span class="letterize inverted Premodern" style="font-size:14px;margin:5px 10px;">Premodern</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Legacy"><span class="letterize inverted Legacy" style="font-size:14px;margin:5px 10px;">Legacy</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Classic-Legacy"><span class="letterize inverted Classic-Legacy" style="font-size:14px;margin:5px 10px;">Classic-Legacy</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Vintage"><span class="letterize inverted Vintage" style="font-size:14px;margin:5px 10px;">Vintage</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Commander"><span class="letterize inverted Commander" style="font-size:14px;margin:5px 10px;">Commander</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Duel-Commander"><span class="letterize inverted Duel-Commander" style="font-size:14px;margin:5px 10px;">Duel-Commander</span></a>
+</div>
+</div>
+<div class="menu-header"><b>MTG Arena decks & meta:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Alchemy"><span class="letterize inverted Alchemy" style="font-size:14px;margin:5px 10px;">Alchemy</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Explorer"><span class="letterize inverted Explorer" style="font-size:14px;margin:5px 10px;">Explorer</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Historic"><span class="letterize inverted Historic" style="font-size:14px;margin:5px 10px;">Historic</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Timeless"><span class="letterize inverted Timeless" style="font-size:14px;margin:5px 10px;">Timeless</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Brawl"><span class="letterize inverted Brawl" style="font-size:14px;margin:5px 10px;">Brawl</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Historic-Brawl"><span class="letterize inverted Historic-Brawl" style="font-size:14px;margin:5px 10px;">Historic-Brawl</span></a>
+</div>
+</div>
+<div class="menu-header"><b>Read our content:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center">
+<a href="/articles" class="btn btn-default btn-xs full-width" style="font-size:14px;margin:5px 10px;"><img src="/img/logoSmall2.svg" width="20" alt="MTGdecks" data-pagespeed-url-hash="425135551" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> Articles</a> </div>
+</div>
+</li>
+<li class="visible-xs omniSwitch">
+<div class="menu-header"><b>Card prices preferences:</b></div>
+<div class="priceSwitcher" style="padding:0px 0;margin:5px 10px;">
+<div id="onlineButton" data-format="mtgo" class="btn btn-xs btn-default">
+<img src="/img/icons/xmtgo_black.png.pagespeed.ic.H3srSg8h7S.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="1373742378" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTGO
+</div>
+<div id="mtgaButton" data-format="arena" class="btn btn-xs btn-default">
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> ARENA
+</div>
+<div id="paperButton" data-format="paper" class="btn btn-xs btn-primary">
+<img src="/img/icons/xmtg.png.pagespeed.ic.S2FSPZPuOM.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="62060803" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> PAPER
+</div>
+</div>
+<br/>
+</li>
+<li class="dropdown dropdown-large hidden-xs">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-plus"></span> More <b class="caret"></b></a>
+<ul class="dropdown-menu dropdown-menu-large row">
+<li class="col-sm-3">
+<ul>
+<li class="dropdown-header">Other Formats</li>
+<li itemprop="name">
+<a href="/Duel-Commander" itemprop="url">Duel-Commander</a> </li>
+<li itemprop="name">
+<a href="/Vintage" itemprop="url">Vintage</a> </li>
+<li itemprop="name">
+<a href="/Premodern" itemprop="url">Premodern</a> </li>
+<li itemprop="name">
+<a href="/Alchemy" itemprop="url">Alchemy</a> </li>
+<li itemprop="name">
+<a href="/Explorer" itemprop="url">Explorer</a> </li>
+<li itemprop="name">
+<a href="/Historic" itemprop="url">Historic</a> </li>
+<li itemprop="name">
+<a href="/Brawl" itemprop="url">Brawl</a> </li>
+<li itemprop="name">
+<a href="/Classic-Legacy" itemprop="url">Classic-Legacy</a> </li>
+<li itemprop="name">
+<a href="/Real-Commander" itemprop="url">Real-Commander</a> </li>
+<li itemprop="name"><a href="/mtgo" itemprop="url">MTGO Decks</a></li>
+</ul>
+</li>
+<li class="col-sm-3">
+<ul>
+<li class="dropdown-header">Help & Contact</li>
+<li><span><span goto="L2NvbnRhY3QvaW5kZXg" class="linker">Contact Us</span></span></li>
+<li class="dropdown-header">Tools & Search</li>
+<li><span><span goto="L2Zvcm1hdHMvY29zdEFuYWx5c2lz" class="linker">Cost Analysis</span></span></li>
+<li><span><span goto="L2RlY2tzL3NlYXJjaA" class="linker">Advanced Search</span></span></li>
+<li><a href="/players">Best deckbuilders</a></li>
+<li class="dropdown-header">Articles</li>
+<li><a href="/articles"><img src="/img/logoSmall2.svg" width="20" alt="MTGdecks" data-pagespeed-url-hash="425135551" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTG Articles</a></li>
+<li class="dropdown-header">Contribute to MTG Decks</li>
+<li>
+<span><span goto="L2V2ZW50cy9hZGQ" class="btn btn-sm btn-info linker" style="color:white;">Submit your event <span class="glyphicon glyphicon-chevron-right transparent"></span></span></span> <br/>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="/js/typeahead.bundle.min.js.pagespeed.jm.kNF28sk6nX.js" type="text/psajs" data-pagespeed-orig-index="12"></script>
+<script data-pagespeed-orig-type="text/javascript" src="/js/bootstrap.min.js" type="text/psajs" data-pagespeed-orig-index="13"></script> <script data-pagespeed-orig-type="text/javascript" src="/js/custom.js.pagespeed.ce.R9ULC_F5yg.js" type="text/psajs" data-pagespeed-orig-index="14"></script> <script data-pagespeed-orig-type="text/javascript" src="/js/base64.min.js" type="text/psajs" data-pagespeed-orig-index="15"></script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="16">var a='https://';var c='net';var b='mtgdecks';function mtgdecks(dir){document.location=a+b+'.'+c+'/'+dir+'/';}</script>
+<script type="text/psajs" data-pagespeed-orig-index="17">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-955231-6','auto');ga('send','pageview');</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XB47XKY0ZZ" type="text/psajs" data-pagespeed-orig-index="18"></script>
+<script type="text/psajs" data-pagespeed-orig-index="19">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XB47XKY0ZZ');</script>
+<script pagespeed_no_defer data-pagespeed-no-defer defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;8120d1cd6d1a442b8d41b849e06765f9&quot;}"></script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="20">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","cqjowuu4r7");</script>
+
+<script type="text/psajs" data-pagespeed-orig-index="21">!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');twq('config','ocsx9');</script>
+<link rel="preload" href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" as="style" data-pagespeed-onload="this.onload=null;this.rel='stylesheet'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<noscript>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css">
+</noscript>
+<script defer data-pagespeed-orig-type="text/javascript" src="https://cdn.ywxi.net/js/1.js" type="text/psajs" data-pagespeed-orig-index="22"></script>
+<script defer src="//images.dmca.com/Badges/DMCABadgeHelper.min.js" type="text/psajs" data-pagespeed-orig-index="23"></script>
+<script type="text/psajs" data-pagespeed-orig-index="24">
+		isBraveUA().then((result) => {
+			if (result) {
+				console.log("Brave detected");
+			} else {
+				console.log("Brave not detected");
+			}
+		});
+	</script>
+<script type="text/psajs" data-pagespeed-orig-index="25">function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"e9c298249aabec823dcfe49913db2ad2"})});</script>
+<script type="text/javascript" src="/pagespeed_static/js_defer.I4cHjq6EEP.js"></script><script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'868d37c48904bf7b',t:'MTcxMTE4NDI4Ny42OTUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

@@ -1,0 +1,1784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mtgdecks: http://ogp.me/ns/fb/mtgdecks#">
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="0">window.base_url='https://mtgdecks.net/';</script>
+<meta name="description" content="Get the latest Historic-Brawl decks sorted by date, BO1, BO3, price or archetype. Including decks from MTG Arena, MTGO and paper tournaments." />
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="MTG Decks">
+<meta property="og:title" content="MTG Historic-Brawl decks March 2024">
+<meta property="og:url" content="https://mtgdecks.net/Historic-Brawl/decklists">
+<meta property="og:image" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:secure_url" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:url" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:image:secure" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<meta property="og:description" content="Get the latest Historic-Brawl decks sorted by date, BO1, BO3, price or archetype. Including decks from MTG Arena, MTGO and paper tournaments.">
+<meta property="article:author" content="MTG Decks">
+<meta property="article:published_time" content="2024-03-23 08:40:53">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="mtgdecks.net">
+<meta name="twitter:title" content="MTG Historic-Brawl decks March 2024">
+<meta name="twitter:description" content="Get the latest Historic-Brawl decks sorted by date, BO1, BO3, price or archetype. Including decks from MTG Arena, MTGO and paper tournaments.">
+<meta name="twitter:image" content="https://static.mtgdecks.net/decks/1975361.jpg">
+<style>@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:300;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-300.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-300.woff) format('woff')}@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:400;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-regular.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-regular.woff) format('woff')}@font-face{font-display:swap;font-family:'Roboto';font-style:normal;font-weight:700;src:url(https://mtgdecks.net/fonts/roboto-v30-latin-700.woff2) format('woff2') , url(https://mtgdecks.net/fonts/roboto-v30-latin-700.woff) format('woff')}</style>
+<link rel="preload" as="script" href="https://hb.vntsm.com/ab/live/hera/ad-manager.min.js">
+<script data-pagespeed-orig-type="text/javascript" async src="https://hb.vntsm.com/ab/live/hera/ad-manager.min.js" data-site-id="5e4ff9fc0126bd360c521aec" data-mode="scan" type="text/psajs" data-pagespeed-orig-index="1"></script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-3771275146029898?ers=1" nonce="BXlPVV2ddL1Y3eVhiZewSQ" type="text/psajs" data-pagespeed-orig-index="2"></script>
+<script nonce="BXlPVV2ddL1Y3eVhiZewSQ" type="text/psajs" data-pagespeed-orig-index="3">(function(){function signalGooglefcPresent(){if(!window.frames['googlefcPresent']){if(document.body){const iframe=document.createElement('iframe');iframe.style='width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;';iframe.style.display='none';iframe.name='googlefcPresent';document.body.appendChild(iframe);}else{setTimeout(signalGooglefcPresent,0);}}}signalGooglefcPresent();})();</script>
+<meta name="robots" content="max-image-preview:large">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://mtgdecks.net/fonts/glyphicons-halflings-regular.woff">
+
+<meta name="theme-color" content="#212b34">
+
+<meta name="msapplication-navbutton-color" content="#212b34">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="#212b34">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>MTG Historic-Brawl decks March 2024 • MTG DECKS </title>
+<link rel="icon" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png" type="image/x-icon" />
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/xapple-icon-57x57.png.pagespeed.ic.zcx3ImtG2J.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/xapple-icon-60x60.png.pagespeed.ic.8VtRVIoiKb.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/xapple-icon-72x72.png.pagespeed.ic.sLiBEVfMS_.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/xapple-icon-76x76.png.pagespeed.ic.ygF7IlavDN.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/xapple-icon-114x114.png.pagespeed.ic.eADtdLP4Wn.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/xapple-icon-120x120.png.pagespeed.ic.d46W0uUWit.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/xapple-icon-144x144.png.pagespeed.ic.UEq0OnqaYE.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/xapple-icon-152x152.png.pagespeed.ic.2G-Y1GODkq.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/xapple-icon-180x180.png.pagespeed.ic.6rRNRZfd76.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/xandroid-icon-192x192.png.pagespeed.ic.oqYDIOiUDZ.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/xfavicon-32x32.png.pagespeed.ic.CFSGMOBLO3.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/xfavicon-96x96.png.pagespeed.ic.TA0foAQ4hH.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/xfavicon-16x16.png.pagespeed.ic.n0f5JKPEKl.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="alternate" type="application/rss+xml" title="MTG Decks Tournaments" href="https://mtgdecks.net/events/index.rss?720316054" />
+<link rel="alternate" type="application/rss+xml" title="MTG Decks latest news and articles" href="https://mtgdecks.net/articles/feed.rss" />
+<link rel="manifest" href="/manifest.json">
+<script type="text/psajs" data-pagespeed-orig-index="4">if('serviceWorker'in navigator){window.addEventListener('load',()=>{navigator.serviceWorker.register('/sw.js');});}</script>
+<meta name="clckd" content="7aa7f89ce7493ec72f57ab11a3c5f9be" />
+<script type="application/ld+json">
+		{
+			"@id": "https://mtgdecks.net/#website",
+			"@context": "http://schema.org",
+			"@type": "WebSite",
+			"name": "MTG DECKS",
+			"alternateName": "Magic the Gathering Top Decks Database",
+			"url": "https://mtgdecks.net",
+			"publisher": {
+				"@id": "https://mtgdecks.net/#organization"
+			},
+			"isAccessibleForFree": true
+		}
+	</script>
+<script type="application/ld+json">
+		{
+			"@id": "https://mtgdecks.net/#organization",
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"name": "MTG DECKS",
+			"description": "MTG Decks is focused on compiling the top Magic the Gathering decks around the world and make them easily accessible.",
+			"url": "https://mtgdecks.net",
+			"email": "admin@mtgdecks.net",
+			"logo": "https://mtgdecks.net/img/logoSmall2.svg",
+			"foundingDate": "2010-12-10",
+			"sameAs": [
+				"https://www.facebook.com/mtgdecks",
+				"https://twitter.com/mtgdecks",
+				"https://plus.google.com/+mtgdecksnet",
+				"https://www.wikidata.org/wiki/Q104518471"
+			],
+			"contactPoint": [{
+				"@type": "ContactPoint",
+				"contactType": "Site owner",
+				"email": "admin@mtgdecks.net",
+				"url": "https://mtgdecks.net"
+			}]
+		}
+	</script>
+<script async src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js" type="text/psajs" data-pagespeed-orig-index="5"></script>
+<link rel="canonical" href="https://mtgdecks.net/Historic-Brawl">
+<meta property="fb:pages" content="161079100614009" />
+<meta name="viewport" content="width=device-width,height=device-height, initial-scale=1, user-scalable=yes" />
+<meta property="fb:app_id" content="175905932426460" />
+<meta property="fb:admins" content="1344195300" />
+<link rel="next" href="https://mtgdecks.net/Historic-Brawl/decklists/page:2">
+<script data-pagespeed-orig-type="text/javascript" src="/js/jquery-1.11.1.min.js.pagespeed.jm.YSzgc-BSX9.js" type="text/psajs" data-pagespeed-orig-index="6"></script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="7">$(function(){$('.clickable td').css('cursor','pointer');$("table.clickable").on('click','a',function(e){e.stopPropagation();});$(".clickable").on('click','td',function(){url=$(this).closest("tr").find("a").attr('href');if(url!=undefined){window.location.href=url;}else{url=$(this).closest("tr").attr('url');if(url!=undefined){mtgdecks(url);}else{base64url=$(this).closest("tr").find('.linker').attr('goto');if(typeof base64url==='string'||base64url instanceof String){window.location.href=base64.decode(base64url);}}}});});</script>
+<link rel="stylesheet" type="text/css" href="/css/A.bootstrap.min.css+bootstrap-theme.min.css+custom.css+dark.css,Mcc.IswbCuLgOp.css.pagespeed.cf.X6hUu4viNI.css" />
+<link rel="stylesheet" href="https://mtgdecks.net/css/A.font-awesome.min.css.pagespeed.cf.jBrWCt-D4j.css" media="print" data-pagespeed-onload="this.media='all'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<link rel="preload" href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.min.css" as="style" data-pagespeed-onload="this.onload=null;this.rel='stylesheet'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<noscript>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.min.css">
+</noscript>
+<style type="text/css">.menu-header{font-size:14px;text-transform:uppercase;padding:5px 10px;color:#fff}</style><style>.fixed-table-container .bs-checkbox,.fixed-table-container .no-records-found{text-align:center}.fixed-table-body thead th .th-inner,.table td,.table th{box-sizing:border-box}.bootstrap-table .table{margin-bottom:0!important;border-bottom:1px solid #ddd;border-collapse:collapse!important;border-radius:1px}.bootstrap-table .table:not(.table-condensed),.bootstrap-table .table:not(.table-condensed)>tbody>tr>td,.bootstrap-table .table:not(.table-condensed)>tbody>tr>th,.bootstrap-table .table:not(.table-condensed)>tfoot>tr>td,.bootstrap-table .table:not(.table-condensed)>tfoot>tr>th,.bootstrap-table .table:not(.table-condensed)>thead>tr>td{padding:8px}.bootstrap-table .table.table-no-bordered>tbody>tr>td,.bootstrap-table .table.table-no-bordered>thead>tr>th{border-right:2px solid transparent}.bootstrap-table .table.table-no-bordered>tbody>tr>td:last-child{border-right:none}.fixed-table-container{position:relative;clear:both;border:1px solid #ddd;border-radius:4px;-webkit-border-radius:4px;-moz-border-radius:4px}.fixed-table-container.table-no-bordered{border:1px solid transparent}.fixed-table-footer,.fixed-table-header{overflow:hidden}.fixed-table-footer{border-top:1px solid #ddd}.fixed-table-body{overflow-x:auto;overflow-y:auto;height:100%}.fixed-table-container table{width:100%}.fixed-table-container thead th{height:0;padding:0;margin:0;border-left:1px solid #ddd}.fixed-table-container thead th:focus{outline:transparent solid 0}.fixed-table-container thead th:first-child{border-left:none;border-top-left-radius:4px;-webkit-border-top-left-radius:4px;-moz-border-radius-topleft:4px}.fixed-table-container tbody td .th-inner,.fixed-table-container thead th .th-inner{padding:8px;line-height:24px;vertical-align:top;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.fixed-table-container thead th .sortable{cursor:pointer;background-position:right;background-repeat:no-repeat;padding-right:30px}.fixed-table-container thead th .both{background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAQAAADYWf5HAAAAkElEQVQoz7X QMQ5AQBCF4dWQSJxC5wwax1Cq1e7BAdxD5SL+Tq/QCM1oNiJidwox0355mXnG/DrEtIQ6azioNZQxI0ykPhTQIwhCR+BmBYtlK7kLJYwWCcJA9M4qdrZrd8pPjZWPtOqdRQy320YSV17OatFC4euts6z39GYMKRPCTKY9UnPQ6P+GtMRfGtPnBCiqhAeJPmkqAAAAAElFTkSuQmCC')}.fixed-table-container thead th .asc{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZ0lEQVQ4y2NgGLKgquEuFxBPAGI2ahhWCsS/gDibUoO0gPgxEP8H4ttArEyuQYxAPBdqEAxPBImTY5gjEL9DM+wTENuQahAvEO9DMwiGdwAxOymGJQLxTyD+jgWDxCMZRsEoGAVoAADeemwtPcZI2wAAAABJRU5ErkJggg==)}.fixed-table-container thead th .desc{background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAZUlEQVQ4y2NgGAWjYBSggaqGu5FA/BOIv2PBIPFEUgxjB+IdQPwfC94HxLykus4GiD+hGfQOiB3J8SojEE9EM2wuSJzcsFMG4ttQgx4DsRalkZENxL+AuJQaMcsGxBOAmGvopk8AVz1sLZgg0bsAAAAASUVORK5CYII=)}.fixed-table-container th.detail{width:30px}.fixed-table-container tbody td{border-left:1px solid #ddd}.fixed-table-container tbody tr:first-child td{border-top:none}.fixed-table-container tbody td:first-child{border-left:none}.fixed-table-container tbody .selected td{background-color:#f5f5f5}.fixed-table-container .bs-checkbox .th-inner{padding:8px 0}.fixed-table-container input[type=radio],.fixed-table-container input[type=checkbox]{margin:0 auto!important}.fixed-table-pagination .pagination-detail,.fixed-table-pagination div.pagination{margin-top:10px;margin-bottom:10px}.fixed-table-pagination div.pagination .pagination{margin:0}.fixed-table-pagination .pagination a{padding:6px 12px;line-height:1.428571429}.fixed-table-pagination .pagination-info{line-height:34px;margin-right:5px}.fixed-table-pagination .btn-group{position:relative;display:inline-block;vertical-align:middle}.fixed-table-pagination .dropup .dropdown-menu{margin-bottom:0}.fixed-table-pagination .page-list{display:inline-block}.fixed-table-toolbar .columns-left{margin-right:5px}.fixed-table-toolbar .columns-right{margin-left:5px}.fixed-table-toolbar .columns label{display:block;padding:3px 20px;clear:both;font-weight:400;line-height:1.428571429}.fixed-table-toolbar .bs-bars,.fixed-table-toolbar .columns,.fixed-table-toolbar .search{position:relative;margin-top:10px;margin-bottom:10px;line-height:34px}.fixed-table-pagination li.disabled a{pointer-events:none;cursor:default}.fixed-table-loading{display:none;position:absolute;top:42px;right:0;bottom:0;left:0;z-index:99;background-color:#fff;text-align:center}.fixed-table-body .card-view .title{font-weight:700;display:inline-block;min-width:30%;text-align:left!important}.table td,.table th{vertical-align:middle}.fixed-table-toolbar .dropdown-menu{text-align:left;max-height:300px;overflow:auto}.fixed-table-toolbar .btn-group>.btn-group{display:inline-block;margin-left:-1px!important}.fixed-table-toolbar .btn-group>.btn-group>.btn{border-radius:0}.fixed-table-toolbar .btn-group>.btn-group:first-child>.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}.fixed-table-toolbar .btn-group>.btn-group:last-child>.btn{border-top-right-radius:4px;border-bottom-right-radius:4px}.bootstrap-table .table>thead>tr>th{vertical-align:bottom;border-bottom:1px solid #ddd}.bootstrap-table .table thead>tr>th{padding:0;margin:0}.bootstrap-table .fixed-table-footer tbody>tr>td{padding:0!important}.bootstrap-table .fixed-table-footer .table{border-bottom:none;border-radius:0;padding:0!important}.bootstrap-table .pull-right .dropdown-menu{right:0;left:auto}p.fixed-table-scroll-inner{width:100%;height:200px}div.fixed-table-scroll-outer{top:0;left:0;visibility:hidden;width:200px;height:150px;overflow:hidden}.fixed-table-pagination:after,.fixed-table-toolbar:after{content:"";display:block;clear:both}
+span.multiselect-native-select{position:relative}span.multiselect-native-select select{border:0!important;clip:rect(0 0 0 0)!important;height:1px!important;margin:-1px -1px -1px -3px!important;overflow:hidden!important;padding:0!important;position:absolute!important;width:1px!important;left:50%;top:30px}.multiselect-container{position:absolute;list-style-type:none;margin:0;padding:0}.multiselect-container .input-group{margin:5px}.multiselect-container>li{padding:0}.multiselect-container>li>a.multiselect-all label{font-weight:700}.multiselect-container>li.multiselect-group label{margin:0;padding:3px 20px 3px 20px;height:100%;font-weight:700}.multiselect-container>li.multiselect-group-clickable label{cursor:pointer}.multiselect-container>li>a{padding:0}.multiselect-container>li>a>label{margin:0;height:100%;cursor:pointer;font-weight:400;padding:3px 20px 3px 40px}.multiselect-container>li>a>label.radio,.multiselect-container>li>a>label.checkbox{margin:0}.multiselect-container>li>a>label>input[type=checkbox]{margin-bottom:5px}.btn-group>.btn-group:nth-child(2)>.multiselect.btn{border-top-left-radius:4px;border-bottom-left-radius:4px}.form-inline .multiselect-container label.checkbox,.form-inline .multiselect-container label.radio{padding:3px 20px 3px 40px}.form-inline .multiselect-container li a label.checkbox input[type=checkbox],.form-inline .multiselect-container li a label.radio input[type=radio]{margin-left:-20px;margin-right:0}
+</style></head>
+<body class>
+<div id="venatus-ads">
+<div class="vm-placement" data-id="5e539d7edb8f36673d61866d" style="display:none"></div>
+</div>
+<div id="alert-area">
+</div>
+<div class="container" id="main-wrapper">
+<div class="mon-placement loading-mon  visible-lg" data-description="direct-ads-trigger" style="min-height:250px;margin: 0 25px;" id="970x250-dynamic-65fe95c9dba9b"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=992){document.getElementById('970x250-dynamic-65fe95c9dba9b').innerHTML='<div data-display-type="hybrid-banner" class="vm-placement" data-id="5e539d8c6daf694420641ae3"></div>'}</script>
+<div id="app">
+<div id="content" style="overflow: hidden;">
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@id": "https://mtgdecks.net/Historic-Brawl",
+				"name": "Historic-Brawl decks"
+			}
+		}, {
+			"@type": "ListItem",
+			"position": 2,
+			"item": {
+				"@id": "https://mtgdecks.net/Historic-Brawl/decklists/page:1",
+				"name": "Historic-Brawl decklists"
+			}
+		}]
+	}
+</script>
+<div class="heading">
+<div class="breadcrumbs pull-left">
+<a href="/">Home</a>
+<span class="glyphicon glyphicon-chevron-right"></span>
+<a href="/Historic-Brawl">MTG Historic-Brawl</a>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</div>
+<div class="omniSwitch pull-right hidden-xs">
+<span class="small" style="display: inline-block;margin-top: 3px;">SHOW PRICES FOR&nbsp;</span>
+<div class="btn-group navbar-right priceSwitcher" role="group">
+<div id="onlineButton" data-format="mtgo" class="btn btn-xs btn-default">
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://mtgdecks.net/Historic-Brawl/decklists/page:1','cLFF33dPjd',true,false,'dPeCCgVXfpQ');
+//]]></script><img src="/img/icons/xmtgo_black.png.pagespeed.ic.H3srSg8h7S.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="1373742378" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTGO
+</div>
+<div id="mtgaButton" data-format="arena" class="btn btn-xs btn-default">
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> ARENA
+</div>
+<div id="paperButton" data-format="paper" class="btn btn-xs btn-primary">
+<img src="/img/icons/xmtg.png.pagespeed.ic.S2FSPZPuOM.png" height="12px;" class="whitened" alt data-pagespeed-url-hash="62060803" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> PAPER
+</div>
+</div>
+</div>
+</div>
+<ul class="nav nav-pills text-uppercase" style="height:37px;max-width: 100%;overflow: hidden;overflow-x: auto;white-space: nowrap;display: flex;flex-wrap: nowrap;">
+<li role="presentation" class>
+<a href="/Historic-Brawl"> <span class="hidden-xs"><i class="glyphicon glyphicon-signal"></i> Historic-Brawl</span> <span class="hidden-xs">meta</span> <span class="visible-xs">Meta</span></a>
+</li>
+<li role="presentation" class>
+<a href="/Historic-Brawl/tournaments"><span class="hidden-xs"><i class="glyphicon glyphicon-list-alt"></i> Historic-Brawl </span> <span class="hidden-xs">Tournaments</span><span class="visible-xs">Events</span></a>
+</li>
+<li role="presentation" class="active visible-xs">
+<span><span goto="L0hpc3RvcmljLUJyYXdsL2RlY2tsaXN0cw" class="linker">Decks</span></span> </li>
+<li role="presentation" class="active hidden-xs">
+<span><span goto="L0hpc3RvcmljLUJyYXdsL2RlY2tsaXN0cw" class="linker"><i class="glyphicon glyphicon-th-large"></i> Historic-Brawl Decklists</span></span> </li>
+<li role="presentation" class>
+<a href="/Historic-Brawl/staples"><span class="hidden-xs"><i class="fa fa-tags"></i> Historic-Brawl </span> Staples</a>
+</li>
+
+
+</ul>
+<ul class="nav nav-pills secondary" role="tablist" style="margin-top:-30px;">
+<li role="presentation" class="active"><a href="/Historic-Brawl/decklists" class="text-uppercase">All <span class="hidden-xs">decks</span></a></li>
+<li role="presentation"><a href="/Historic-Brawl/budget-decks" class="text-uppercase">Budget <span class="hidden-xs"> decks</span></a></li>
+</ul>
+<div class="pull-right text-center text-uppercase hidden-xs">
+</div>
+<h1>
+MTG Historic-Brawl decklists</h1>
+<div class="featured">
+All the current Historic-Brawl decklist sorted by archetype, event, player and colors.</div>
+<div class="decks index">
+<div class="row">
+<div class="col-xs-12" style="margin-bottom: 20px;">
+<div class="mon-placement loading-mon  visible-xs" data-description="tables-header-top-mobile" style="min-height:250px;" id="300x250-static-bis-65fe95c9daadb"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth<728){document.getElementById('300x250-static-bis-65fe95c9daadb').innerHTML='<div data-display-type="hybrid-banner" class="vm-placement" data-id="5f86edd308f81a315320eb75"></div>'}</script>
+<div class="mon-placement loading-mon  hidden-xs hidden-lg" data-description="tables-header-top-desktop" style="min-height:90px;" id="728x90-static-65fe95c9daade"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=728&&window.innerWidth<992){document.getElementById('728x90-static-65fe95c9daade').innerHTML='<div  class="vm-placement" data-id="5e539d9d64028b073c964e0a"></div>'}</script>
+</div>
+<div class=" text-center text-uppercase visible-xs" style="margin-bottom:20px;">
+</div>
+<div class="col-xs-12" style="margin-bottom: 10px;">
+<h2>Top MTG Historic-Brawl decks</h2>
+<form action="https://mtgdecks.net/Historic-Brawl/decklists/page:1" id="searchByCard" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST" /></div> <div class="input-group">
+<input type="text" name="data[Deck][cards]" type="text" class="form-control" placeholder="Cards in deck (Separated by ;). To look for cards in the sideboard use SB:cardname'" aria-label="Cards in deck (Separated by ;). To look for cards in the sideboard use SB:cardname'" value>
+<span onclick="$('#searchByCard').submit();" class="input-group-addon btn-primary btn"><i class="fa fa-search"></i> <span class="hidden-xs">Search</span></span>
+</div>
+</form> </div>
+<div class="col-xs-12">
+<table cellpadding="0" cellspacing="0" class="clickable table table-striped hidden-xs">
+<tr>
+<th colspan="2"><a href="/Historic-Brawl/decklists/page:1/sort:rank/direction:asc" page="1">Rank</a></th>
+<th>
+Name
+</th>
+<th></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:type/direction:asc" page="1">Type</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:event_id/direction:asc" page="1" empty="1">Event</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:Event.relevance/direction:asc" page="1">Event Level</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:Event.attendee/direction:asc" page="1">Players</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:singularity/direction:asc" page="1">Singularity</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:Deck.date/direction:asc" page="1">Date</a></th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:price/direction:asc" page="1">Price(*)</a></th>
+<th></th>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361">Tajic tournament</a>
+<br/>
+<strong>By RoiHeenok&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$533
+</span>
+<span class="mtgo option" style="display:none">
+$132
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/kalain-reclusive-painter-decklist-by-mtga-assistant-meta-1975362">Kalain, Reclusive Pa...</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-b ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$249
+</span>
+<span class="mtgo option" style="display:none">
+$39
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/giada-font-of-hope-decklist-by-mtga-assistant-meta-1975363">Giada, Font of Hope</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$175
+</span>
+<span class="mtgo option" style="display:none">
+$8
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/magda-brazen-outlaw-decklist-by-mtga-assistant-meta-1975364">Magda, Brazen Outlaw</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$250
+</span>
+<span class="mtgo option" style="display:none">
+$34
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/tovolar-dire-overlord-decklist-by-newclearwaste-1975382">Tovolar, Dire Overlo...</a>
+<br/>
+<strong>By Newclearwaste&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-b ms-shadow"></span></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$443
+</span>
+<span class="mtgo option" style="display:none">
+$50
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/teferi-brawl-decklist-by-gracemarx-1975383">Teferi Brawl</a>
+<br/>
+<strong>By Gracemarx&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>23-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$492
+</span>
+<span class="mtgo option" style="display:none">
+$117
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/tajic-legion-s-valor-decklist-by-mtga-assistant-meta-1974490">Tajic, Legion&#039;s Valo...</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$544
+</span>
+<span class="mtgo option" style="display:none">
+$124
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/the-first-sliver-decklist-by-mtga-assistant-meta-1974492">The First Sliver</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-b ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-g ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-r ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-u ms-shadow"></span></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$536
+</span>
+<span class="mtgo option" style="display:none">
+$48
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/aragorn-the-uniter-decklist-by-mtga-assistant-meta-1974806">Aragorn, the Uniter</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-g ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-w ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-r ms-shadow"></span></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$552
+</span>
+<span class="mtgo option" style="display:none">
+$102
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/sovereign-okinec-ahau-decklist-by-mtga-assistant-meta-1974807">Sovereign Okinec Aha...</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$401
+</span>
+<span class="mtgo option" style="display:none">
+$32
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/hamza-guardian-of-arashin-decklist-by-mtga-assistant-meta-1974808">Hamza, Guardian of A...</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$302
+</span>
+<span class="mtgo option" style="display:none">
+$41
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/rusko-clockmaker-decklist-by-mtga-assistant-meta-1974809">Rusko, Clockmaker</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-b ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$299
+</span>
+<span class="mtgo option" style="display:none">
+$51
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/etali-primal-conqueror-decklist-by-mtga-assistant-meta-1974810">Etali, Primal Conque...</a>
+<br/>
+<strong>By MTGA-Assistant-...&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$419
+</span>
+<span class="mtgo option" style="display:none">
+$52
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/drana-the-last-bloodchief-decklist-by-newclearwaste-1974818">Drana, the Last Bloo...</a>
+<br/>
+<strong>By Newclearwaste&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-b ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$561
+</span>
+<span class="mtgo option" style="display:none">
+$60
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Other</strong>
+</td>
+<td>
+</td>
+<td nowrap="nowrap">
+<a href="/Historic-Brawl/veko-decklist-by-achernar-1974819">Veko</a>
+<br/>
+<strong>By achernar&nbsp;</strong>
+</td>
+<td>
+<span class="small" style="font-size: 10px;white-space: nowrap;"> <span class="ms ms-cost ms-b ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+</td>
+<td>
+<span class="fa fa-gg-circle"></span> Social media
+</td>
+<td>
+<div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div> </td>
+<td>
+<span class="fa fa-question-circle"></span> </td>
+<td class="text-center">
+<span class="small">Not available</span><br/>
+</td>
+<td nowrap="nowrap" class="small">
+<strong>22-Mar <span class="hidden-xs hidden-sm">-2024</span>
+</strong>
+</td>
+<td nowrap="nowrap" style="color: rgb(95, 130, 95); cursor: pointer;"><strong>
+<span class="price">
+<span class="paper option">
+$752
+</span>
+<span class="mtgo option" style="display:none">
+$120
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>&nbsp;</td>
+<td>
+<span class="glyphicon glyphicon-chevron-right"></span>
+</td>
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" class="clickable table table-striped hidden-sm hidden-md hidden-lg">
+<tr>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:rank/direction:asc" page="1">Rank</a></th>
+<th>
+<a href="/Historic-Brawl/decklists/page:1/sort:name/direction:asc" page="1">Name</a>
+</th>
+<th><a href="/Historic-Brawl/decklists/page:1/sort:Event.date/direction:asc" page="1">Date</a></th>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/tajic-tournament-decklist-by-roiheenok-1975361">Tajic tournament</a> <div class="small">
+<b>By RoiHeenok&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$533
+</span>
+<span class="mtgo option" style="display:none">
+$132
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-b ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/kalain-reclusive-painter-decklist-by-mtga-assistant-meta-1975362">Kalain, Reclusive Pa...</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$249
+</span>
+<span class="mtgo option" style="display:none">
+$39
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/giada-font-of-hope-decklist-by-mtga-assistant-meta-1975363">Giada, Font of Hope</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$175
+</span>
+<span class="mtgo option" style="display:none">
+$8
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/magda-brazen-outlaw-decklist-by-mtga-assistant-meta-1975364">Magda, Brazen Outlaw</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$250
+</span>
+<span class="mtgo option" style="display:none">
+$34
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-b ms-shadow"></span></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/tovolar-dire-overlord-decklist-by-newclearwaste-1975382">Tovolar, Dire Overlo...</a> <div class="small">
+<b>By Newclearwaste&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$443
+</span>
+<span class="mtgo option" style="display:none">
+$50
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/teferi-brawl-decklist-by-gracemarx-1975383">Teferi Brawl</a> <div class="small">
+<b>By Gracemarx&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>23-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$492
+</span>
+<span class="mtgo option" style="display:none">
+$117
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/tajic-legion-s-valor-decklist-by-mtga-assistant-meta-1974490">Tajic, Legion&#039;s Valo...</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$544
+</span>
+<span class="mtgo option" style="display:none">
+$124
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-w ms-shadow"></span><span class="ms ms-cost ms-b ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-g ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-r ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-u ms-shadow"></span></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/the-first-sliver-decklist-by-mtga-assistant-meta-1974492">The First Sliver</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$536
+</span>
+<span class="mtgo option" style="display:none">
+$48
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-g ms-shadow"></span><span class="small-icon"><span class="ms ms-cost ms-w ms-shadow"></span></span><span class="small-icon"><span class="ms ms-cost ms-r ms-shadow"></span></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/aragorn-the-uniter-decklist-by-mtga-assistant-meta-1974806">Aragorn, the Uniter</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$552
+</span>
+<span class="mtgo option" style="display:none">
+$102
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/sovereign-okinec-ahau-decklist-by-mtga-assistant-meta-1974807">Sovereign Okinec Aha...</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$401
+</span>
+<span class="mtgo option" style="display:none">
+$32
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/hamza-guardian-of-arashin-decklist-by-mtga-assistant-meta-1974808">Hamza, Guardian of A...</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$302
+</span>
+<span class="mtgo option" style="display:none">
+$41
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-u ms-shadow"></span><span class="ms ms-cost ms-b ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/rusko-clockmaker-decklist-by-mtga-assistant-meta-1974809">Rusko, Clockmaker</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$299
+</span>
+<span class="mtgo option" style="display:none">
+$51
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-g ms-shadow"></span><span class="ms ms-cost ms-r ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/etali-primal-conqueror-decklist-by-mtga-assistant-meta-1974810">Etali, Primal Conque...</a> <div class="small">
+<b>By MTGA-Assistant-...&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$419
+</span>
+<span class="mtgo option" style="display:none">
+$52
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-b ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/drana-the-last-bloodchief-decklist-by-newclearwaste-1974818">Drana, the Last Bloo...</a> <div class="small">
+<b>By Newclearwaste&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$561
+</span>
+<span class="mtgo option" style="display:none">
+$60
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+<td class="small">
+<strong>Other</strong>
+<br/>
+<div class="small">
+<span class="fa fa-users"></span>X<span class="fa fa-question-circle"></span> </div>
+<span class="small" style="font-size: 8px;margin-top:5px;"> <span class="ms ms-cost ms-b ms-shadow"></span><span class="ms ms-cost ms-w ms-shadow"></span></span>
+</td>
+<td>
+<a href="/Historic-Brawl/veko-decklist-by-achernar-1974819">Veko</a> <div class="small">
+<b>By achernar&nbsp;</b>
+<br/>
+<span class="fa fa-gg-circle"></span> Social media
+</div>
+</td>
+<td class="small">
+<span class="glyphicon glyphicon-chevron-right pull-right"></span>
+<b>22-Mar</b>
+<br/>
+<span class="small" style="font-size: 10px;">SINGULARITY:</span>
+<br/>
+<span class="small">Not available</span><br/>
+<strong class="small" style="color: rgb(95, 130, 95);margin-top:5px;display: block;">
+<span class="price">
+<span class="paper option">
+$752
+</span>
+<span class="mtgo option" style="display:none">
+$120
+</span>
+<span class="arena option" style="display:none">
+</span>
+</span></strong>
+</td>
+</tr>
+</table>
+<div class="text-center">
+<ul class="pagination">
+<li class="prev disabled"><a href="/Historic-Brawl/decklists/page:1" page="1">&lt; Previous Page</a></li> <li class="active hidden-xs"><a href="/Historic-Brawl/decklists/page:1" page="1">1</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:2" page="1">2</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:3" page="1">3</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:4" page="1">4</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:5" page="1">5</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:6" page="1">6</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:7" page="1">7</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:8" page="1">8</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:9" page="1">9</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:10" page="1">10</a></li><li class="hidden-xs"><a href="/Historic-Brawl/decklists/page:11" page="1">11</a></li> <li><a href="/Historic-Brawl/decklists/page:2" page="1" class="next">Next Page&gt;</a></li> </ul>
+<div class="mon-placement loading-mon  visible-xs" data-description="tables-footer-bottom-mobile" style="min-height:250px;" id="300x250-static-extra-2-65fe95c9dba09"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth<728){document.getElementById('300x250-static-extra-2-65fe95c9dba09').innerHTML='<div  class="vm-placement" data-id="5ff70d2de1e4ad2de7e91bee"></div>'}</script>
+<div class="mon-placement loading-mon  hidden-xs" data-description="tables-footer-bottom-desktop" style="min-height:90px;" id="728x90-static-extra-2-65fe95c9dba0c"></div><script type="text/javascript" async pagespeed_no_defer data-pagespeed-no-defer>if(window.innerWidth>=728){document.getElementById('728x90-static-extra-2-65fe95c9dba0c').innerHTML='<div  class="vm-placement" data-id="5ff70d67360eef7a6a99cd99"></div>'}</script>
+<br/><br/>
+<p class="mobile-padding">
+(*) Price based in average price in TCGPLAYER.COM store.
+</p>
+<p class="mobile-padding">
+<table class="table table-striped table-condensed" style="max-width: 350px;margin:0 auto;">
+<tr>
+<th>Event Level</th>
+<th>Description</th>
+</tr>
+<tr class="small">
+<td><span class="glyphicon glyphicon-star" style="font-size:16px; color: #EABB1C;"></span></td>
+<td>Top competitive tournaments</td>
+</tr>
+<tr class="small">
+<td><div style="font-size:8px;color: #EABB1C;"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span></div></td>
+<td>Tournaments with 64+ players</td>
+</tr>
+<tr class="small">
+<td><div style="font-size:8px;color: #EABB1C;"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span></div></td>
+<td>Tournaments with 16+ players</td>
+</tr>
+<tr class="small">
+<td><div style="font-size:8px;color: #EABB1C;"><span class="glyphicon glyphicon-star"></span></div></td>
+<td>Tournaments with less than 16 players </td>
+</tr>
+<tr class="small">
+<td><div><span class="glyphicon glyphicon-question-sign" style="font-size:12px;color:silver;"></span></div></td>
+<td>Unknown attendance</td>
+</tr>
+</table>
+</p>
+</div>
+</div>
+</div>
+<div class="text-center">
+Go back to the complete <a href="/Historic-Brawl">MTG Historic-Brawl decks</a>, tournaments and metagame Analysis
+</div>
+</div>
+<div id="status">
+</div>
+<div class="modal fade" id="remoteModal" tabindex="-1" role="dialog" style="z-index: 999999999;">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal">&times;</button>
+<h4 class="modal-title"></h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-2 col-sm-3 col-xs-12">
+<img src="/img/logo.svg" loading="lazy" height="40px" alt="Mtg decks" data-pagespeed-url-hash="1923278652" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> <br class="visible-xs"><br class="visible-xs">
+<div class="small">
+<i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i> Bool Monkey SL.<br/>
+Calle Pintor Espinosa 21 <br/>
+Córdoba, 14004 <br/>
+Spain
+</div>
+<br/><br/>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Competitive Formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Standard">Standard Decks</a></li>
+<li><a href="/Pioneer">Pioneer Decks </a></li>
+<li><a href="/Modern">Modern Decks</a></li>
+<li><a href="/Pauper">Pauper Decks </a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Arena exclusive formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Alchemy">Alchemy Decks </a></li>
+<li><a href="/Explorer">Explorer Decks </a></li>
+<li><a href="/Historic">Historic Decks </a></li>
+<li><a href="/Timeless">Timeless Decks </a></li>
+<li><a href="/Brawl">Brawl Decks </a></li>
+<li><a href="/Historic-Brawl">Historic-Brawl Decks </a></li>
+</ul>
+<b>Commander Formats</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Commander">Commander Decks </a></li>
+<li><a href="/Duel-Commander">Duel-Commander Decks </a></li>
+<li><span><span goto="L1JlYWwtQ29tbWFuZGVy" class="linker">Real Commander decks</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Eternal & Old School</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/Legacy">Legacy Decks </a></li>
+<li><a href="/Vintage">Vintage Decks </a></li>
+<li><a href="/Premodern">Premodern Decks </a></li>
+<li><a href="/Old-school">Old School Decks </a></li>
+<li><span><span goto="L0NsYXNzaWMtTGVnYWN5" class="linker">Classic-Legacy Decks</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Content & Prices</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><a href="/articles">MTGDecks Articles</a></li>
+<li><a href="/players">Best deckbuilders</a></li>
+<li><a href="/prices">Card Prices</a></li>
+</ul>
+<br class="visible-sm" />
+<b>Terms & Privacy</b>
+<ul class="footer-list" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li><span><span goto="L3BhZ2VzL3ByaXZhY3k" class="linker">Privacy &amp; Cookies policy</span></span></li>
+<li><span><span goto="L3BhZ2VzL3Rlcm1z" class="linker">Terms of service</span></span></li>
+<li><span><span goto="L3BhZ2VzL2ZhcQ" class="linker">FAQ</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Contact & Collaborate</b>
+<ul class="footer-list">
+<li><span><span goto="L2NvbnRhY3Q" class="linker">Contact Form</span></span></li>
+<li><a href="/cdn-cgi/l/email-protection#9af9f5f4eefbf9eedaf7eefdfefff9f1e9b4f4ffee">Email Us</a></li>
+<li><span><span goto="L2V2ZW50cy9hZGQ" class="linker">Submit an event</span></span></li>
+<li><span><span goto="L3BhZ2VzL3N1cHBvcnQ" class="linker">Make a donation</span></span></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-3 col-xs-6">
+<br class="visible-sm" />
+<b>Partner sites</b>
+<ul class="footer-list">
+<li><a href="https://inkdecks.com">Inkdecks.com - Lorcana decks</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<br class="visible-xs">
+<div class="col-xs-12">
+<b><span data-ccpa-link="1"></span></b><br/>
+Mtgdecks.net &copy;2009-2024. This site provides accurate and independent information on more than 500.000 Magic the Gathering Decks, tournaments and magic singles prices. You can learn more about our database at our <a href="https://datasetsearch.research.google.com/search?docid=et8X1leyAPiU%2FJE9AAAAAA%3D%3D">Google Dataset</a>. This material is provided "as is", with absolutely no warranty expressed or implied. Data sources include Tcgplayer, Mtgtop8, Mtgmelee, Starcitygames, Wizards of the Coast, The Gatherer and many others. To view content sources and attributions, please refer to each tournament info.
+</div>
+<div class="col-xs-12">
+<p>
+<a href="https://facebook.com/mtgdecks"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAABGdBTUEAALGPC/xhBQAAAO1QTFRF////NVKZOladNlKZOladOlWcNlKZPFidOlWcNlKZNFCZNVKZNlObOFScMlCZLEqVS2WlWHCrXHStWXGsVW2qT2inSGKjP1qfOFSbLEqWWnKso7DR2+Ht8/X5////9/j78/T419zqQVygprPSQ16hydDk6+/1LkyWsLvXME6XZnyyuMLb9vf6QFug6Ovzz9bnzdTmz9Xnv8jfXnWuiprEO1acdYi6JEOROladfI+/h5jDg5XBfI69KkmVsr3Z4ebw3uPu6u31oa/Rn6zPhZbBboO21Nnp7e/2oq/QmKfLwsvgHj6Oc4a5eY28HT2OQf9dFgAAAAd0Uk5TACLdM8zMIqZhFEAAAAEtSURBVEjH7dZbT8IwFMDxrkw7YBfxgsNLHSjMiorgrYIIOlHw9v0/jm2ygSaj60l8wIT/20n2e1hPH4qQgQkgbCCUMwkoM4cwAYYRAbcoxMoXREXb0SWu56yV1jc2t8rbesSv7Ozu7VPRQVCt+Rqk6B/SacGRBrGt+kzQhg4JjymQsBMKJZXmL3KaTZyzRvL1eeui3erUnCziXibi6tqV28zeS3gTi+atz2Ua5C4mXU/3jk1JL1wYwi2Rd5+Qvhwt9e9zIg5oRryf55VKuPswEA0fk5sylOPgiSkIa9OUor6K1NPIcwgmIwYmpQKUBGVbRV5SyCu3FHvJ98ZRFE068cdvEzGNu7ZylcwTvX/E5PNLjuyf3uQlWZK/JBhK8PzH1RwiHlfIMCFkZRV9A4oZjV1I6ulrAAAAAElFTkSuQmCC" class="img-responsive pull-left" loading="lazy" width="32" alt="facebook" style="margin-right:10px;" data-pagespeed-url-hash="3873147398" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></a>
+<a href="https://twitter.com/mtgdecks"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAABGdBTUEAALGPC/xhBQAAAZhQTFRFAKztAKvtAKrtAKXsAKjsAKnsAKfsAKbsFLHud9L1u+n60fD8w+v7htf2JbfvLbvwAavtZM30Aq3tRMHy5vf9////9/3+Zsz0H7LuY8v01/L8btD1HrbvouH4Mbvw+/7/+v3/s+b6C6/uT8XzquT5CaztyO370vD8Ysv0qeL5AKntW8rz0fH8OLzxAKTrctH1O8Dxldz3IrXvAKXrXsv08vv+XcrzCK3t9/3/peH4TMPyE7HuAJ/rU8fzm974AKHrAK3tAKPrWMnz8Pr+nt74rOT5ltz4MLvwK7nwjtr3hdf2Xcvzzu/8+P3/Y8z0HLXvM73xn+D45/f9B67tEK/u1PH8nt/4mt74/v//OsDxAKrsF7PvouH5xu37PcDxP7/xnuD4RsHy3/T91vL8CqztVMXznd/4+v7/6vj+I7bvKLfvseb6/f7/4/b9LLjwB6/uBa7tA6ztILXvXMnzt+f6v+r6HLLuGrPvj9r37vn+6/n+ctD1WMfzvOn61fH8edP1FrHuHLTvWcjztef6zO770/H8vur6NLzxKHUmAwAAAX5JREFUSMftlVVXAzEQhePBfYBiRQsUp7i7W6G4u7u7w9/mgQILTbZwDo+9z/Mld3ZnbhDyyaf/E/5jPaGMMMoRQpjrasS3Q6Wff0BgUHCI5BSHhmlchEcQAxEZBQAA0TGxlrh4qSR4AiSKTwciyQpuJUMKTVUiMg0gPcN9HOY2+FRmVnaSXYnkAEBuXj5HCCEW+kWAFQrUxlghAAAUFTskQbLEgJSWUU335e/9VlRWVbOaWgNSV6/5xA2NTR81zbaWVgPSprkE2ds7Oq2gUpcOkd3Q06tE+nQI7weNBphuXqRTTQwOaaeTuIaVyAjVjy5zjTaPeSLjQo9MTFqmkj2IaWa2IK5Sha8ZYbZUYtbT1xw1X0Q5v/CDWFwiXpZXpC6vrBqItXXhJR24dGxsbn0R2zvSrH53b2L/4PDI6Or4xJQgp2dx59/auLi0My8ZVH51bfgrN7d3Du8xJsT9w9nj03PPizP+FVPyq7TjkgqOCZOU/SUoMca+l8Wn/9MbMlhGllmXGcgAAAAASUVORK5CYII=" class="img-responsive pull-left" loading="lazy" width="32" alt="twitter" style="margin-right:10px;" data-pagespeed-url-hash="3565025811" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></a>
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=df78bee2-de42-427e-94fa-99b4a92be11d" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=df78bee2-de42-427e-94fa-99b4a92be11d" loading="lazy" alt="DMCA.com Protection Status" data-pagespeed-url-hash="3291580540" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"></a>
+</p>
+<p style="font-size:10px;color:gray">The information presented on this site about Magic: The Gathering, both literal and graphical, is copyrighted by Wizards of the Coast. This website is not produced, endorsed, supported, or affiliated with Wizards of the Coast.
+</p>
+</div>
+</div>
+</div>
+<div class="menus">
+<div class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="navigation">
+<div class="container">
+<div class="navbar-header">
+<button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#mainmenu" aria-expanded="false" aria-controls="mainmenu">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<button class="navbar-toggle" style="margin:0" type="button" aria-expanded="false">
+<div itemprop="name" class="label-prime">
+<a href="/users/users/login" class="box"><span class="fa fa-sign-in"></span> Login</a> </div>
+</button>
+<a class="navbar-brand" href="/">
+<span class="hidden-xs"><img src="/img/logo.svg" style="margin-top:9px;height:30px;margin-left:10px;" alt="mtg decks" data-pagespeed-url-hash="1923278652" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></span>
+<span class="visible-xs" style="padding: 12px 5px 0 5px;"><img src="/img/logoMobile.svg" height="25" alt="mtg decks" data-pagespeed-url-hash="754650962" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /></span>
+</a>
+<form class="navbar-form navbar-left hidden-sm ahidden-xs" role="search">
+<div class="input-group">
+<input type="text" class="form-control typeahead" style="width: 100%;" id="cardSearchTop" placeholder="Search a Card">
+</div>
+</form>
+<span class="navbar-left hidden-xs">
+<div itemprop="name" class="label-prime btn" style="padding: 6px 0;">
+<a href="/users/users/login" class="box"><span class="fa fa-sign-in"></span> Login</a> </div>
+</span>
+</div>
+<div class="collapse navbar-collapse js-navbar-collapse navbar-right" id="mainmenu">
+<nav>
+<ul class="nav navbar-nav" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+<li itemprop="name" class="hidden-xs"><a href="/Standard" itemprop="url">Standard</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Timeless" itemprop="url">Timeless</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Modern" itemprop="url">Modern</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Legacy" itemprop="url">Legacy</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Pauper" itemprop="url">Pauper</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Commander" itemprop="url">Commander</a></li>
+<li itemprop="name" class="hidden-xs"><a href="/Pioneer" itemprop="url">Pioneer</a></li>
+<li class="visible-xs">
+<div class="menu-header"><b>Decks & Meta by format:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Standard"><span class="letterize inverted Standard" style="font-size:14px;margin:5px 10px;">Standard</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Pioneer"><span class="letterize inverted Pioneer" style="font-size:14px;margin:5px 10px;">Pioneer</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Modern"><span class="letterize inverted Modern" style="font-size:14px;margin:5px 10px;">Modern</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Pauper"><span class="letterize inverted Pauper" style="font-size:14px;margin:5px 10px;">Pauper</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Premodern"><span class="letterize inverted Premodern" style="font-size:14px;margin:5px 10px;">Premodern</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Legacy"><span class="letterize inverted Legacy" style="font-size:14px;margin:5px 10px;">Legacy</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Classic-Legacy"><span class="letterize inverted Classic-Legacy" style="font-size:14px;margin:5px 10px;">Classic-Legacy</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Vintage"><span class="letterize inverted Vintage" style="font-size:14px;margin:5px 10px;">Vintage</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Commander"><span class="letterize inverted Commander" style="font-size:14px;margin:5px 10px;">Commander</span></a>
+</div>
+<div class="col-xs-6 text-center ">
+<a href="https://mtgdecks.net/Duel-Commander"><span class="letterize inverted Duel-Commander" style="font-size:14px;margin:5px 10px;">Duel-Commander</span></a>
+</div>
+</div>
+<div class="menu-header"><b>MTG Arena decks & meta:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Alchemy"><span class="letterize inverted Alchemy" style="font-size:14px;margin:5px 10px;">Alchemy</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Explorer"><span class="letterize inverted Explorer" style="font-size:14px;margin:5px 10px;">Explorer</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Historic"><span class="letterize inverted Historic" style="font-size:14px;margin:5px 10px;">Historic</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Timeless"><span class="letterize inverted Timeless" style="font-size:14px;margin:5px 10px;">Timeless</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Brawl"><span class="letterize inverted Brawl" style="font-size:14px;margin:5px 10px;">Brawl</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a href="https://mtgdecks.net/Historic-Brawl"><span class="letterize inverted Historic-Brawl" style="font-size:14px;margin:5px 10px;">Historic-Brawl</span></a>
+</div>
+</div>
+<div class="menu-header"><b>Read our content:</b></div>
+<div class="row">
+<div class="col-xs-6 text-center">
+<a href="/articles" class="btn btn-default btn-xs full-width" style="font-size:14px;margin:5px 10px;"><img src="/img/logoSmall2.svg" width="20" alt="MTGdecks" data-pagespeed-url-hash="425135551" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> Articles</a> </div>
+</div>
+</li>
+<li class="visible-xs omniSwitch">
+<div class="menu-header"><b>Card prices preferences:</b></div>
+<div class="priceSwitcher" style="padding:0px 0;margin:5px 10px;">
+<div id="onlineButton" data-format="mtgo" class="btn btn-xs btn-default">
+<img src="/img/icons/xmtgo_black.png.pagespeed.ic.H3srSg8h7S.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="1373742378" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTGO
+</div>
+<div id="mtgaButton" data-format="arena" class="btn btn-xs btn-default">
+<img src="/img/icons/xarena.png.pagespeed.ic.LsuMbI_Aty.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="1152051722" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> ARENA
+</div>
+<div id="paperButton" data-format="paper" class="btn btn-xs btn-primary">
+<img src="/img/icons/xmtg.png.pagespeed.ic.S2FSPZPuOM.png" height="12px;" loading="lazy" class="whitened" alt data-pagespeed-url-hash="62060803" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> PAPER
+</div>
+</div>
+<br/>
+</li>
+<li class="dropdown dropdown-large hidden-xs">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-plus"></span> More <b class="caret"></b></a>
+<ul class="dropdown-menu dropdown-menu-large row">
+<li class="col-sm-3">
+<ul>
+<li class="dropdown-header">Other Formats</li>
+<li itemprop="name">
+<a href="/Duel-Commander" itemprop="url">Duel-Commander</a> </li>
+<li itemprop="name">
+<a href="/Vintage" itemprop="url">Vintage</a> </li>
+<li itemprop="name">
+<a href="/Premodern" itemprop="url">Premodern</a> </li>
+<li itemprop="name">
+<a href="/Alchemy" itemprop="url">Alchemy</a> </li>
+<li itemprop="name">
+<a href="/Explorer" itemprop="url">Explorer</a> </li>
+<li itemprop="name">
+<a href="/Historic" itemprop="url">Historic</a> </li>
+<li itemprop="name">
+<a href="/Brawl" itemprop="url">Brawl</a> </li>
+<li itemprop="name">
+<a href="/Classic-Legacy" itemprop="url">Classic-Legacy</a> </li>
+<li itemprop="name">
+<a href="/Real-Commander" itemprop="url">Real-Commander</a> </li>
+<li itemprop="name"><a href="/mtgo" itemprop="url">MTGO Decks</a></li>
+</ul>
+</li>
+<li class="col-sm-3">
+<ul>
+<li class="dropdown-header">Help & Contact</li>
+<li><span><span goto="L2NvbnRhY3QvaW5kZXg" class="linker">Contact Us</span></span></li>
+<li class="dropdown-header">Tools & Search</li>
+<li><span><span goto="L2Zvcm1hdHMvY29zdEFuYWx5c2lz" class="linker">Cost Analysis</span></span></li>
+<li><span><span goto="L2RlY2tzL3NlYXJjaA" class="linker">Advanced Search</span></span></li>
+<li><a href="/players">Best deckbuilders</a></li>
+<li class="dropdown-header">Articles</li>
+<li><a href="/articles"><img src="/img/logoSmall2.svg" width="20" alt="MTGdecks" data-pagespeed-url-hash="425135551" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)" /> MTG Articles</a></li>
+<li class="dropdown-header">Contribute to MTG Decks</li>
+<li>
+<span><span goto="L2V2ZW50cy9hZGQ" class="btn btn-sm btn-info linker" style="color:white;">Submit your event <span class="glyphicon glyphicon-chevron-right transparent"></span></span></span> <br/>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer src="/js/typeahead.bundle.min.js.pagespeed.jm.kNF28sk6nX.js" type="text/psajs" data-pagespeed-orig-index="8"></script>
+<script src="/js/bootstrap.min.js+custom.js+base64.min.js.pagespeed.jc.ad0-ykMWZc.js" type="text/psajs" data-pagespeed-orig-index="9"></script><script type="text/psajs" data-pagespeed-orig-index="10">eval(mod_pagespeed_ItsjHfSVxq);</script> <script type="text/psajs" data-pagespeed-orig-index="11">eval(mod_pagespeed_mqKjjurRp4);</script> <script type="text/psajs" data-pagespeed-orig-index="12">eval(mod_pagespeed__NM0abgfYF);</script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="13">var a='https://';var c='net';var b='mtgdecks';function mtgdecks(dir){document.location=a+b+'.'+c+'/'+dir+'/';}</script>
+<script type="text/psajs" data-pagespeed-orig-index="14">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-955231-6','auto');ga('send','pageview');</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XB47XKY0ZZ" type="text/psajs" data-pagespeed-orig-index="15"></script>
+<script type="text/psajs" data-pagespeed-orig-index="16">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-XB47XKY0ZZ');</script>
+<script pagespeed_no_defer data-pagespeed-no-defer defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;token&quot;: &quot;8120d1cd6d1a442b8d41b849e06765f9&quot;}"></script>
+<script data-pagespeed-orig-type="text/javascript" type="text/psajs" data-pagespeed-orig-index="17">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","cqjowuu4r7");</script>
+
+<script type="text/psajs" data-pagespeed-orig-index="18">!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');twq('config','ocsx9');</script>
+<link rel="preload" href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" as="style" data-pagespeed-onload="this.onload=null;this.rel='stylesheet'" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)">
+<noscript>
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css">
+</noscript>
+<script defer data-pagespeed-orig-type="text/javascript" src="https://cdn.ywxi.net/js/1.js" type="text/psajs" data-pagespeed-orig-index="19"></script>
+<script defer src="//images.dmca.com/Badges/DMCABadgeHelper.min.js" type="text/psajs" data-pagespeed-orig-index="20"></script>
+<script type="text/psajs" data-pagespeed-orig-index="21">
+		isBraveUA().then((result) => {
+			if (result) {
+				console.log("Brave detected");
+			} else {
+				console.log("Brave not detected");
+			}
+		});
+	</script>
+<script type="text/psajs" data-pagespeed-orig-index="22">function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"e9c298249aabec823dcfe49913db2ad2"})});</script>
+<script type="text/javascript" src="/pagespeed_static/js_defer.I4cHjq6EEP.js"></script><script>(function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'868d1fcd8cc8bfc1',t:'MTcxMTE4MzMwNS45MzEwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

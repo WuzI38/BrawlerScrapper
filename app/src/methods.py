@@ -130,4 +130,4 @@ def add_test(host: str = 'localhost', mtgdecks: bool = True):
     """
     dbh = dbh_init()
 
-    add_decks(handler=dbh, host=host, mtgdecks=mtgdecks, limit_days=1)
+    add_decks(handler=dbh, host=host, mtgdecks=mtgdecks, limit_days=1, print_page=True)

@@ -5,12 +5,25 @@ from bs4 import BeautifulSoup, Tag
 
 
 def get_aetherhub_decks(page_number: int) -> str:
+    """
+        Gets the page containing deck urls from aetherhub
+
+        Args:
+            page_number (int): The number of aetherhub deck page
+    """
     url = f'https://aetherhub.com/MTGA-Decks/Historic-Brawl/?p={page_number}'
     page = requests.get(url)
     return page.text
 
 
 def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
+    """
+        Creates a list of dictionaries for every commander's deck on a given page
+
+        Args:
+            page_text (int): The text of an aetherhub page
+            limit_days (int): Days between the day the deck was published and today
+    """
     soup = BeautifulSoup(page_text, 'html.parser')
     rows = soup.find_all('tr', class_='ae-tbody-deckrow')
 
@@ -45,11 +58,24 @@ def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
 
 
 def get_deck_data_aetherhub(page_number: int, limit_days: int = -1) -> list:
+    """
+        Invokes functions for scrapping and organizing the data
+
+        Args:
+            page_number (int): The number of mtgdecks deck page
+            limit_days (int): Days between the day the deck was published and today
+    """
     text = get_aetherhub_decks(page_number)
     return create_aetherhub_deck_list(text, limit_days)
 
 
 def get_mtgdecks_decks(page_number: int) -> str:
+    """
+        Gets the page containing deck urls from mtgdecks
+
+        Args:
+            page_number (int): The number of mtgdecks deck page
+    """
     url = f'https://mtgdecks.net/Historic-Brawl/decklists/page:{page_number}'
     session = requests.Session()
     headers = {
@@ -60,7 +86,14 @@ def get_mtgdecks_decks(page_number: int) -> str:
     return page.text
 
 
-def create_mtg_deck_list(page_text: str, limit_days: int = -1) -> list:
+def create_mtgdecks_deck_list(page_text: str, limit_days: int = -1) -> list:
+    """
+        Creates a list of dictionaries for every commander's deck on a given page
+
+        Args:
+            page_text (int): The text of the mtgdecks page
+            limit_days (int): Days between the day the deck was published and today
+    """
     soup = BeautifulSoup(page_text, 'html.parser')
 
     rows = soup.find_all('tr')
@@ -105,16 +138,36 @@ def create_mtg_deck_list(page_text: str, limit_days: int = -1) -> list:
 
 
 def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
+    """
+        Invokes functions for scrapping and organizing the data
+
+        Args:
+            page_number (int): The number of mtgdecks deck page
+            limit_days (int): Days between the day the deck was published and today
+    """
     text = get_mtgdecks_decks(page_number)
-    return create_mtg_deck_list(text, limit_days)
+    return create_mtgdecks_deck_list(text, limit_days)
 
 
 def get_single_deck_data_aetherhub(deck_url: str) -> str:
+    """
+        Gets the page containing single deck list (aetherhub)
+
+        Args:
+            deck_url (str): The page's url
+    """
     page = requests.get(deck_url)
     return page.text
 
 
 def create_aetherhub_single_deck_dict(page_text: str, replace_arena_only: bool = False) -> dict:
+    """
+        Creates a dictionary containing deck list from a page text (aetherhub)
+
+        Args:
+            page_text (str): The page's text
+            replace_arena_only (bool): Transforms arena only names to regular names
+    """
     soup = BeautifulSoup(page_text, 'html.parser')
 
     try:
@@ -123,6 +176,8 @@ def create_aetherhub_single_deck_dict(page_text: str, replace_arena_only: bool =
         commander_name = first_table.find('a').text.strip()
         second_table = soup.find_all('table')[1]
     except AttributeError:
+        return {}
+    except IndexError:
         return {}
 
     if h_tag is None or 'Commander' not in h_tag.text:
@@ -158,11 +213,24 @@ def create_aetherhub_single_deck_dict(page_text: str, replace_arena_only: bool =
 
 
 def get_deck_list_aetherhub(deck_url: str, replace_arena_only: bool = False) -> dict:
+    """
+        Invokes functions for scrapping and organizing the deck list data
+
+        Args:
+            deck_url (int): The page's url
+            replace_arena_only (int): Transforms arena only names to regular names
+    """
     text = get_single_deck_data_aetherhub(deck_url)
     return create_aetherhub_single_deck_dict(text, replace_arena_only)
 
 
 def get_single_deck_data_mtgdecks(deck_url: str) -> str:
+    """
+        Gets the page containing single deck list (mtgdecks)
+
+        Args:
+            deck_url (str): The page's url
+    """
     session = requests.Session()
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ' +
@@ -173,6 +241,13 @@ def get_single_deck_data_mtgdecks(deck_url: str) -> str:
 
 
 def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = False) -> dict:
+    """
+        Creates a dictionary containing deck list from a page text (mtgdecks)
+
+        Args:
+            page_text (str): The page's text
+            replace_arena_only (bool): Transforms arena only names to regular names
+    """
     soup = BeautifulSoup(page_text, 'html.parser')
 
     try:
@@ -183,6 +258,8 @@ def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = F
         sideboard_text = " ".join(sideboard_header.get_text().strip().split())
         commander_name = sideboard_table.find('a').text
     except AttributeError:
+        return {}
+    except IndexError:
         return {}
 
     if sideboard_text != 'Sideboard [1]':
@@ -212,13 +289,26 @@ def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = F
 
 
 def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> dict:
+    """
+        Invokes functions for scrapping and organizing the deck list data
+
+        Args:
+            deck_url (int): The page's url
+            replace_arena_only (int): Transforms arena only names to regular names
+    """
     text = get_single_deck_data_mtgdecks(deck_url)
     return create_mtgdecks_single_deck_dict(text, replace_arena_only)
 
 
-def is_number_after_dash(s: str) -> bool:
+def is_number_after_dash(url_string: str) -> bool:
+    """
+        Checks if the url contains commander id
+
+        Args:
+            url_string (str): Url of a decklist
+    """
     try:
-        substring = s.rsplit('-', 1)[-1]
+        substring = url_string.rsplit('-', 1)[-1]
         float(substring)
         return True
     except ValueError:
