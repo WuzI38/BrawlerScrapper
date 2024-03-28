@@ -103,6 +103,18 @@ class DBHandler:
     def cursor_set(self) -> bool:
         return self._cursor is not None
 
+    def empty_db(self):
+        """
+            Removes everything from database
+        """
+        try:
+            self._cursor.execute("DELETE FROM Decks WHERE commander_id > 0")
+            self._cursor.execute("DELETE FROM Commanders WHERE id > 0")
+            self._cursor.execute("DELETE FROM Cards WHERE id > 0")
+            self._cnx.commit()
+        except Exception as e:
+            print(f"Cannot reset database: {e}")
+
     def disconnect(self):
         self._cnx.close()
 
@@ -123,8 +135,8 @@ def get_database_config() -> tuple:
             host = config['database'].get('host', 'localhost')
             return user, password, name, host
     except FileNotFoundError:
-        pass
+        print("Config file not found")
     except KeyError:
-        pass
+        print("Wrong config key")
 
     return default_config

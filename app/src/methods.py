@@ -26,14 +26,16 @@ def scrap_single_page(page_number: int, mtgdecks: bool = True, limit_days: int =
     return data
 
 
-def extract_deck_data(deck: dict) -> tuple:
+def extract_deck_data(deck: dict, mtgdecks) -> tuple:
     """
         Extracts deck stats and link to decklist from a dictionary
 
         Args:
+            mtgdecks: True if the link leads to mtgdecks page
             deck (dict): Decks, data stored in dictionary
     """
     if not deck:
+        print("Deck data not found")
         return ()
 
     try:
@@ -41,11 +43,16 @@ def extract_deck_data(deck: dict) -> tuple:
         colors = deck["Colors"]
         wins = deck["Wins"]
         losses = deck["Losses"]
-        my_dict = get_deck_list_aetherhub(link)
+        if mtgdecks:
+            my_dict = get_deck_list_mtgdecks(link)
+        else:
+            my_dict = get_deck_list_aetherhub(link)
 
         if not my_dict:
+            print("Decklist not found")
             return ()
     except KeyError:
+        print("Wrong deck key")
         return ()
 
     value_list = list(my_dict.values())
@@ -98,3 +105,12 @@ def dbh_init() -> DBHandler:
     dbh.connect(database=database_name, user=user, password=password, host=host)
 
     return dbh
+
+
+def dbh_empty():
+    """
+        Removes all data from the database
+    """
+    dbh = dbh_init()
+    dbh.empty_db()
+    dbh.disconnect()
