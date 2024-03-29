@@ -31,16 +31,18 @@ def add_recent():
     dbh.disconnect()
 
 
-def add_test(mtgdecks: bool = True):
+def add_test(mtgdecks: bool = True, page_number: int = 1, custom_page: str = ''):
     """
         Scraps data from first page only
 
         Args:
+            custom_page (str): Custom page url ending with /page:
+            page_number (int): Custom page number
             mtgdecks (int): If True uses mtgdecks as a source (default)
     """
     dbh = dbh_init()
 
-    data = scrap_single_page(page_number=1, mtgdecks=mtgdecks)
+    data = scrap_single_page(page_number=page_number, mtgdecks=mtgdecks, custom_page=custom_page)
     if not data:
         dbh.disconnect()
         return

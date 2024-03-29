@@ -60,6 +60,8 @@ def create_aetherhub_deck_list(page_text: str, limit_days: int = -1):
             deck['Losses'] = win_loss[1].split()[0]
 
             deck_data.append(deck)
+    except TypeError:
+        pass
     except Exception as e:
         print(f'Parsing error occurred: {e.args}')
 
@@ -78,14 +80,18 @@ def get_deck_data_aetherhub(page_number: int, limit_days: int = -1) -> list:
     return create_aetherhub_deck_list(text, limit_days)
 
 
-def get_mtgdecks_decks(page_number: int) -> str:
+def get_mtgdecks_decks(page_number: int, custom_page: str = '') -> str:
     """
         Gets the page containing deck urls from mtgdecks
 
         Args:
+            custom_page (str): Custom page url
             page_number (int): The number of mtgdecks deck page
     """
-    url = f'https://mtgdecks.net/Historic-Brawl/decklists/page:{page_number}'
+    if custom_page == '':
+        url = f'https://mtgdecks.net/Historic-Brawl/decklists/page:{page_number}'
+    else:
+        url = custom_page
     session = requests.Session()
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ' +
@@ -142,21 +148,24 @@ def create_mtgdecks_deck_list(page_text: str, limit_days: int = -1) -> list:
             deck['Losses'] = 0
 
             deck_info_list.append(deck)
+        except TypeError:
+            pass
         except Exception as e:
             print(f'Parsing error occurred: {e.args}')
 
     return deck_info_list
 
 
-def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1) -> list:
+def get_deck_data_mtgdecks(page_number: int, limit_days: int = -1, custom_page: str = '') -> list:
     """
         Invokes functions for scrapping and organizing the data
 
         Args:
+            custom_page (str): Custom page url
             page_number (int): The number of mtgdecks deck page
             limit_days (int): Days between the day the deck was published and today
     """
-    text = get_mtgdecks_decks(page_number)
+    text = get_mtgdecks_decks(page_number, custom_page=custom_page)
     return create_mtgdecks_deck_list(text, limit_days)
 
 
@@ -232,7 +241,7 @@ def get_deck_list_aetherhub(deck_url: str, replace_arena_only: bool = False) -> 
             replace_arena_only (int): Transforms arena only names to regular names
     """
     text = get_single_deck_data_aetherhub(deck_url)
-    return create_aetherhub_single_deck_dict(text, replace_arena_only)
+    return create_aetherhub_single_deck_dict(text, replace_arena_only=replace_arena_only)
 
 
 def get_single_deck_data_mtgdecks(deck_url: str) -> str:
@@ -251,7 +260,7 @@ def get_single_deck_data_mtgdecks(deck_url: str) -> str:
     return page.text
 
 
-def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = False) -> dict:
+def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: bool = False) -> dict:
     """
         Creates a dictionary containing deck list from a page text (mtgdecks)
 
@@ -299,7 +308,7 @@ def create_mtgdecks_single_deck_dict(page_text: str, replace_arena_only: str = F
     return {'Commander': commander_name, 'Decklist': decklist}
 
 
-def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> dict:
+def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: bool = False) -> dict:
     """
         Invokes functions for scrapping and organizing the deck list data
 
@@ -308,7 +317,7 @@ def get_deck_list_mtgdecks(deck_url: str, replace_arena_only: str = False) -> di
             replace_arena_only (int): Transforms arena only names to regular names
     """
     text = get_single_deck_data_mtgdecks(deck_url)
-    return create_mtgdecks_single_deck_dict(text, replace_arena_only)
+    return create_mtgdecks_single_deck_dict(text, replace_arena_only=replace_arena_only)
 
 
 def is_number_after_dash(url_string: str) -> bool:

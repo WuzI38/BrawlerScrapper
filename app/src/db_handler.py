@@ -25,7 +25,7 @@ class DBHandler:
 
         self._cnx = mysql.connector.connect(user=user, password=password,
                                             host=host, database=database)
-        self._cursor = self._cnx.cursor()
+        self._cursor = self._cnx.cursor(buffered=True)
 
     def insert_new_card(self, card_name: str):
         """
@@ -67,6 +67,7 @@ class DBHandler:
                 (wins, losses, commander_id[0]))
             self._cnx.commit()
         else:
+            print(f"Trying to insert {commander_name}")
             self.insert_new_card(commander_name)
             self._cursor.execute("SELECT id FROM Cards WHERE name = %s", (commander_name,))
             card_id = self._cursor.fetchone()

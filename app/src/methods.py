@@ -1,22 +1,23 @@
 from app.src.url_scrapper import *
 from app.src.db_handler import DBHandler, get_database_config
-from traceback import format_exc
+from mysql.connector import InternalError
 
 
-def scrap_single_page(page_number: int, mtgdecks: bool = True, limit_days: int = -1) -> list:
+def scrap_single_page(page_number: int, mtgdecks: bool = True, limit_days: int = -1, custom_page: str = '') -> list:
     """
         Scraps single page from given source
 
         Args:
+            custom_page: (str): Custom page url (mtgdecks only)
             page_number (int): The number of the chosen page
             mtgdecks (bool): If true choose mtgdecks, else choose aetherhub
             limit_days (int): Scraps only data not older than limit_days, if mtgdecks is false max limit is one month
     """
     if mtgdecks:
         if limit_days > 0:
-            data = get_deck_data_mtgdecks(page_number=page_number, limit_days=limit_days)
+            data = get_deck_data_mtgdecks(page_number=page_number, limit_days=limit_days, custom_page=custom_page)
         else:
-            data = get_deck_data_mtgdecks(page_number=page_number)
+            data = get_deck_data_mtgdecks(page_number=page_number, custom_page=custom_page)
     else:
         if limit_days > 0:
             data = get_deck_data_aetherhub(page_number=page_number, limit_days=limit_days)
@@ -26,12 +27,12 @@ def scrap_single_page(page_number: int, mtgdecks: bool = True, limit_days: int =
     return data
 
 
-def extract_deck_data(deck: dict, mtgdecks) -> tuple:
+def extract_deck_data(deck: dict, mtgdecks: bool) -> tuple:
     """
         Extracts deck stats and link to decklist from a dictionary
 
         Args:
-            mtgdecks: True if the link leads to mtgdecks page
+            mtgdecks (bool): True if the link leads to mtgdecks page
             deck (dict): Decks, data stored in dictionary
     """
     if not deck:
@@ -86,12 +87,10 @@ def add_deck_to_db(handler: DBHandler, value_list: list, colors: str, wins: int,
                 handler.add_card_to_commander(card_name=card, commander_name=commander_name)
                 if print_info:
                     print(f'Card added: {card}')
+        except InternalError:
+            print(f"Internal error occurred")
         except Exception as e:
-            with open('logs.txt', 'a') as f:
-                now = datetime.now()
-                current_time = now.strftime("%d-%m-%Y %H:%M:%S")
-                f.write(f'\n{current_time} - Error occurred: {str(e)}\n')
-                f.write(format_exc())
+            print(f"Error occurred: {str(e)}")
 
 
 def dbh_init() -> DBHandler:
