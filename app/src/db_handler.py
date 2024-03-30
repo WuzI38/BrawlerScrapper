@@ -21,7 +21,7 @@ class DBHandler:
                 password (str): Database password
         """
         if user == '' or password == '' or database == '':
-            user, password, database, _ = get_database_config()
+            user, password, database, host = get_database_config()
 
         self._cnx = mysql.connector.connect(user=user, password=password,
                                             host=host, database=database)
