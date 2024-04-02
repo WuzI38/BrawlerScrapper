@@ -1,5 +1,5 @@
 # BrawlerScrapper
-![example workflow](https://github.com/WuzI38/BuildingInfo/actions/workflows/ci.yml/badge.svg)
+![example workflow](https://github.com/WuzI38/BrawlerScrapper/actions/workflows/ci.yml/badge.svg)
 
 This project aims to collect data on Magic: The Gathering (MTG) decks in the Brawl format using the services of aetherhub.com and mtgdecks.net.
 
