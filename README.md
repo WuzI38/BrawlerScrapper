@@ -27,3 +27,14 @@ password = root
 name = Brawler
 host = localhost
 ```
+
+## Docker
+
+To utilize Docker in this project, follow these steps:
+
+- `docker build -t brawler-scrapper .`: Open the terminal inside the project directory to create the Docker image. This command will build an image named `brawler-scrapper` based on the instructions in the Dockerfile.
+- `docker run --name brawler-run -p 80:80 -it brawler-scrapper`: Run a container based on the created image. This command will start a container named `brawler-run`, mapping the container’s port 80 to the host’s port 80. This should automatically start the `run.py` script.
+
+Additionally, set `host = host.docker.internal` inside `config/config.ini`
+
+Please note that this assumes you have a MySQL service running on localhost.
