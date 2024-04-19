@@ -3,6 +3,7 @@ from app.src.api_handler import get_card_info
 from mysql.connector import errorcode
 from time import sleep
 from configparser import ConfigParser
+import os
 
 
 class DBHandler:
@@ -101,6 +102,120 @@ class DBHandler:
                         (commander_id[0], card_id[0]))
                     self._cnx.commit()
 
+    def get_popular_commanders(self, limit: int) -> list:
+        """
+            Returns the top X popular commanders
+
+            Args:
+                limit (int): The number of commanders to return
+        """
+        self._cursor.execute(
+            "SELECT c.name, c.image FROM Commanders com JOIN Cards c ON com.card_id = c.id "
+            "ORDER BY com.decks DESC LIMIT %s",
+            (limit,))
+        commanders = self._cursor.fetchall()
+        return commanders
+
+    def get_best_winrate_commanders(self, limit: int) -> list:
+        """
+            Returns the top X commanders with the best win rate
+
+            Args:
+                limit (int): The number of commanders to return
+        """
+        self._cursor.execute(
+            "SELECT c.name, c.image "
+            "FROM Commanders com JOIN Cards c ON com.card_id = c.id "
+            "WHERE com.wins > 0 AND com.losses > 0 "
+            "ORDER BY com.wins/com.losses DESC LIMIT %s",
+            (limit,))
+        commanders = self._cursor.fetchall()
+        return commanders
+
+    def get_popular_cards(self, limit: int) -> list:
+        """
+            Returns the top X popular cards
+
+            Args:
+                limit (int): The number of cards to return
+        """
+        self._cursor.execute(
+            "SELECT c.name, c.image FROM Decks d JOIN Cards c ON d.card_id = c.id GROUP BY c.id "
+            "ORDER BY SUM(d.card_count) DESC LIMIT %s",
+            (limit,))
+        cards = self._cursor.fetchall()
+        return cards
+
+    def get_commanders_by_color(self, colors: str) -> list:
+        """
+            Returns all commanders of a given color
+
+            Args:
+                colors (str): The colors of the commanders to return
+        """
+        self._cursor.execute(
+            "SELECT com.id, c.name, c.image FROM Commanders com JOIN Cards c ON "
+            "com.card_id = c.id WHERE com.colors = %s ORDER BY com.decks DESC",
+            (colors,))
+        commanders = self._cursor.fetchall()
+        return commanders
+
+    def get_commander_cards(self, commander_id: int, card_type: str, percent: float, low: int, high: int) -> list:
+        """
+            Returns a certain percentage of cards of a given type for a given commander,
+            but not less than a specified lower limit and not more than a specified upper limit.
+
+            Args:
+                commander_id (int): The ID of the commander
+                card_type (str): The type of the cards
+                percent (float): The percentage of cards to return
+                low (int): The minimum number of cards to return
+                high (int): The maximum number of cards to return
+        """
+        # Get all cards of the given type for the given commander
+        self._cursor.execute(
+            "SELECT c.name, c.image FROM Decks d JOIN Cards c ON d.card_id = c.id "
+            "WHERE d.commander_id = %s AND c.type = %s ORDER BY d.card_count DESC",
+            (commander_id, card_type))
+        cards = self._cursor.fetchall()
+
+        low = max(low, 0)
+        high = min(high, 50)
+        if not 0 < percent <= 1:
+            percent = 0.6
+
+        cl = len(cards)
+
+        num_cards = min(cl, max(min(int(cl * percent), high), low))
+
+        return cards[:num_cards]
+
+    def get_card_types(self) -> list:
+        """
+
+        Returns: List of legal card types
+
+        """
+        self._cursor.execute("SELECT type FROM cards GROUP BY type")
+        types = self._cursor.fetchall()
+
+        types = [t[0] for t in types]
+
+        return types
+
+    def get_colors(self) -> list:
+        """
+
+        Returns: List of possible color combinations
+
+        """
+        self._cursor.execute("SELECT colors FROM commanders GROUP BY colors")
+        colors = self._cursor.fetchall()
+
+        colors = [t[0] for t in colors]
+        letter_order = {'w': '1', 'u': '2', 'b': '3', 'r': '4', 'g': '5', 'c': '6'}
+        return sorted(colors, key=lambda x: (len(x), int(''.join(letter_order[ch] for ch in x))))
+
     def cursor_set(self) -> bool:
         return self._cursor is not None
 
@@ -127,7 +242,16 @@ def get_database_config() -> tuple:
     default_config = ('root', 'root', 'Brawler', 'localhost')
     try:
         config = ConfigParser()
-        config.read('config/config.ini')
+        cwd = os.getcwd()
+
+        if os.path.basename(cwd) == 'database':
+            config_path = os.path.join(cwd, '..', '..', 'config', 'config.ini')
+        else:
+            config_path = os.path.join(cwd, 'config', 'config.ini')
+
+        config_path = os.path.normpath(config_path)
+
+        config.read(config_path)
 
         if 'database' in config:
             user = config['database'].get('user', 'root')
@@ -139,5 +263,7 @@ def get_database_config() -> tuple:
         print("Config file not found")
     except KeyError:
         print("Wrong config key")
+
+    print('xd')
 
     return default_config

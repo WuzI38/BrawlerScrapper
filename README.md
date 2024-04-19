@@ -9,12 +9,13 @@ This project aims to collect data on Magic: The Gathering (MTG) decks in the Bra
 
 ## Scripts
 
-- `run.py`: This script adds to the database the decks created on the current day.
-- `app/fill_database.py`: This script initializes the database using a portion of the decks registered on the services that were created in the last 3 years.
+- `run.py`: Flask API used as a back-end for client application. Default host and port can be modified and are set to 0.0.0.0 and 2138 by default
+- `database/run.py`: This script adds to the database the decks created on the current day.
+- `database/fill_database.py`: This script initializes the database using a portion of the decks registered on the services that were created in the last 3 years.
 
 ## Database
 
-The project requires an SQL database to function properly. A script for creating the database (`db_create.sql`) will be included in the repository.
+The project requires an SQL database to function properly. A script for creating the database (`database/db_create.sql`) will be included in the repository.
 
 ## Configuration
 
@@ -32,8 +33,8 @@ host = localhost
 
 To utilize Docker in this project, follow these steps:
 
-- `docker build -t brawler-scrapper .`: Open the terminal inside the project directory to create the Docker image. This command will build an image named `brawler-scrapper` based on the instructions in the Dockerfile.
-- `docker run --name brawler-run -p 80:80 -it brawler-scrapper`: Run a container based on the created image. This command will start a container named `brawler-run`, mapping the container’s port 80 to the host’s port 80. This should automatically start the `run.py` script.
+- `docker build -t brawler_api .`: Open the terminal inside the project directory to create the Docker image. This command will build an image named `brawler_api` based on the instructions in the Dockerfile.
+- `docker run -p 2138:2138 -d brawler_api`: Run a container based on the created image. This command will start a container, mapping the container’s port 2138 to the host’s port 2138. This should automatically start the `run.py` script.
 
 Additionally, set `host = host.docker.internal` inside `config/config.ini`
 
